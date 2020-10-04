@@ -1,0 +1,16 @@
+---
+maximum_intergenic_space: 4
+minimum_core: 5
+minimum_total: 5
+
+core_genes:
+  - JetA
+  - JetB
+  - JetC
+  - JetD
+  - Wap1
+other_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

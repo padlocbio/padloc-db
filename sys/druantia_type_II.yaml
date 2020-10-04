@@ -1,0 +1,19 @@
+---
+maximum_intergenic_space: 4
+minimum_core: 4
+minimum_total: 4
+
+core_genes:
+  - DruM
+  - DruF
+  - DruG
+  - DruE
+other_genes:
+  - NA
+prohibited_genes:
+  - DruA
+  - DruB
+  - DruC
+  - DruD
+  - DruH
+...

@@ -1,0 +1,15 @@
+---
+maximum_intergenic_space: 4
+minimum_core: 4
+minimum_total: 4
+
+core_genes:
+  - Cyclase
+  - Effector
+  - E1-E2
+  - JAB
+other_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

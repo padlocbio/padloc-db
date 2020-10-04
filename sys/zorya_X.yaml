@@ -1,0 +1,16 @@
+---
+maximum_intergenic_space: 4
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - ZorA
+  - ZorB
+  - ZorC
+  - ZorD
+  - ZorE
+other_genes:
+  - NA
+prohibited_genes:
+  - NA
+...
