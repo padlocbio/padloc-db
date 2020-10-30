@@ -1,5 +1,5 @@
 ---
-maximum_intergenic_space: 1
+maximum_separation: 0 
 minimum_core: 1
 minimum_total: 1
 
