@@ -1,29 +1,28 @@
 SY	TY	YN	SR	CC
-Druantia	"type I"	druantia_type_I	T	"Druantia type I"
-Druantia	"type II"	druantia_type_II	T	"Druantia type II"
-Druantia	"type III"	druantia_type_III	T	"Druantia type III"
-Druantia	loose	druantia_X	T	"Druantia loose"
-Gabija	canonical	gabija	T	"Gabija canonical"
-Hachiman	canonical	hachiman	T	"Hachiman canonical"
-Hachiman	"variant I"	hachiman_var_I	T	"Hachiman variant I"
-Kiwa	canonical	kiwa	T	"Kiwa canonical"
-Lamassu	canonical	lamassu	T	"Lamassu canonical"
-Lamassu	"variant I"	lamassu_var_I	T	"Lamassu variant I"
-Septu	canonical	septu	T	"Septu canonical"
-Septu	"variant I"	septu_var_I	T	"Septu variant I"
-Shedu	canonical	shedu	T	"Shedu canonical I"
-Thoeris	loose	thoeris	T	"Thoeris canonical"
-Wadjet	canonical	wadjet	T	"Wadjet canonical"
-Wadjet	loose	wadjet_X	T	"Wadjet loose"
-Wadjet	"variant I"	wadjet_var_I	T	"Wadjet variant I"
-Zorya	"type I"	zorya_type_I	T	"Zorya type I"
-Zorya	"type II"	zorya_type_II	T	"Zorya type II"
-Zorya	loose	zorya_X	T	"Zorya loose"
-Zorya	"variant I"	zorya_var_I	T	"Zorya variant I"
-Zorya	"variant II"	zorya_var_II	T	"Zorya variant I"
-CBASS	"type I"	cbass_type_I	T	"CBASS type I"
-CBASS	"type II"	cbass_type_II	T	"CBASS type II"
-CBASS	"type IIs"	cbass_type_IIs	T	"CBASS type IIs"
-CBASS	"type III"	cbass_type_III	T	"CBASS type III"
-CBASS	"type IV"	cbass_type_IV	T	"CBASS type IV"
-CBASS	loose	cbass_X	T	"CBASS loose"
+Druantia	type I	druantia_type_I	T	Druantia type I
+Druantia	type II	druantia_type_II	T	Druantia type II
+Druantia	type III	druantia_type_III	T	Druantia type III
+Druantia	loose	druantia_X	T	Druantia loose
+Gabija	canonical	gabija	T	Gabija canonical
+Hachiman	canonical	hachiman	T	Hachiman canonical
+Hachiman	variant I	hachiman_var_I	T	Hachiman variant I
+Kiwa	canonical	kiwa	T	Kiwa canonical
+Lamassu	canonical	lamassu	T	Lamassu canonical
+Lamassu	variant I	lamassu_var_I	T	Lamassu variant I
+Septu	canonical	septu	T	Septu canonical
+Septu	variant I	septu_var_I	T	Septu variant I
+Shedu	canonical	shedu	T	Shedu canonical I
+Thoeris	loose	thoeris	T	Thoeris canonical
+Wadjet	canonical	wadjet	T	Wadjet canonical
+Wadjet	loose	wadjet_X	T	Wadjet loose
+Wadjet	variant I	wadjet_var_I	T	Wadjet variant I
+Zorya	type I	zorya_type_I	T	Zorya type I
+Zorya	type II	zorya_type_II	T	Zorya type II
+Zorya	loose	zorya_X	T	Zorya loose
+Zorya	variant I	zorya_var_I	T	Zorya variant I
+CBASS	type I	cbass_type_I	T	CBASS type I
+CBASS	type II	cbass_type_II	T	CBASS type II
+CBASS	type IIs	cbass_type_IIs	T	CBASS type IIs
+CBASS	type III	cbass_type_III	T	CBASS type III
+CBASS	type IV	cbass_type_IV	T	CBASS type IV
+CBASS	loose	cbass_X	T	CBASS loose

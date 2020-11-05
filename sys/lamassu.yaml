@@ -9,5 +9,5 @@ core_genes:
 other_genes:
   - NA
 prohibited_genes:
-  - NA
+  - Lap1
 ...
