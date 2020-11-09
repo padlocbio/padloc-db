@@ -1,4 +1,4 @@
-AC	ID	DE	PN	SI	AU	NS	LE	ET	HC	TC	SY	LR	DR	CC
+hmm.accession	hmm.name	hmm.description	protein.name	secondary.name	author	hmm.nseq	hmm.length	e.val.threshold	hmm.coverage.threshold	target.coverage.threshold	system	literature.ref	database.ref	comments
 PDLC00001	DruA_00001	Unknown function	DruA		Payne LJ	10	674	0.00001	0.3	0.3	Druantia	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00002	DruA_00002	Unknown function	DruA		Payne LJ	31	405	0.00001	0.3	0.3	Druantia	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00003	DruB_00001	Unknown function	DruB		Payne LJ	9	479	0.00001	0.3	0.3	Druantia	10/ggqhzm	"Doron et al., 2018"	NA
@@ -477,38 +477,38 @@ PDLC00475	PtuB_00044	HNH endonuclease	PtuB		Payne LJ	58	222	0.00001	0.3	0.3	Sept
 PDLC00476	PtuB_00045	HNH endonuclease	PtuB		Payne LJ	81	211	0.00001	0.3	0.3	Septu	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00477	PtuB_00046	HNH endonuclease	PtuB		Payne LJ	5	214	0.00001	0.3	0.3	Septu	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00478	Sap1_00001	Putative reverse transcriptase	Sap1		Payne LJ	76	312	0.00001	0.3	0.3	Septu			NA
-PDLC00479	SduA_00001	Nuclease	SduA		Payne LJ	7	457	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00480	SduA_00002	Nuclease	SduA		Payne LJ	5	383	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00481	SduA_00003	Nuclease	SduA		Payne LJ	6	402	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00482	SduA_00004	Nuclease	SduA		Payne LJ	48	479	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00483	SduA_00005	Nuclease	SduA		Payne LJ	28	480	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00484	SduA_00006	Nuclease	SduA		Payne LJ	7	342	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00485	SduA_00007	Nuclease	SduA		Payne LJ	13	336	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00486	SduA_00008	Nuclease	SduA		Payne LJ	11	319	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00487	SduA_00009	Nuclease	SduA		Payne LJ	22	268	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00488	SduA_00010	Nuclease	SduA		Payne LJ	9	541	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00489	SduA_00011	Nuclease	SduA		Payne LJ	6	339	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00490	SduA_00012	Nuclease	SduA		Payne LJ	54	405	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00491	SduA_00013	Nuclease	SduA		Payne LJ	7	387	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00492	SduA_00014	Nuclease	SduA		Payne LJ	7	455	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00493	SduA_00015	Nuclease	SduA		Payne LJ	11	285	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00494	SduA_00016	Nuclease	SduA		Payne LJ	59	392	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00495	SduA_00017	Nuclease	SduA		Payne LJ	12	270	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00496	SduA_00018	Nuclease	SduA		Payne LJ	9	212	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00497	SduA_00019	Nuclease	SduA		Payne LJ	5	230	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00498	SduA_00020	Nuclease	SduA		Payne LJ	7	227	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00499	SduA_00021	Nuclease	SduA		Payne LJ	10	378	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00500	SduA_00022	Nuclease	SduA		Payne LJ	5	403	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00501	SduA_00023	Nuclease	SduA		Payne LJ	9	408	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00502	SduA_00024	Nuclease	SduA		Payne LJ	8	289	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00503	SduA_00025	Nuclease	SduA		Payne LJ	7	375	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00504	SduA_00026	Nuclease	SduA		Payne LJ	6	308	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00505	SduA_00027	Nuclease	SduA		Payne LJ	12	211	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00506	SduA_00028	Nuclease	SduA		Payne LJ	20	404	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00507	SduA_00029	Nuclease	SduA		Payne LJ	15	353	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00508	SduA_00030	Nuclease	SduA		Payne LJ	27	360	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00509	SduA_00031	Nuclease	SduA		Payne LJ	6	323	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00510	SduA_00032	Nuclease	SduA		Payne LJ	8	326	0.00001	0.3	0.3	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00479	SduA_00001	Nuclease	SduA		Payne LJ	7	457	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00480	SduA_00002	Nuclease	SduA		Payne LJ	5	383	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00481	SduA_00003	Nuclease	SduA		Payne LJ	6	402	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00482	SduA_00004	Nuclease	SduA		Payne LJ	48	479	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00483	SduA_00005	Nuclease	SduA		Payne LJ	28	480	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00484	SduA_00006	Nuclease	SduA		Payne LJ	7	342	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00485	SduA_00007	Nuclease	SduA		Payne LJ	13	336	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00486	SduA_00008	Nuclease	SduA		Payne LJ	11	319	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00487	SduA_00009	Nuclease	SduA		Payne LJ	22	268	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00488	SduA_00010	Nuclease	SduA		Payne LJ	9	541	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00489	SduA_00011	Nuclease	SduA		Payne LJ	6	339	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00490	SduA_00012	Nuclease	SduA		Payne LJ	54	405	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00491	SduA_00013	Nuclease	SduA		Payne LJ	7	387	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00492	SduA_00014	Nuclease	SduA		Payne LJ	7	455	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00493	SduA_00015	Nuclease	SduA		Payne LJ	11	285	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00494	SduA_00016	Nuclease	SduA		Payne LJ	59	392	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00495	SduA_00017	Nuclease	SduA		Payne LJ	12	270	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00496	SduA_00018	Nuclease	SduA		Payne LJ	9	212	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00497	SduA_00019	Nuclease	SduA		Payne LJ	5	230	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00498	SduA_00020	Nuclease	SduA		Payne LJ	7	227	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00499	SduA_00021	Nuclease	SduA		Payne LJ	10	378	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00500	SduA_00022	Nuclease	SduA		Payne LJ	5	403	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00501	SduA_00023	Nuclease	SduA		Payne LJ	9	408	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00502	SduA_00024	Nuclease	SduA		Payne LJ	8	289	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00503	SduA_00025	Nuclease	SduA		Payne LJ	7	375	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00504	SduA_00026	Nuclease	SduA		Payne LJ	6	308	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00505	SduA_00027	Nuclease	SduA		Payne LJ	12	211	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00506	SduA_00028	Nuclease	SduA		Payne LJ	20	404	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00507	SduA_00029	Nuclease	SduA		Payne LJ	15	353	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00508	SduA_00030	Nuclease	SduA		Payne LJ	27	360	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00509	SduA_00031	Nuclease	SduA		Payne LJ	6	323	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00510	SduA_00032	Nuclease	SduA		Payne LJ	8	326	1.00E-25	0.5	0.5	Shedu	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00511	ThsA_00001	Sir2/Macro domain (NAD binding)	ThsA		Payne LJ	8	297	0.00001	0.3	0.3	Thoeris	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00512	ThsA_00002	Sir2/Macro domain (NAD binding)	ThsA		Payne LJ	152	478	0.00001	0.3	0.3	Thoeris	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00513	ThsA_00003	Sir2/Macro domain (NAD binding)	ThsA		Payne LJ	14	292	0.00001	0.3	0.3	Thoeris	10/ggqhzm	"Doron et al., 2018"	NA
