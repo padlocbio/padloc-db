@@ -1,4 +1,4 @@
-hmm.accession	hmm.name	hmm.description	protein.name	secondary.name	author	hmm.nseq	hmm.length	e.val.threshold	hmm.coverage.threshold	target.coverage.threshold	system	literature.ref	database.ref	comments
+hmm.accession	hmm.name	hmm.description	protein.name	secondary.name	author	hmm.nseq	hmm.length	e.val.threshold	hmm.coverage.threshold	target.coverage.threshold	system	literature.ref	database.ref	comment
 PDLC00001	DruA_00001	Unknown function	DruA		Payne LJ	10	674	0.00001	0.3	0.3	Druantia	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00002	DruA_00002	Unknown function	DruA		Payne LJ	31	405	0.00001	0.3	0.3	Druantia	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00003	DruB_00001	Unknown function	DruB		Payne LJ	9	479	0.00001	0.3	0.3	Druantia	10/ggqhzm	"Doron et al., 2018"	NA

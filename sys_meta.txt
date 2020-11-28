@@ -1,4 +1,4 @@
-system	type	yaml.name	search	comments
+system	type	yaml.name	search	comment
 Druantia	type I	druantia_type_I	T	Druantia type I
 Druantia	type II	druantia_type_II	T	Druantia type II
 Druantia	type III	druantia_type_III	T	Druantia type III
