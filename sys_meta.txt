@@ -2,7 +2,7 @@ system	type	yaml.name	search	comment
 Druantia	type I	druantia_type_I	T	Druantia type I
 Druantia	type II	druantia_type_II	T	Druantia type II
 Druantia	type III	druantia_type_III	T	Druantia type III
-Druantia	loose	druantia_other	T	Druantia loose
+Druantia	other	druantia_other	T	Druantia other
 Gabija	canonical	gabija	T	Gabija canonical
 Hachiman	canonical	hachiman	T	Hachiman canonical
 Hachiman	variant I	hachiman_var_I	T	Hachiman variant I
@@ -12,17 +12,23 @@ Lamassu	variant I	lamassu_var_I	T	Lamassu variant I
 Septu	canonical	septu	T	Septu canonical
 Septu	variant I	septu_var_I	T	Septu variant I
 Shedu	canonical	shedu	T	Shedu canonical I
-Thoeris	loose	thoeris	T	Thoeris canonical
-Wadjet	canonical	wadjet	T	Wadjet canonical
-Wadjet	loose	wadjet_other	T	Wadjet loose
+Thoeris	other	thoeris	T	Thoeris canonical
+Wadjet	type I	wadjet_type_I	T	Wadjet type I
+Wadjet	type IIa	wadjet_type_IIa	T	Wadjet type IIa
+Wadjet	type IIb	wadjet_type_IIb	T	Wadjet type IIb
+Wadjet	type IIIa	wadjet_type_IIIa	T	Wadjet type IIIa
+Wadjet	type IIIb	wadjet_type_IIIb	T	Wadjet type IIIb
+Wadjet	type IV	wadjet_type_IV	T	Wadjet type IV
+Wadjet	type V	wadjet_type_V	T	Wadjet type V
+Wadjet	other	wadjet_other	T	Wadjet other
 Wadjet	variant I	wadjet_var_I	T	Wadjet variant I
 Zorya	type I	zorya_type_I	T	Zorya type I
 Zorya	type II	zorya_type_II	T	Zorya type II
-Zorya	loose	zorya_other	T	Zorya loose
+Zorya	other	zorya_other	T	Zorya other
 Zorya	variant I	zorya_var_I	T	Zorya variant I
 CBASS	type I	cbass_type_I	T	CBASS type I
 CBASS	type II	cbass_type_II	T	CBASS type II
 CBASS	type IIs	cbass_type_IIs	T	CBASS type IIs
 CBASS	type III	cbass_type_III	T	CBASS type III
 CBASS	type IV	cbass_type_IV	T	CBASS type IV
-CBASS	loose	cbass_other	T	CBASS loose
+CBASS	other	cbass_other	T	CBASS other

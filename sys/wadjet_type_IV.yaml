@@ -4,12 +4,12 @@ minimum_core: 4
 minimum_total: 4
 
 core_genes:
-  - JetA
-  - JetB
-  - JetC
-  - JetD
+  - JetA4
+  - JetB4
+  - JetC4
+  - JetD4
 other_genes:
-  - NA
+  - WYL
 prohibited_genes:
-  - Wap1
+  - NA
 ...

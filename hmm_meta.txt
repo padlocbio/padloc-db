@@ -263,43 +263,43 @@ PDLC00261	JetB_00051	Unknown function	JetB1		Payne LJ	111	197	0.00001	0.3	0.3	Wa
 PDLC00262	JetB_00052	Unknown function	JetB1		Payne LJ	29	230	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00263	JetB_00053	Unknown function	JetB1		Payne LJ	6	281	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00264	JetC_00001	"ATP binding domain, putative exonuclease SbcC"	JetC2b		Payne LJ	68	1105	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00265	JetC_00002	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	138	1124	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00265	JetC_00002	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	138	1124	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00266	JetC_00003	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	7	1454	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00267	JetC_00004	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	6	1083	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00268	JetC_00005	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	51	1142	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00267	JetC_00004	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	6	1083	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00268	JetC_00005	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	51	1142	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00269	JetC_00006	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	27	1067	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00270	JetC_00007	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	28	1473	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00271	JetC_00008	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	30	1215	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00272	JetC_00009	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	38	1112	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00273	JetC_00010	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	13	1106	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00274	JetC_00011	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	25	1122	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00271	JetC_00008	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	30	1215	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00272	JetC_00009	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	38	1112	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00273	JetC_00010	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	13	1106	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00274	JetC_00011	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	25	1122	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00275	JetC_00012	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	33	1471	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00276	JetC_00013	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	27	1475	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00277	JetC_00014	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	5	1485	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00278	JetC_00015	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	7	1093	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00279	JetC_00016	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	52	1117	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00280	JetC_00017	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	48	1104	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00278	JetC_00015	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	7	1093	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00279	JetC_00016	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	52	1117	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00280	JetC_00017	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	48	1104	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00281	JetC_00018	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	8	1486	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00282	JetC_00019	"ATP binding domain, putative exonuclease SbcC"	JetC2b		Payne LJ	13	1355	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00283	JetC_00020	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	35	1150	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00283	JetC_00020	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	35	1150	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00284	JetC_00021	"ATP binding domain, putative exonuclease SbcC"	JetC2b		Payne LJ	72	1365	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00285	JetC_00022	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	18	1494	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00286	JetC_00023	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	5	1457	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00287	JetC_00024	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	18	1483	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00288	JetC_00025	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	31	1119	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00288	JetC_00025	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	31	1119	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00289	JetC_00026	"ATP binding domain, putative exonuclease SbcC"	JetC2b		Payne LJ	5	1365	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00290	JetC_00027	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	18	1145	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00291	JetC_00028	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	142	1362	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00292	JetC_00029	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	19	1214	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00293	JetC_00030	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	27	1149	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00290	JetC_00027	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	18	1145	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00291	JetC_00028	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	142	1362	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00292	JetC_00029	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	19	1214	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00293	JetC_00030	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	27	1149	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00294	JetC_00031	"ATP binding domain, putative exonuclease SbcC"	JetC3|JetC5		Payne LJ	20	1478	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00295	JetC_00032	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	88	1159	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00295	JetC_00032	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	88	1159	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00296	JetC_00033	"ATP binding domain, putative exonuclease SbcC"	JetC2b		Payne LJ	10	1404	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00297	JetC_00034	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	69	1123	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00298	JetC_00035	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	9	1149	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00299	JetC_00036	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	10	1098	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00300	JetC_00037	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	9	388	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00301	JetC_00038	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2|JetC3		Payne LJ	85	1116	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00297	JetC_00034	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	69	1123	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00298	JetC_00035	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	9	1149	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00299	JetC_00036	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	10	1098	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00300	JetC_00037	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	9	388	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00301	JetC_00038	"ATP binding domain, putative exonuclease SbcC"	JetC1|JetC2a|JetC4		Payne LJ	85	1116	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00302	JetD_00001	Unknown function	JetD4|JetD5		Payne LJ	37	394	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00303	JetD_00002	Unknown function	JetD2		Payne LJ	12	430	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00304	JetD_00003	Unknown function	JetD2		Payne LJ	9	404	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
