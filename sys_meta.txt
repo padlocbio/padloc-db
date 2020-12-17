@@ -23,8 +23,8 @@ Wadjet	type V	wadjet_type_V	T	Wadjet type V
 Wadjet	other	wadjet_other	T	Wadjet other
 Zorya	type I	zorya_type_I	T	Zorya type I
 Zorya	type II	zorya_type_II	T	Zorya type II
+Zorya	type III	zorya_type_III	T	Zorya type III
 Zorya	other	zorya_other	T	Zorya other
-Zorya	variant I	zorya_var_I	T	Zorya variant I
 CBASS	type I	cbass_type_I	T	CBASS type I
 CBASS	type II	cbass_type_II	T	CBASS type II
 CBASS	type IIs	cbass_type_IIs	T	CBASS type IIs
