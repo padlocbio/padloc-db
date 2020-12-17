@@ -14,14 +14,13 @@ Septu	variant I	septu_var_I	T	Septu variant I
 Shedu	canonical	shedu	T	Shedu canonical I
 Thoeris	other	thoeris	T	Thoeris canonical
 Wadjet	type I	wadjet_type_I	T	Wadjet type I
-Wadjet	type IIa	wadjet_type_IIa	T	Wadjet type IIa
-Wadjet	type IIb	wadjet_type_IIb	T	Wadjet type IIb
-Wadjet	type IIIa	wadjet_type_IIIa	T	Wadjet type IIIa
-Wadjet	type IIIb	wadjet_type_IIIb	T	Wadjet type IIIb
+Wadjet	type IIa	wadjet_type_II-A	T	Wadjet type IIa
+Wadjet	type IIb	wadjet_type_II-B	T	Wadjet type IIb
+Wadjet	type IIIa	wadjet_type_III-A	T	Wadjet type IIIa
+Wadjet	type IIIb	wadjet_type_III-B	T	Wadjet type IIIb
 Wadjet	type IV	wadjet_type_IV	T	Wadjet type IV
 Wadjet	type V	wadjet_type_V	T	Wadjet type V
 Wadjet	other	wadjet_other	T	Wadjet other
-Wadjet	variant I	wadjet_var_I	T	Wadjet variant I
 Zorya	type I	zorya_type_I	T	Zorya type I
 Zorya	type II	zorya_type_II	T	Zorya type II
 Zorya	other	zorya_other	T	Zorya other
