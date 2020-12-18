@@ -1,12 +1,11 @@
 ---
 maximum_separation: 3
-minimum_core: 4
-minimum_total: 4
+minimum_core: 3
+minimum_total: 3
 
 core_genes:
-  - JetA3
-  - JetB3
-  - JetC3b
+  - JetA3b
+  - JetC3
   - JetD3
 other_genes:
   - WYL
