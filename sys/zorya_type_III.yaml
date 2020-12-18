@@ -1,0 +1,17 @@
+---
+maximum_separation: 3
+minimum_core: 4
+minimum_total: 4
+
+core_genes:
+  - ZorA
+  - ZorB
+  - ZorF
+  - ZorG
+other_genes:
+  - NA
+prohibited_genes:
+  - ZorC
+  - ZorD
+  - ZorE
+...

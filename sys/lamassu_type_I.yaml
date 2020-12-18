@@ -1,0 +1,13 @@
+---
+maximum_separation: 3
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - LmuA
+  - LmuB
+other_genes:
+  - NA
+prohibited_genes:
+  - Lap1
+...

@@ -1,0 +1,14 @@
+---
+maximum_separation: 3
+minimum_core: 3
+minimum_total: 3
+
+core_genes:
+  - HamA
+  - HamB
+  - HamC
+other_genes:
+  - NA
+prohibited_genes:
+  - NA
+...
