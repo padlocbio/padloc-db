@@ -6,7 +6,7 @@ minimum_total: 4
 core_genes:
   - JetA2
   - JetB2
-  - JetC2b
+  - JetC2
   - JetD2
 other_genes:
   - WYL

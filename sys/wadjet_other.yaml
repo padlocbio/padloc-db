@@ -4,28 +4,26 @@ minimum_core: 2
 minimum_total: 2
 
 core_genes:
-  - JetA4
   - JetA1
   - JetA2
-  - JetA3a
-  - JetA3b
+  - JetA3
+  - JetA4
   - JetA5
   - JetB1
-  - JetB4
   - JetB2
   - JetB3
+  - JetB4
   - JetB5
   - JetC1
   - JetC2
   - JetC3
-  - JetC3
+  - JetC4
   - JetC5
-  - JetC2b
-  - JetD2
   - JetD1
+  - JetD2
+  - JetD3
   - JetD4
   - JetD5
-  - JetD3
   - WYL
 other_genes:
   - NA
