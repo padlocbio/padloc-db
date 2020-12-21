@@ -185,7 +185,7 @@ PDLC00183	JetA_00020	Unknown function	JetA1		Payne LJ	67	499	0.00001	0.3	0.3	Wad
 PDLC00184	JetA_00021	Unknown function	JetA4		Payne LJ	27	467	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00185	JetA_00022	Unknown function	JetA2		Payne LJ	5	488	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00186	JetA_00023	Unknown function	JetA4		Payne LJ	24	481	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00187	JetA_00024	Unknown function	JetA3		Payne LJ	18	488	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00187	JetA_00024	Unknown function	JetA3c		Payne LJ	18	488	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00188	JetA_00025	Unknown function	JetA3		Payne LJ	35	500	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00189	JetA_00026	Unknown function	JetA3		Payne LJ	34	503	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00190	JetA_00027	Unknown function	JetA4		Payne LJ	28	463	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
@@ -198,14 +198,14 @@ PDLC00196	JetA_00033	Unknown function	JetA3		Payne LJ	7	536	0.00001	0.3	0.3	Wadj
 PDLC00197	JetA_00034	Unknown function	JetA3		Payne LJ	6	520	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00198	JetA_00035	Unknown function	JetA3		Payne LJ	7	513	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00199	JetA_00036	Unknown function	JetA1		Payne LJ	75	505	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00200	JetA_00037	Unknown function	JetA3		Payne LJ	22	504	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00200	JetA_00037	Unknown function	JetA3c		Payne LJ	22	504	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00201	JetA_00038	Unknown function	JetA3		Payne LJ	6	531	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00202	JetA_00039	Unknown function	JetA1		Payne LJ	67	495	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00203	JetA_00040	Unknown function	JetA1		Payne LJ	9	557	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00204	JetA_00041	Unknown function	JetA1		Payne LJ	7	502	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00205	JetA_00042	Unknown function	JetA1		Payne LJ	74	487	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00206	JetA_00043	Unknown function	JetA1		Payne LJ	92	486	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
-PDLC00207	JetA_00044	Unknown function	JetA3		Payne LJ	6	477	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
+PDLC00207	JetA_00044	Unknown function	JetA3c		Payne LJ	6	477	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00208	JetA_00045	Unknown function	JetA4		Payne LJ	19	468	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00209	JetA_00046	Unknown function	JetA4		Payne LJ	20	474	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA
 PDLC00210	JetA_00047	Unknown function	JetA4		Payne LJ	13	470	0.00001	0.3	0.3	Wadjet	10/ggqhzm	"Doron et al., 2018"	NA

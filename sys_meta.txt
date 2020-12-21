@@ -19,6 +19,7 @@ Wadjet	type IIa	wadjet_type_II-A	T	Wadjet type IIa
 Wadjet	type IIb	wadjet_type_II-B	T	Wadjet type IIb
 Wadjet	type IIIa	wadjet_type_III-A	T	Wadjet type IIIa
 Wadjet	type IIIb	wadjet_type_III-B	T	Wadjet type IIIb
+Wadjet	type IIIc	wadjet_type_III-C	T	Wadjet type IIIc
 Wadjet	type IVa	wadjet_type_IV-A	T	Wadjet type IVa
 Wadjet	type IVb	wadjet_type_IV-B	T	Wadjet type IVb
 Wadjet	type V	wadjet_type_V	T	Wadjet type V
