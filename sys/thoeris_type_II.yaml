@@ -1,14 +1,14 @@
 ---
-maximum_separation: 3
+maximum_separation: 0
 minimum_core: 3
 minimum_total: 3
 
 core_genes:
-  - JetA2
-  - JetB2
-  - JetC2
+  - ThsA2
+  - ThsB2
+  - ThsC2
 other_genes:
-  - WYL
+  - NA
 prohibited_genes:
-  - JetD2
+  - NA
 ...

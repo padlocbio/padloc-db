@@ -9,8 +9,8 @@ core_genes:
   - ZorC
   - ZorD
   - ZorE
-  - Zap1
-  - Zap2
+  - ZorF
+  - ZorG
 other_genes:
   - NA
 prohibited_genes:

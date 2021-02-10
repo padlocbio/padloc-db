@@ -1,7 +1,7 @@
-HMMER3/f [3.3.1 | Jul 2020]
-NAME  DruD_00005
+HMMER3/f [3.3 | Nov 2019]
+NAME  DruD1_00005
 ACC   PDLC00012
-DESC  Unknown
+DESC  Unknown function
 LENG  356
 ALPH  amino
 RF    no
@@ -9,7 +9,7 @@ MM    no
 CONS  yes
 CS    no
 MAP   yes
-DATE  Tue Aug 18 16:15:29 2020
+DATE  Thu Jan  7 16:12:04 2021
 NSEQ  6
 EFFN  0.717773
 CKSUM 1850781827

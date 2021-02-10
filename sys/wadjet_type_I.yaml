@@ -1,14 +1,15 @@
 ---
 maximum_separation: 3
-minimum_core: 3
-minimum_total: 3
+minimum_core: 4
+minimum_total: 4
 
 core_genes:
   - JetA1
   - JetB1
   - JetC1
-other_genes:
-  - WYL
-prohibited_genes:
   - JetD1
+other_genes:
+  - NA
+prohibited_genes:
+  - NA
 ...

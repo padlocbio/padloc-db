@@ -4,16 +4,12 @@ minimum_core: 4
 minimum_total: 4
 
 core_genes:
-  - DruM
-  - DruF
-  - DruG
-  - DruE
+  - DruE2
+  - DruF2
+  - DruG2
+  - DruM2
 other_genes:
-  - NA
+  - DruK
 prohibited_genes:
-  - DruA
-  - DruB
-  - DruC
-  - DruD
-  - DruH
+  - NA
 ...

@@ -9,10 +9,12 @@ core_genes:
   - DruC
   - DruD
   - DruE
-  - DruM
   - DruF
   - DruG
   - DruH
+  - DruM
+  - DruK
+  - DruL
 other_genes:
   - NA
 prohibited_genes:

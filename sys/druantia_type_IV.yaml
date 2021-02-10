@@ -1,15 +1,14 @@
 ---
 maximum_separation: 3
-minimum_core: 4
-minimum_total: 4
+minimum_core: 3
+minimum_total: 3
 
 core_genes:
-  - JetA5
-  - JetB5
-  - JetC5
-  - JetD5
+  - DruE4
+  - DruF4
+  - DruL4
 other_genes:
-  - WYL
+  - DruK
 prohibited_genes:
   - NA
 ...

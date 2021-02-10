@@ -1,36 +1,36 @@
 system	type	yaml.name	search	comment
-Druantia	type I	druantia_type_I	T	Druantia type I
-Druantia	type II	druantia_type_II	T	Druantia type II
-Druantia	type III	druantia_type_III	T	Druantia type III
-Druantia	other	druantia_other	T	Druantia other
-Gabija	canonical	gabija	T	Gabija canonical
-Hachiman	type I	hachiman_type_I	T	Hachiman canonical
-Hachiman	type II	hachiman_type_II	T	Hachiman variant I
-Kiwa	canonical	kiwa	T	Kiwa canonical
-Lamassu	type I	lamassu_type_I	T	Lamassu canonical
-Lamassu	type II	lamassu_type_II	T	Lamassu variant I
-Septu	type I	septu_type_I	T	Septu canonical
-Septu	type II	septu_type_II	T	Septu variant I
-Shedu	canonical	shedu	T	Shedu canonical I
-Thoeris	other	thoeris	T	Thoeris canonical
-Wadjet	type Ia	wadjet_type_I-A	T	Wadjet type Ia
-Wadjet	type Ib	wadjet_type_I-B	T	Wadjet type Ib
-Wadjet	type IIa	wadjet_type_II-A	T	Wadjet type IIa
-Wadjet	type IIb	wadjet_type_II-B	T	Wadjet type IIb
-Wadjet	type IIIa	wadjet_type_III-A	T	Wadjet type IIIa
-Wadjet	type IIIb	wadjet_type_III-B	T	Wadjet type IIIb
-Wadjet	type IIIc	wadjet_type_III-C	T	Wadjet type IIIc
-Wadjet	type IVa	wadjet_type_IV-A	T	Wadjet type IVa
-Wadjet	type IVb	wadjet_type_IV-B	T	Wadjet type IVb
-Wadjet	type V	wadjet_type_V	T	Wadjet type V
-Wadjet	other	wadjet_other	T	Wadjet other
-Zorya	type I	zorya_type_I	T	Zorya type I
-Zorya	type II	zorya_type_II	T	Zorya type II
-Zorya	type III	zorya_type_III	T	Zorya type III
-Zorya	other	zorya_other	T	Zorya other
-CBASS	type I	cbass_type_I	T	CBASS type I
-CBASS	type II	cbass_type_II	T	CBASS type II
-CBASS	type IIs	cbass_type_IIs	T	CBASS type IIs
-CBASS	type III	cbass_type_III	T	CBASS type III
-CBASS	type IV	cbass_type_IV	T	CBASS type IV
-CBASS	other	cbass_other	T	CBASS other
+cbass other	NA	cbass_other	T	NA
+cbass type I	NA	cbass_type_I	T	NA
+cbass type II	NA	cbass_type_II	T	NA
+cbass type III	NA	cbass_type_III	T	NA
+cbass type IIs	NA	cbass_type_IIs	T	NA
+cbass type IV	NA	cbass_type_IV	T	NA
+druantia other	NA	druantia_other	T	NA
+druantia type I	NA	druantia_type_I	T	NA
+druantia type II	NA	druantia_type_II	T	NA
+druantia type III	NA	druantia_type_III	T	NA
+druantia type IV	NA	druantia_type_IV	T	NA
+gabija	NA	gabija	T	NA
+hachiman other	NA	hachiman_other	T	NA
+hachiman type I	NA	hachiman_type_I	T	NA
+hachiman type II	NA	hachiman_type_II	T	NA
+kiwa	NA	kiwa	T	NA
+lamassu other	NA	lamassu_other	T	NA
+lamassu type I	NA	lamassu_type_I	T	NA
+lamassu type II	NA	lamassu_type_II	T	NA
+septu other	NA	septu_other	T	NA
+septu type I	NA	septu_type_I	T	NA
+septu type II	NA	septu_type_II	T	NA
+shedu	NA	shedu	T	NA
+thoeris other	NA	thoeris_other	T	NA
+thoeris type I	NA	thoeris_type_I	T	NA
+thoeris type II	NA	thoeris_type_II	T	NA
+wadjet other	NA	wadjet_other	T	NA
+wadjet type I	NA	wadjet_type_I	T	NA
+wadjet type II	NA	wadjet_type_II	T	NA
+wadjet type III	NA	wadjet_type_III	T	NA
+zorya other	NA	zorya_other	T	NA
+zorya type I	NA	zorya_type_I	T	NA
+zorya type II	NA	zorya_type_II	T	NA
+zorya type III	NA	zorya_type_III	T	NA
+hma	NA	hma	T	NA

@@ -1,19 +1,13 @@
 ---
-maximum_separation: 3
+maximum_separation: 0
 minimum_core: 2
 minimum_total: 2
 
 core_genes:
-  - DruE
-  - DruH
+  - DruH3
+  - DruE3
 other_genes:
   - NA
 prohibited_genes:
-  - DruA
-  - DruB
-  - DruC
-  - DruD
-  - DruM
-  - DruF
-  - DruG
+  - NA
 ...

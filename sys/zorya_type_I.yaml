@@ -4,12 +4,12 @@ minimum_core: 4
 minimum_total: 4
 
 core_genes:
-  - ZorA
-  - ZorB
-  - ZorC
-  - ZorD
+  - ZorA1
+  - ZorB1
+  - ZorC1
+  - ZorD1
 other_genes:
   - NA
 prohibited_genes:
-  - ZorE
+  - NA
 ...
