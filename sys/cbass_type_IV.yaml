@@ -8,7 +8,7 @@ core_genes:
   - Effector
   - QueC
   - TGT
-other_genes:
+optional_genes:
   - OGG
 prohibited_genes:
   - NA

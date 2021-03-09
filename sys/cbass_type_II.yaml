@@ -8,7 +8,7 @@ core_genes:
   - Effector
   - E1-E2
   - JAB
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

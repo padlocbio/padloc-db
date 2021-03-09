@@ -7,7 +7,7 @@ core_genes:
   - ThsA
   - ThsB
   - ThsC
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

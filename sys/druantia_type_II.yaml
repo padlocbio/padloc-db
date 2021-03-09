@@ -8,7 +8,7 @@ core_genes:
   - DruF2
   - DruG2
   - DruM2
-other_genes:
+optional_genes:
   - DruK
 prohibited_genes:
   - NA

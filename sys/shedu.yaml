@@ -5,7 +5,7 @@ minimum_total: 1
 
 core_genes:
   - SduA
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

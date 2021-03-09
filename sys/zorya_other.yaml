@@ -11,7 +11,7 @@ core_genes:
   - ZorE
   - ZorF
   - ZorG
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

@@ -8,7 +8,7 @@ core_genes:
   - JetB
   - JetC
   - JetD
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

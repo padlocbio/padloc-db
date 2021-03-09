@@ -6,7 +6,7 @@ minimum_total: 2
 core_genes:
   - DruH3
   - DruE3
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

@@ -7,7 +7,7 @@ core_genes:
   - DruE4
   - DruF4
   - DruL4
-other_genes:
+optional_genes:
   - DruK
 prohibited_genes:
   - NA

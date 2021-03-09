@@ -7,7 +7,7 @@ core_genes:
   - PtuA2
   - PtuB2
   - PtuC2
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

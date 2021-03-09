@@ -8,7 +8,7 @@ core_genes:
   - ZorB1
   - ZorC1
   - ZorD1
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

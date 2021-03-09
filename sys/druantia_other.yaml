@@ -15,7 +15,7 @@ core_genes:
   - DruM
   - DruK
   - DruL
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

@@ -6,7 +6,7 @@ minimum_total: 2
 core_genes:
   - ThsA1
   - ThsB1 
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - ThsC2

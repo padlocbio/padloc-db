@@ -6,7 +6,7 @@ minimum_total: 2
 core_genes:
   - KwaA
   - KwaB
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA

@@ -7,7 +7,7 @@ core_genes:
   - HamA
   - HamB
   - HamC
-other_genes:
+optional_genes:
   - NA
 prohibited_genes:
   - NA
