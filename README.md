@@ -17,7 +17,7 @@ System models are written using YAML syntax:
 
 ```yaml
 ---
-max_separation: 4           <- Number of unrelated genes allowed to separate each component.
+maximum_separation: 4       <- Number of unrelated genes allowed to separate each component.
 minimum_core: 4             <- Number of core genes that need to be present.
 minimum_total: 5            <- Number of total genes that need to be present.
 core_genes:                 <- Genes that are generally considered essential.
@@ -25,7 +25,7 @@ core_genes:                 <- Genes that are generally considered essential.
   - GenB
   - GenC
   - GenD
-other_genes:                <- Genes that are not always present.
+optional_genes:             <- Genes that are not always present.
   - GenX
   - GenY
 prohibited_genes:           <- Genes that cannot be present.
