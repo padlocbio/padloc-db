@@ -1,4 +1,4 @@
-<a href="https://github.com/leightonpayne/padlocDB/LICENSE" alt="License"><img src="https://img.shields.io/github/license/leightonpayne/padlocDB" /></a> <a href="https://github.com/leightonpayne/padlocDB/" alt="Last Update"><img src="https://img.shields.io/github/last-commit/leightonpayne/padlocDB?label=last%20update" /></a> <a href="https://github.com/leightonpayne/padlocDB/releases" alt="Release"><img src="https://img.shields.io/github/v/release/leightonpayne/padlocDB" /></a> 
+<a href="https://github.com/padlocbio/padlocDB/LICENSE" alt="License"><img src="https://img.shields.io/github/license/padlocbio/padlocDB" /></a> <a href="https://github.com/leightonpayne/padlocDB/" alt="Last Update"><img src="https://img.shields.io/github/last-commit/padlocbio/padlocDB?label=last%20update" /></a> <a href="https://github.com/padlocbio/padlocDB/releases" alt="Release"><img src="https://img.shields.io/github/v/release/padlocbio/padlocDB" /></a> 
 # PADLOC-DB
 
 ## About
@@ -9,7 +9,7 @@ The following document describes each field of `hmm_meta.xlsx` and `sys_meta.xls
 
 ## Citation
 
-tbd
+Manuscript in preparation
 
 ## System models
 
