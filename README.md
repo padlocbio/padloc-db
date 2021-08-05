@@ -3,13 +3,13 @@
 
 ## About
 
-This repo contains the latest version of the HMMs and system models used by [PADLOC](https://github.com/leightonpayne/padloc). This database is downloaded and compiled automatically when running the setup script that comes with [PADLOC](https://github.com/leightonpayne/padloc).
+This repo contains the latest version of the HMMs and system models used by [PADLOC](https://github.com/padlocbio/padloc). This database is downloaded and compiled automatically when [PADLOC](https://github.com/padlocbio/padloc) is installed via conda. Otherwise, it can be installed by running `padloc --db-update`.
 
-The following document describes each field of `hmm_meta.xlsx` and `sys_meta.xlsx`, and how you can use your own HMMs and system models with [PADLOC](https://github.com/leightonpayne/padloc).
+The following document describes each field of `hmm_meta.txt` and `sys_meta.txt`, and how you can use your own HMMs and system models with [PADLOC](https://github.com/padlocbio/padloc).
 
 ## Citation
 
-tbd
+Manuscript in preparation.
 
 ## System models
 
@@ -52,7 +52,7 @@ These fields must be filled out for use with [PADLOC](https://github.com/leighto
 
 ####  Optional fields
 
-These fields are for reference only, and are not required by [PADLOC](https://github.com/leightonpayne/padloc).
+These fields are for reference only, and are not strictly required by [PADLOC](https://github.com/leightonpayne/padloc).
 
 | Field            | Example                          | Description                                                  |
 | ---------------- | -------------------------------- | ------------------------------------------------------------ |
@@ -85,7 +85,7 @@ These fields are for reference only, and are not required by [PADLOC](https://gi
 
 Additional HMMs and system models can be added directly to your copy of this database, or a separate database can be set up in the same way as this one.
 
-Additional HMMs can be added to the `hmm/` directory, `hmm_meta.txt` also needs to be updated to include the new HMMs. When using with [PADLOC](https://github.com/leightonpayne/padloc), these HMMs need to be concatenated into a single file in the `hmm/` directory called `padlocdb.hmm`.
+Additional HMMs can be added to the `hmm/` directory, `hmm_meta.txt` also needs to be updated to include metadata for the new HMMs. When using with [PADLOC](https://github.com/leightonpayne/padloc), these HMMs need to be concatenated into a single file in the `hmm/` directory called `padlocdb.hmm`.
 
-Additional system models can be added to the `sys/` directory, `sys_meta.txt` should also be updated to include the new models.
+Additional system models can be added to the `sys/` directory, `sys_meta.txt` should also be updated to include metadata for the new models.
 
