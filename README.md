@@ -3,7 +3,7 @@
 
 ## About
 
-This repo contains the latest version of the HMMs and system models used by [PADLOC](https://github.com/padlocbio/padloc). This database is downloaded and compiled automatically when [PADLOC](https://github.com/padlocbio/padloc) is installed via conda. Otherwise, it can be installed by running `padloc --db-update`.
+This repo contains the latest version of the HMMs and system models used by [PADLOC](https://github.com/padlocbio/padloc). The latest version of this database can be downloaded by running `padloc --db-update`.
 
 The following document describes each field of `hmm_meta.txt` and `sys_meta.txt`, and how you can use your own HMMs and system models with [PADLOC](https://github.com/padlocbio/padloc).
 
