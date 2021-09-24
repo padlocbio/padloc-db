@@ -9,7 +9,11 @@ The following document describes each field of `hmm_meta.txt` and `sys_meta.txt`
 
 ## Citation
 
-Manuscript in preparation.
+If you use [PADLOC](https://github.com/padlocbio/padloc) or [PADLOC-DB](https://github.com/padlocbio/padloc-db) please cite:
+
+> Payne, L.J., Todeschini, T.C., Wu, Y., Perry, B.J., Ronson, C.W., Fineran, P.C., Nobrega, F.L., Jackson, S.A. Identification and classification of antiviral defence systems in bacteria and archaea with PADLOC reveals new system types. *Unpublished*, **X**, XXXX-XXXX. doi: XX/XXXXXX
+
+The HMMs in [PADLOC-DB](https://github.com/padlocbio/padloc-db) were built/curated using data from various sources, we encourage you to also give credit to these groups by [citing them too](#References).
 
 ## System models
 
@@ -61,8 +65,8 @@ These fields are for reference only, and are not strictly required by [PADLOC](h
 | `author`         | Payne LJ, Jackson SA             | Author(s) of the entry. If the HMM is from an external database,     crediting the original author is preferred. If the HMM is from a study where an author was not explicity credited, authorship is attributed to the first author of the study. Multiple authors are separated by ', '. |
 | `hmm.nseq`       | 49                               | The number of sequences that contribute to the HMM.          |
 | `hmm.length`     | 120                              | The length of the the HMM.                                   |
-| `literature.ref` | 10/f2wkj3                        | The DOI for the literature that implies that the members of the HMM belong to the protein/defence system. Multiple references are separated by ', '. |
-| `database.ref`   | PFAM; PF06527                    | Reference to the original accession of the alignment/HMM if it was taken from an external database, e.g. PFAM, COG, etc. Includes the name of the database name and the identifier separated by '; '. |
+| `literature.ref` | 10/f2wkj3                        | The DOI for the literature that implies that the HMM or underlying proteins belong to the protein/defence system.  Multiple references are separated by ', '. DOIs can be resolved at [doi.org](https://www.doi.org/). |
+| `database.ref`   | PFAM; PF06527                    | Reference to the original accession of the alignment/HMM if it was taken from an external database, e.g. PFAM, COG, etc. Includes the name of the database and the identifier separated by '; '. |
 
 ## System metadata (sys_meta.txt)
 
@@ -88,4 +92,18 @@ Additional HMMs and system models can be added directly to your copy of this dat
 Additional HMMs can be added to the `hmm/` directory, `hmm_meta.txt` also needs to be updated to include metadata for the new HMMs. When using with [PADLOC](https://github.com/leightonpayne/padloc), these HMMs need to be concatenated into a single file in the `hmm/` directory called `padlocdb.hmm`.
 
 Additional system models can be added to the `sys/` directory, `sys_meta.txt` should also be updated to include metadata for the new models.
+
+## References
+
+The HMMs in [PADLOC-DB](https://github.com/padlocbio/padloc-db) were built/curated using data from various sources, we encourage you to also give credit to these groups by citing them too:
+
+> Doron, S., Melamed, S., Ofir, G., Leavitt, A., Lopatina, A., Keren, M., Amitai, G. and Sorek, R. (2018) Systematic discovery of antiphage defense systems in the microbial pangenome. *Science*, **359**, eaar4120. doi: [10/ggqhzm](https://doi.org/10/ggqhzm)
+
+> Millman, A., Melamed, S., Amitai, G. and Sorek, R. (2020) Diversity and classification of cyclic-oligonucleotide-based anti-phage signalling systems. *Nature Microbiology*, **5**, 1608–1615. doi: [10/gg84nk](https://doi.org/10/gg84nk)
+
+The relevant refences for individual HMMs can be found by inspecting the `hmm_meta.txt` file provided with [PADLOC-DB](https://github.com/padlocbio/padloc-db).
+
+## License
+
+This software and data is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
