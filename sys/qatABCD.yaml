@@ -1,0 +1,15 @@
+---
+maximum_separation: 0
+minimum_core: 4
+minimum_total: 4
+
+core_genes:
+  - QatA
+  - QatB
+  - QatC
+  - QatD
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

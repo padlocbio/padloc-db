@@ -1,0 +1,22 @@
+---
+# system description
+maximum_separation: 2
+minimum_core: 1
+minimum_total: 3
+
+# genes
+core_genes:
+ - Cas9
+optional_genes:
+ - Cas1_II
+ - Cas2_II
+ - cas_accessory
+ - regulation
+prohibited_genes:
+ - Csn2
+ - Cas4_II
+ - Cas4a
+ - Cas4b
+ - Cas4c
+ - Cas4d 
+...

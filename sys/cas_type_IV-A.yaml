@@ -1,0 +1,22 @@
+---
+# system description
+maximum_separation: 3
+minimum_core: 4
+minimum_total: 4
+
+# genes
+core_genes:
+ - typeIV_Cas5
+ - typeIV_Cas6
+ - typeIV_Cas7
+ - typeIV_Cas8
+ - typeIV_DinG
+optional_genes:
+ - regulation
+prohibited_genes:
+ - typeIV_RecD
+ - typeIV_Cas11
+ - typeIV_Cas58
+ - typeIVC_LS
+ - RecD_like
+...

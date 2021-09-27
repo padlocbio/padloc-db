@@ -1,0 +1,14 @@
+---
+maximum_separation: 1
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - Avs1a
+  - Avs1b
+  - Avs1c
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

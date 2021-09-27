@@ -1,0 +1,31 @@
+---
+# system description
+maximum_separation: 2
+minimum_core: 4
+minimum_total: 5
+
+# genes
+core_genes:
+  - Cas1_IIIa
+  - Cas2_IIIa
+  - Cas10a
+  - Csm2
+  - Csm3
+  - Csm4
+  - Csm5
+  - Csm6
+  - Cas6_IIIa
+optional_genes:
+ - Cas10
+ - Cas6
+ - cas_accessory
+ - cas_adaptation
+ - accessory_nuclease
+ - regulation
+ - ring_nuclease
+prohibited_genes:
+  - Cmr4
+  - Cmr5
+  - Csx10
+  - Csx19
+...

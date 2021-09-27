@@ -1,0 +1,27 @@
+---
+# system description
+maximum_separation: 2
+minimum_core: 4
+minimum_total: 5
+
+# genes
+core_genes:
+  - Cas11a
+  - Cas7a
+  - Cas5a
+  - Cas8a
+  - Cas3a1
+  - Cas3a2
+optional_genes:
+  - Cas1a
+  - Cas2a
+  - Cas4a1
+  - Cas4a2
+  - Cas4a
+  - Cas6a  
+  - cas_accessory
+  - cas_adaptation
+  - regulation
+prohibited_genes:
+  - NA
+...

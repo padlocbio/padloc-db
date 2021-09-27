@@ -1,0 +1,18 @@
+---
+# system description
+maximum_separation: 2
+minimum_core: 1
+minimum_total: 1
+
+# genes
+core_genes:
+  - gRAMP
+optional_genes:
+  - cas_accessory
+  - cas_adaptation
+  - regulation
+  - ring_nuclease
+  - accessory_nuclease  
+prohibited_genes:
+  - NA
+...

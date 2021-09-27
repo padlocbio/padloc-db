@@ -1,0 +1,21 @@
+---
+# system description
+maximum_separation: 2
+minimum_core: 4
+minimum_total: 4
+
+# genes
+core_genes:
+ - Cas3e
+ - Cas5e
+ - Cas6e
+ - Cas7e
+ - Cas8e
+ - Cas11e
+optional_genes:
+  - Cas1e
+  - Cas2e
+  - regulation
+prohibited_genes:
+  - NA
+...

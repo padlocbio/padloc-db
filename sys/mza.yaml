@@ -1,0 +1,15 @@
+---
+maximum_separation: 0
+minimum_core: 4
+minimum_total: 4
+
+core_genes:
+  - MzaB
+  - MzaC
+  - MzaD
+  - MzaE
+optional_genes:
+  - MzaA
+prohibited_genes:
+  - NA
+...

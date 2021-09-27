@@ -1,0 +1,18 @@
+---
+# system description
+maximum_separation: 1
+minimum_core: 1
+minimum_total: 2
+
+# genes
+core_genes:
+ - Cas12
+optional_genes:
+ - cas_accessory
+ - cas_adaptation
+ - regulation
+prohibited_genes:
+ - TniQ_V
+ - TniQ
+ 
+...

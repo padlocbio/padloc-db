@@ -1,0 +1,18 @@
+---
+maximum_separation: 1
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - Drt1a
+  - Drt1b
+  - Drt2
+  - Drt3a
+  - Drt3b
+  - Drt4
+  - Drt5
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

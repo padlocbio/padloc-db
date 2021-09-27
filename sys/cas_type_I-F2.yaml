@@ -1,0 +1,18 @@
+---
+# system description
+maximum_separation: 2
+minimum_core: 4
+minimum_total: 4
+
+# genes
+core_genes:
+  - Cas1f
+  - Cas3fv
+  - Cas5fv
+  - Cas6f
+  - Cas7fv
+optional_genes:
+  - regulation
+prohibited_genes:
+  - Cas8f
+...

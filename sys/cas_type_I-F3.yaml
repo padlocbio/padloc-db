@@ -1,0 +1,22 @@
+---
+# system description
+maximum_separation: 3
+minimum_core: 4
+minimum_total: 4
+
+# genes
+core_genes:
+  - Cas85f
+  - Cas7f
+  - Cas6f
+  - TniQ_IF
+optional_genes:
+  - TnsB
+  - TnsC
+  - regulation
+prohibited_genes:
+  - Cas23f
+  - Cas1f
+  - Cas5f
+  - Cas8f
+...

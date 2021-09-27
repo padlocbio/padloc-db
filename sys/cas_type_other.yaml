@@ -1,0 +1,18 @@
+---
+# system description
+maximum_separation: 3
+minimum_core: 2
+minimum_total: 2
+
+# genes
+core_genes:
+ - cas_effector
+ - cas_adaptation
+optional_genes:
+ - cas_accessory
+ - ring_nuclease
+ - regulation
+ - accessory_nuclease 
+prohibited_genes:
+  - NA
+...
