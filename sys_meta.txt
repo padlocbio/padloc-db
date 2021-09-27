@@ -34,3 +34,65 @@ zorya type I	NA	zorya_type_I	T	NA
 zorya type II	NA	zorya_type_II	T	NA
 zorya type III	NA	zorya_type_III	T	NA
 hma	NA	hma	T	NA
+CRISPR-Cas	type I-A	cas_type_I-A	T	NA
+CRISPR-Cas	type I-B1	cas_type_I-B1	T	NA
+CRISPR-Cas	type I-B2	cas_type_I-B2	T	NA
+CRISPR-Cas	type I-C	cas_type_I-C	T	NA
+CRISPR-Cas	type I-D	cas_type_I-D	T	NA
+CRISPR-Cas	type I-E	cas_type_I-E	T	NA
+CRISPR-Cas	type I-F1	cas_type_I-F1	T	NA
+CRISPR-Cas	type I-F2	cas_type_I-F2	T	NA
+CRISPR-Cas	type I-F3	cas_type_I-F3	T	NA
+CRISPR-Cas	type I-G	cas_type_I-G	T	NA
+CRISPR-Cas	type II-A	cas_type_II-A	T	NA
+CRISPR-Cas	type II-B	cas_type_II-B	T	NA
+CRISPR-Cas	type II-C	cas_type_II-C	T	NA
+CRISPR-Cas	type III-A	cas_type_III-A	T	NA
+CRISPR-Cas	type III-B	cas_type_III-B	T	NA
+CRISPR-Cas	type III-C	cas_type_III-C	T	NA
+CRISPR-Cas	type III-D	cas_type_III-D	T	NA
+CRISPR-Cas	type III-E	cas_type_III-E	T	NA
+CRISPR-Cas	type III-F	cas_type_III-F	T	NA
+CRISPR-Cas	type III-G	cas_type_III-G	T	unofficial type
+CRISPR-Cas	type III-H	cas_type_III-H	T	unofficial type
+CRISPR-Cas	type IV-A	cas_type_IV-A	T	NA
+CRISPR-Cas	type IV-B	cas_type_IV-B	T	NA
+CRISPR-Cas	type IV-C	cas_type_IV-C	T	NA
+CRISPR-Cas	type IV-D	cas_type_IV-D	T	NA
+CRISPR-Cas	type IV-E	cas_type_IV-E	T	NA
+CRISPR-Cas	type V	cas_type_V	T	NA
+CRISPR-Cas	type V-K	cas_type_V-K	T	NA
+CRISPR-Cas	type VI	cas_type_VI	T	NA
+CRISPR-Cas	orphan adaptation	cas_adaptation	T	NA
+CRISPR-Cas	other	cas_type_other	T	NA
+ApeA	NA	ApeA	T	NA
+AVAST type I other	NA	AVAST_type_I_other	T	NA
+AVAST type I	I	AVAST_type_I	T	NA
+AVAST type II	II	AVAST_type_II	T	NA
+AVAST type III	III	AVAST_type_III	T	NA
+AVAST type IV	IV	AVAST_type_IV	T	NA
+AVAST type V	V	AVAST_type_V	T	NA
+DRT type I	I	DRT_type_I	T	NA
+DRT type II	II	DRT_type_II	T	NA
+DRT type III	III	DRT_type_III	T	NA
+DRT type IV	IV	DRT_type_IV	T	NA
+DRT type V	V	DRT_type_V	T	NA
+DRT type other	other	DRT_type_other	T	NA
+dsr1	I	dsr1	T	NA
+dsr2	II	dsr2	T	NA
+GAO 19	NA	GAO_19	T	NA
+GAO 20	NA	GAO_20	T	NA
+GAO 29 other	NA	GAO_29_other	T	NA
+GAO 29	NA	GAO_29	T	NA
+hhe	NA	hhe	T	NA
+ietAS	NA	ietAS	T	NA
+mza other	other	mza_other	T	NA
+mza	NA	mza	T	NA
+ppl	NA	ppl	T	NA
+qatABCD other	NA	qatABCD_other	T	NA
+qatABCD	NA	qatABCD	T	NA
+RADAR	NA	RADAR	T	NA
+TerY-P other	NA	TerY-P_other	T	NA
+TerY-P	NA	TerY-P	T	NA
+tmn	NA	tmn	T	NA
+upx	NA	upx	T	NA
