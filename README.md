@@ -1,4 +1,5 @@
-<a href="https://github.com/padlocbio/padloc-db/LICENSE" alt="License"><img src="https://img.shields.io/github/license/padlocbio/padloc-db" /></a> <a href="https://github.com/leightonpayne/padloc-db/" alt="Last Update"><img src="https://img.shields.io/github/last-commit/padlocbio/padloc-db?label=last%20update" /></a> <a href="https://github.com/padlocbio/padloc-db/releases" alt="Release"><img src="https://img.shields.io/github/v/release/padlocbio/padloc-db" /></a> 
+<a href="https://github.com/padlocbio/padloc-db/LICENSE" alt="License"><img src="https://img.shields.io/github/license/padlocbio/padloc-db" /></a><a href="https://github.com/padlocbio/padloc-db/releases" alt="Github release"><img src="https://img.shields.io/github/v/release/padlocbio/padloc-db?label=github%20release" /></a><a href="https://github.com/padlocbio/padloc-db/commits/master" alt="GitHub commits since latest release"><img src="https://img.shields.io/github/commits-since/padlocbio/padloc-db/latest?sort=semver"></a><a href="https://github.com/padlocbio/padloc-db/" alt="Last update"><img src="https://img.shields.io/github/last-commit/padlocbio/padloc-db?label=last%20update" /></a> 
+
 # PADLOC-DB
 
 ## About
