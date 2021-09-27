@@ -1,0 +1,2 @@
+hmm.accession	hmm.name	comments
+PDLC00300	PtuA1_00036	NA

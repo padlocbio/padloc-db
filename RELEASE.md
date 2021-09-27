@@ -8,7 +8,7 @@ The latest version of this database is installed when running `padloc --db-updat
 
 ### What's new
 
-This is the second release of PADLOC-DB. It greatly expands upon the previous release through the addition of HMMs and system models for 27 CRISPR-Cas subtypes and 26 diverse types of defence systems from [Gao et al., 2020](https://doi.org/10/gpsx).
+This is the second release of PADLOC-DB. It greatly expands upon the previous release through the addition of HMMs and system models for 27 CRISPR-Cas subtypes and 26 diverse types of defence systems from [Gao et al., 2020](https://doi.org/10/gpsx). One HMM was deprecated (see [hmm/deprecated/notes.txt](https://github.com/padlocbio/padloc-db/tree/master/hmm/deprecated/notes.txt)).
 
 ### What's included
 
@@ -28,6 +28,6 @@ padloc-db
 
 | Release | Date       | HMMs | Classifications |
 | ------- | ---------- | ---- | --------------- |
-| v1.1.0  | 27/09/2021 | 2224 | 97              |
+| v1.1.0  | 27/09/2021 | 2223 | 97              |
 | v1.0.0  | 05/08/2021 | 915  | 36              |
 
