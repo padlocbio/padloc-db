@@ -1,4 +1,4 @@
-# PADLOC-DB release v1.0.0
+# PADLOC-DB release v1.1.0
 
 ### About
 
@@ -8,7 +8,7 @@ The latest version of this database is installed when running `padloc --db-updat
 
 ### What's new
 
-This is the first release of PADLOC-DB. It contains HMMs and system models for CBASS and Doron/deity defence systems (i.e. Druantia, Gabija, Hachiman, Kiwa, Lamassu, Septu, Shedu, Thoeris, Wadjet and Zorya). It also contains HMMs and models for several new types of Doron defence systems we've discovered (manuscript in preparation).
+This is the second release of PADLOC-DB. It greatly expands upon the previous release through the addition of HMMs and system models for 27 CRISPR-Cas subtypes and 26 diverse types of defence systems from [Gao et al., 2020](https://doi.org/10/gpsx).
 
 ### What's included
 
@@ -28,5 +28,6 @@ padloc-db
 
 | Release | Date       | HMMs | Classifications |
 | ------- | ---------- | ---- | --------------- |
-| 1.0.0   | 05/08/2021 | 915  | 36              |
+| v1.1.0  | 27/09/2021 | 2224 | 97              |
+| v1.0.0  | 05/08/2021 | 915  | 36              |
 
