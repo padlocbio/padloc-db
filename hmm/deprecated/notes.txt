@@ -1,2 +1,2 @@
 hmm.accession	hmm.name	comments
-PDLC00300	PtuA1_00036	NA
+PDLC00300	PtuA1_00036	Unlikely genuine PtuA homologue - appears to match MTase instead
