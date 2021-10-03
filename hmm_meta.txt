@@ -660,168 +660,168 @@ PDLC00659	HmaA_00001	SNF2 helicase / DEAD-box helicase	HmaA		Payne LJ	84	1176	0.
 PDLC00660	HmaB_00001	DNA-adenine methylase	HmaB		Payne LJ	72	967	0.00001	0.3	0.3	hma	10/ggqhzm		Converted from PtuD
 PDLC00661	HmaB_00002	DNA-adenine methylase	HmaB		Payne LJ	20	973	0.00001	0.3	0.3	hma	10/ggqhzm		Converted from PtuD
 PDLC00662	HmaC_00001	AAA+ ATPase	HmaC		Payne LJ	67	941	0.00001	0.3	0.3	hma	10/ggqhzm		NA
-PDLC00663	Effector_00001	1TM	1TM	Effector	Payne LJ	8	317	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00664	Effector_00002	1TM	1TM	Effector	Payne LJ	16	174	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00665	Effector_00003	1TM	1TM	Effector	Payne LJ	8	178	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00666	Effector_00004	1TM	1TM	Effector	Payne LJ	17	174	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00667	Effector_00005	2TM	2TM	Effector	Payne LJ	22	299	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00668	Effector_00006	2TM	2TM	Effector	Payne LJ	16	184	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00669	Effector_00007	2TM	2TM	Effector	Payne LJ	6	206	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00670	Effector_00008	2TM	2TM	Effector	Payne LJ	5	351	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00671	Effector_00009	2TM	2TM	Effector	Payne LJ	6	223	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00672	Effector_00010	2TM	2TM	Effector	Payne LJ	10	273	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00673	Effector_00011	2TM	2TM	Effector	Payne LJ	24	214	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00674	Effector_00012	2TM	2TM	Effector	Payne LJ	9	246	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00675	Effector_00013	2TM	2TM	Effector	Payne LJ	15	276	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00676	Effector_00014	2TM	2TM	Effector	Payne LJ	7	354	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00677	Effector_00015	2TM	2TM	Effector	Payne LJ	7	170	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00678	Effector_00016	2TM	2TM	Effector	Payne LJ	9	184	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00679	Effector_00017	2TM	2TM	Effector	Payne LJ	19	218	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00680	Effector_00018	2TM	2TM	Effector	Payne LJ	9	229	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00681	Effector_00019	2TM	2TM	Effector	Payne LJ	9	199	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00682	Effector_00020	2TM	2TM	Effector	Payne LJ	6	218	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00683	Effector_00021	2TM	2TM	Effector	Payne LJ	13	185	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00684	Effector_00022	2TM	2TM	Effector	Payne LJ	6	198	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00685	Effector_00023	2TM	2TM	Effector	Payne LJ	6	174	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00686	Effector_00024	2TM	2TM	Effector	Payne LJ	89	209	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00687	Effector_00025	2TM	2TM	Effector	Payne LJ	6	287	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00688	Effector_00026	2TM	2TM	Effector	Payne LJ	12	372	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00689	Effector_00027	2TM	2TM	Effector	Payne LJ	6	360	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00690	Effector_00028	2TM	2TM	Effector	Payne LJ	11	187	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00691	Effector_00029	2TM	2TM	Effector	Payne LJ	6	176	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00692	Effector_00030	2TM	2TM	Effector	Payne LJ	10	167	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00693	Effector_00031	2TM	2TM	Effector	Payne LJ	20	243	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00694	Effector_00032	2TM	2TM	Effector	Payne LJ	32	208	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00695	Effector_00033	2TM	2TM	Effector	Payne LJ	88	195	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00696	Effector_00034	2TM	2TM	Effector	Payne LJ	120	189	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00697	Effector_00035	2TM	2TM	Effector	Payne LJ	5	207	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00698	Effector_00036	2TM	2TM	Effector	Payne LJ	6	198	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00699	Effector_00037	2TM	2TM	Effector	Payne LJ	5	275	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00700	Effector_00038	2TM	2TM	Effector	Payne LJ	34	173	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00701	Effector_00039	2TM	2TM	Effector	Payne LJ	8	283	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00702	Effector_00040	2TM	2TM	Effector	Payne LJ	36	211	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00703	Effector_00041	2TM	2TM	Effector	Payne LJ	10	204	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00704	Effector_00042	2TM	2TM	Effector	Payne LJ	10	207	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00705	Effector_00043	2TM	2TM	Effector	Payne LJ	15	203	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00706	Effector_00044	2TM	2TM	Effector	Payne LJ	7	172	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00707	Effector_00045	2TM	2TM	Effector	Payne LJ	68	370	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00708	Effector_00046	2TM	2TM	Effector	Payne LJ	5	191	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00709	Effector_00047	2TM	2TM	Effector	Payne LJ	12	236	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00710	Effector_00048	2TM	2TM	Effector	Payne LJ	15	176	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00711	Effector_00049	2TM	2TM	Effector	Payne LJ	10	164	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00712	Effector_00050	2TM	2TM	Effector	Payne LJ	44	171	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00713	Effector_00051	2TM	2TM	Effector	Payne LJ	12	355	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00714	Effector_00052	2TM	2TM	Effector	Payne LJ	8	200	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00715	Effector_00053	4TM	4TM	Effector	Payne LJ	11	315	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00716	Effector_00054	4TM	4TM	Effector	Payne LJ	12	302	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00717	Effector_00055	4TM	4TM	Effector	Payne LJ	22	306	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00718	Effector_00056	4TM	4TM	Effector	Payne LJ	5	291	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00719	Effector_00057	4TM	4TM	Effector	Payne LJ	30	256	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00720	Effector_00058	4TM	4TM	Effector	Payne LJ	18	322	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00721	Effector_00059	4TM	4TM	Effector	Payne LJ	50	305	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00722	Effector_00060	4TM	4TM	Effector	Payne LJ	17	310	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00723	Effector_00061	4TM	4TM	Effector	Payne LJ	12	302	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00724	Effector_00062	4TM	4TM	Effector	Payne LJ	6	287	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00725	Effector_00063	4TM	4TM	Effector	Payne LJ	8	293	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00726	Effector_00064	4TM	4TM	Effector	Payne LJ	5	258	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00727	Effector_00065	TIR	TIR	Effector	Payne LJ	12	590	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00728	Effector_00066	TIR	TIR	Effector	Payne LJ	12	432	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00729	Effector_00067	TIR	TIR	Effector	Payne LJ	43	310	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00730	Effector_00068	TIR	TIR	Effector	Payne LJ	7	299	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00731	Effector_00069	TIR	TIR	Effector	Payne LJ	72	306	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00732	Effector_00070	TIR	TIR	Effector	Payne LJ	9	301	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00733	Effector_00071	TIR	TIR	Effector	Payne LJ	34	388	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00734	Effector_00072	cAMP-binding	cAMP-binding	Effector	Payne LJ	10	374	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00735	Effector_00073	Endonuclease	Endonuclease	Effector	Payne LJ	5	462	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00736	Effector_00074	Endonuclease	Endonuclease	Effector	Payne LJ	6	561	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00737	Effector_00075	Endonuclease	Endonuclease	Effector	Payne LJ	70	506	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00738	Effector_00076	Endonuclease	Endonuclease	Effector	Payne LJ	33	529	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00739	Effector_00077	Endonuclease	Endonuclease	Effector	Payne LJ	108	378	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00740	Effector_00078	Endonuclease	Endonuclease	Effector	Payne LJ	52	391	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00741	Effector_00079	Endonuclease	Endonuclease	Effector	Payne LJ	31	489	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00742	Effector_00080	Endonuclease	Endonuclease	Effector	Payne LJ	19	527	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00743	Effector_00081	Endonuclease	Endonuclease	Effector	Payne LJ	5	384	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00744	Effector_00082	Endonuclease	Endonuclease	Effector	Payne LJ	5	495	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00745	Effector_00083	Endonuclease	Endonuclease (NucC)	Effector	Payne LJ	124	244	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00746	Effector_00084	Endonuclease	Endonuclease	Effector	Payne LJ	8	389	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00747	Effector_00085	Endonuclease	Endonuclease	Effector	Payne LJ	10	373	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00748	Effector_00086	Endonuclease	Endonuclease	Effector	Payne LJ	7	473	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00749	Effector_00087	Endonuclease	Endonuclease	Effector	Payne LJ	45	395	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00750	Effector_00088	Endonuclease	Endonuclease	Effector	Payne LJ	13	465	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00751	Effector_00089	Endonuclease	Endonuclease	Effector	Payne LJ	22	530	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00752	Effector_00090	Endonuclease	Endonuclease	Effector	Payne LJ	13	508	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00753	Effector_00091	Exonuclease	Exonuclease	Effector	Payne LJ	72	184	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00754	Effector_00092	Peptidase	Peptidase	Effector	Payne LJ	4	598	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00755	Effector_00093	Phospholipase	Phospholipase	Effector	Payne LJ	56	311	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00756	Effector_00094	Phospholipase	Phospholipase	Effector	Payne LJ	18	280	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00757	Effector_00095	Phospholipase	Phospholipase	Effector	Payne LJ	131	331	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00758	Effector_00096	Phospholipase	Phospholipase	Effector	Payne LJ	204	331	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00759	Effector_00097	PN-superfamily	PN-superfamily	Effector	Payne LJ	25	506	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00760	Effector_00098	Unknown effector	Unknown effector	Effector	Payne LJ	5	277	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00761	Cyclase_00001	adenylate-guanylate-cyclase	adenylate-guanylate-cyclase	Cyclase	Payne LJ	6	438	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00762	Cyclase_00002	adenylate-guanylate-cyclase	adenylate-guanylate-cyclase	Cyclase	Payne LJ	93	508	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00763	Cyclase_00003	adenylate-guanylate-cyclase	adenylate-guanylate-cyclase	Cyclase	Payne LJ	9	268	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00764	Cyclase_00004	adenylate-guanylate-cyclase	adenylate-guanylate-cyclase	Cyclase	Payne LJ	21	449	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00765	Cyclase_00005	adenylate-guanylate-cyclase	adenylate-guanylate-cyclase	Cyclase	Payne LJ	5	477	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00766	Cyclase_00006	adenylate-guanylate-cyclase	adenylate-guanylate-cyclase	Cyclase	Payne LJ	64	232	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00767	Cyclase_00007	adenylate-guanylate-cyclase	adenylate-guanylate-cyclase	Cyclase	Payne LJ	25	337	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00768	Cyclase_00008	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	75	380	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00769	Cyclase_00009	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	60	261	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00770	Cyclase_00010	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	38	509	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00771	Cyclase_00011	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	30	271	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00772	Cyclase_00012	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	88	375	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00773	Cyclase_00013	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	29	334	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00774	Cyclase_00014	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	75	316	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00775	Cyclase_00015	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	32	389	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00776	Cyclase_00016	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	39	287	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00777	Cyclase_00017	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	12	341	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00778	Cyclase_00018	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	36	455	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00779	Cyclase_00019	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	16	345	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00780	Cyclase_00020	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	215	388	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00781	Cyclase_00021	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	26	380	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00782	Cyclase_00022	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	8	417	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00783	Cyclase_00023	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	64	349	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00784	Cyclase_00024	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	37	351	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00785	Cyclase_00025	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	6	443	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00786	Cyclase_00026	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	84	293	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00787	Cyclase_00027	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	41	333	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00788	Cyclase_00028	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	93	297	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00789	Cyclase_00029	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	8	261	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00790	Cyclase_00030	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	22	310	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00791	Cyclase_00031	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	6	345	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00792	Cyclase_00032	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	7	236	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00793	Cyclase_00033	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	89	462	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00794	Cyclase_00034	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	49	297	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00795	Cyclase_00035	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	120	340	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00796	Cyclase_00036	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	130	432	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00797	Cyclase_00037	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	56	417	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00798	Cyclase_00038	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	6	344	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00799	Cyclase_00039	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	9	449	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00800	Cyclase_00040	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	66	420	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00801	Cyclase_00041	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	73	295	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00802	Cyclase_00042	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	95	332	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00803	Cyclase_00043	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	97	253	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00804	Cyclase_00044	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	5	256	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00805	Cyclase_00045	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	8	314	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00806	Cyclase_00046	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	19	396	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00807	Cyclase_00047	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	17	342	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00808	Cyclase_00048	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	105	325	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00809	Cyclase_00049	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	75	295	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00810	Cyclase_00050	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	34	335	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00811	Cyclase_00051	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	21	427	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00812	Cyclase_00052	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	7	352	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00813	Cyclase_00053	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	12	417	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00814	Cyclase_00054	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	6	295	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00815	Cyclase_00055	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	20	393	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00816	Cyclase_00056	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	6	542	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00817	Cyclase_00057	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	26	419	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00818	Cyclase_00058	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	25	322	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00819	Cyclase_00059	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	5	96	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00820	Cyclase_00060	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	5	324	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00821	Cyclase_00061	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	38	434	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00822	Cyclase_00062	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	64	375	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00823	Cyclase_00063	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	42	285	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00824	Cyclase_00064	oligonucleotide-cyclase	oligonucleotide-cyclase	Cyclase	Payne LJ	27	466	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00663	Effector_00001	1TM	Effector		Payne LJ	8	317	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00664	Effector_00002	1TM	Effector		Payne LJ	16	174	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00665	Effector_00003	1TM	Effector		Payne LJ	8	178	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00666	Effector_00004	1TM	Effector		Payne LJ	17	174	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00667	Effector_00005	2TM	Effector		Payne LJ	22	299	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00668	Effector_00006	2TM	Effector		Payne LJ	16	184	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00669	Effector_00007	2TM	Effector		Payne LJ	6	206	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00670	Effector_00008	2TM	Effector		Payne LJ	5	351	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00671	Effector_00009	2TM	Effector		Payne LJ	6	223	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00672	Effector_00010	2TM	Effector		Payne LJ	10	273	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00673	Effector_00011	2TM	Effector		Payne LJ	24	214	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00674	Effector_00012	2TM	Effector		Payne LJ	9	246	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00675	Effector_00013	2TM	Effector		Payne LJ	15	276	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00676	Effector_00014	2TM	Effector		Payne LJ	7	354	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00677	Effector_00015	2TM	Effector		Payne LJ	7	170	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00678	Effector_00016	2TM	Effector		Payne LJ	9	184	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00679	Effector_00017	2TM	Effector		Payne LJ	19	218	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00680	Effector_00018	2TM	Effector		Payne LJ	9	229	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00681	Effector_00019	2TM	Effector		Payne LJ	9	199	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00682	Effector_00020	2TM	Effector		Payne LJ	6	218	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00683	Effector_00021	2TM	Effector		Payne LJ	13	185	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00684	Effector_00022	2TM	Effector		Payne LJ	6	198	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00685	Effector_00023	2TM	Effector		Payne LJ	6	174	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00686	Effector_00024	2TM	Effector		Payne LJ	89	209	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00687	Effector_00025	2TM	Effector		Payne LJ	6	287	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00688	Effector_00026	2TM	Effector		Payne LJ	12	372	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00689	Effector_00027	2TM	Effector		Payne LJ	6	360	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00690	Effector_00028	2TM	Effector		Payne LJ	11	187	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00691	Effector_00029	2TM	Effector		Payne LJ	6	176	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00692	Effector_00030	2TM	Effector		Payne LJ	10	167	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00693	Effector_00031	2TM	Effector		Payne LJ	20	243	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00694	Effector_00032	2TM	Effector		Payne LJ	32	208	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00695	Effector_00033	2TM	Effector		Payne LJ	88	195	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00696	Effector_00034	2TM	Effector		Payne LJ	120	189	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00697	Effector_00035	2TM	Effector		Payne LJ	5	207	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00698	Effector_00036	2TM	Effector		Payne LJ	6	198	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00699	Effector_00037	2TM	Effector		Payne LJ	5	275	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00700	Effector_00038	2TM	Effector		Payne LJ	34	173	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00701	Effector_00039	2TM	Effector		Payne LJ	8	283	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00702	Effector_00040	2TM	Effector		Payne LJ	36	211	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00703	Effector_00041	2TM	Effector		Payne LJ	10	204	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00704	Effector_00042	2TM	Effector		Payne LJ	10	207	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00705	Effector_00043	2TM	Effector		Payne LJ	15	203	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00706	Effector_00044	2TM	Effector		Payne LJ	7	172	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00707	Effector_00045	2TM	Effector		Payne LJ	68	370	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00708	Effector_00046	2TM	Effector		Payne LJ	5	191	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00709	Effector_00047	2TM	Effector		Payne LJ	12	236	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00710	Effector_00048	2TM	Effector		Payne LJ	15	176	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00711	Effector_00049	2TM	Effector		Payne LJ	10	164	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00712	Effector_00050	2TM	Effector		Payne LJ	44	171	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00713	Effector_00051	2TM	Effector		Payne LJ	12	355	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00714	Effector_00052	2TM	Effector		Payne LJ	8	200	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00715	Effector_00053	4TM	Effector		Payne LJ	11	315	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00716	Effector_00054	4TM	Effector		Payne LJ	12	302	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00717	Effector_00055	4TM	Effector		Payne LJ	22	306	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00718	Effector_00056	4TM	Effector		Payne LJ	5	291	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00719	Effector_00057	4TM	Effector		Payne LJ	30	256	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00720	Effector_00058	4TM	Effector		Payne LJ	18	322	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00721	Effector_00059	4TM	Effector		Payne LJ	50	305	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00722	Effector_00060	4TM	Effector		Payne LJ	17	310	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00723	Effector_00061	4TM	Effector		Payne LJ	12	302	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00724	Effector_00062	4TM	Effector		Payne LJ	6	287	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00725	Effector_00063	4TM	Effector		Payne LJ	8	293	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00726	Effector_00064	4TM	Effector		Payne LJ	5	258	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00727	Effector_00065	TIR	Effector		Payne LJ	12	590	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00728	Effector_00066	TIR	Effector		Payne LJ	12	432	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00729	Effector_00067	TIR	Effector		Payne LJ	43	310	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00730	Effector_00068	TIR	Effector		Payne LJ	7	299	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00731	Effector_00069	TIR	Effector		Payne LJ	72	306	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00732	Effector_00070	TIR	Effector		Payne LJ	9	301	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00733	Effector_00071	TIR	Effector		Payne LJ	34	388	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00734	Effector_00072	cAMP-binding	Effector		Payne LJ	10	374	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00735	Effector_00073	Endonuclease	Effector		Payne LJ	5	462	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00736	Effector_00074	Endonuclease	Effector		Payne LJ	6	561	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00737	Effector_00075	Endonuclease	Effector		Payne LJ	70	506	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00738	Effector_00076	Endonuclease	Effector		Payne LJ	33	529	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00739	Effector_00077	Endonuclease	Effector		Payne LJ	108	378	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00740	Effector_00078	Endonuclease	Effector		Payne LJ	52	391	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00741	Effector_00079	Endonuclease	Effector		Payne LJ	31	489	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00742	Effector_00080	Endonuclease	Effector		Payne LJ	19	527	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00743	Effector_00081	Endonuclease	Effector		Payne LJ	5	384	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00744	Effector_00082	Endonuclease	Effector		Payne LJ	5	495	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00745	Effector_00083	Endonuclease (NucC)	Effector		Payne LJ	124	244	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00746	Effector_00084	Endonuclease	Effector		Payne LJ	8	389	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00747	Effector_00085	Endonuclease	Effector		Payne LJ	10	373	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00748	Effector_00086	Endonuclease	Effector		Payne LJ	7	473	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00749	Effector_00087	Endonuclease	Effector		Payne LJ	45	395	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00750	Effector_00088	Endonuclease	Effector		Payne LJ	13	465	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00751	Effector_00089	Endonuclease	Effector		Payne LJ	22	530	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00752	Effector_00090	Endonuclease	Effector		Payne LJ	13	508	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00753	Effector_00091	Exonuclease	Effector		Payne LJ	72	184	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00754	Effector_00092	Peptidase	Effector		Payne LJ	4	598	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00755	Effector_00093	Phospholipase	Effector		Payne LJ	56	311	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00756	Effector_00094	Phospholipase	Effector		Payne LJ	18	280	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00757	Effector_00095	Phospholipase	Effector		Payne LJ	131	331	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00758	Effector_00096	Phospholipase	Effector		Payne LJ	204	331	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00759	Effector_00097	PN-superfamily	Effector		Payne LJ	25	506	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00760	Effector_00098	Unknown effector	Effector		Payne LJ	5	277	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00761	Cyclase_00001	adenylate-guanylate-cyclase	Cyclase		Payne LJ	6	438	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00762	Cyclase_00002	adenylate-guanylate-cyclase	Cyclase		Payne LJ	93	508	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00763	Cyclase_00003	adenylate-guanylate-cyclase	Cyclase		Payne LJ	9	268	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00764	Cyclase_00004	adenylate-guanylate-cyclase	Cyclase		Payne LJ	21	449	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00765	Cyclase_00005	adenylate-guanylate-cyclase	Cyclase		Payne LJ	5	477	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00766	Cyclase_00006	adenylate-guanylate-cyclase	Cyclase		Payne LJ	64	232	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00767	Cyclase_00007	adenylate-guanylate-cyclase	Cyclase		Payne LJ	25	337	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00768	Cyclase_00008	oligonucleotide-cyclase	Cyclase		Payne LJ	75	380	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00769	Cyclase_00009	oligonucleotide-cyclase	Cyclase		Payne LJ	60	261	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00770	Cyclase_00010	oligonucleotide-cyclase	Cyclase		Payne LJ	38	509	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00771	Cyclase_00011	oligonucleotide-cyclase	Cyclase		Payne LJ	30	271	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00772	Cyclase_00012	oligonucleotide-cyclase	Cyclase		Payne LJ	88	375	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00773	Cyclase_00013	oligonucleotide-cyclase	Cyclase		Payne LJ	29	334	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00774	Cyclase_00014	oligonucleotide-cyclase	Cyclase		Payne LJ	75	316	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00775	Cyclase_00015	oligonucleotide-cyclase	Cyclase		Payne LJ	32	389	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00776	Cyclase_00016	oligonucleotide-cyclase	Cyclase		Payne LJ	39	287	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00777	Cyclase_00017	oligonucleotide-cyclase	Cyclase		Payne LJ	12	341	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00778	Cyclase_00018	oligonucleotide-cyclase	Cyclase		Payne LJ	36	455	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00779	Cyclase_00019	oligonucleotide-cyclase	Cyclase		Payne LJ	16	345	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00780	Cyclase_00020	oligonucleotide-cyclase	Cyclase		Payne LJ	215	388	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00781	Cyclase_00021	oligonucleotide-cyclase	Cyclase		Payne LJ	26	380	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00782	Cyclase_00022	oligonucleotide-cyclase	Cyclase		Payne LJ	8	417	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00783	Cyclase_00023	oligonucleotide-cyclase	Cyclase		Payne LJ	64	349	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00784	Cyclase_00024	oligonucleotide-cyclase	Cyclase		Payne LJ	37	351	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00785	Cyclase_00025	oligonucleotide-cyclase	Cyclase		Payne LJ	6	443	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00786	Cyclase_00026	oligonucleotide-cyclase	Cyclase		Payne LJ	84	293	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00787	Cyclase_00027	oligonucleotide-cyclase	Cyclase		Payne LJ	41	333	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00788	Cyclase_00028	oligonucleotide-cyclase	Cyclase		Payne LJ	93	297	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00789	Cyclase_00029	oligonucleotide-cyclase	Cyclase		Payne LJ	8	261	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00790	Cyclase_00030	oligonucleotide-cyclase	Cyclase		Payne LJ	22	310	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00791	Cyclase_00031	oligonucleotide-cyclase	Cyclase		Payne LJ	6	345	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00792	Cyclase_00032	oligonucleotide-cyclase	Cyclase		Payne LJ	7	236	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00793	Cyclase_00033	oligonucleotide-cyclase	Cyclase		Payne LJ	89	462	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00794	Cyclase_00034	oligonucleotide-cyclase	Cyclase		Payne LJ	49	297	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00795	Cyclase_00035	oligonucleotide-cyclase	Cyclase		Payne LJ	120	340	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00796	Cyclase_00036	oligonucleotide-cyclase	Cyclase		Payne LJ	130	432	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00797	Cyclase_00037	oligonucleotide-cyclase	Cyclase		Payne LJ	56	417	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00798	Cyclase_00038	oligonucleotide-cyclase	Cyclase		Payne LJ	6	344	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00799	Cyclase_00039	oligonucleotide-cyclase	Cyclase		Payne LJ	9	449	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00800	Cyclase_00040	oligonucleotide-cyclase	Cyclase		Payne LJ	66	420	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00801	Cyclase_00041	oligonucleotide-cyclase	Cyclase		Payne LJ	73	295	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00802	Cyclase_00042	oligonucleotide-cyclase	Cyclase		Payne LJ	95	332	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00803	Cyclase_00043	oligonucleotide-cyclase	Cyclase		Payne LJ	97	253	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00804	Cyclase_00044	oligonucleotide-cyclase	Cyclase		Payne LJ	5	256	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00805	Cyclase_00045	oligonucleotide-cyclase	Cyclase		Payne LJ	8	314	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00806	Cyclase_00046	oligonucleotide-cyclase	Cyclase		Payne LJ	19	396	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00807	Cyclase_00047	oligonucleotide-cyclase	Cyclase		Payne LJ	17	342	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00808	Cyclase_00048	oligonucleotide-cyclase	Cyclase		Payne LJ	105	325	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00809	Cyclase_00049	oligonucleotide-cyclase	Cyclase		Payne LJ	75	295	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00810	Cyclase_00050	oligonucleotide-cyclase	Cyclase		Payne LJ	34	335	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00811	Cyclase_00051	oligonucleotide-cyclase	Cyclase		Payne LJ	21	427	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00812	Cyclase_00052	oligonucleotide-cyclase	Cyclase		Payne LJ	7	352	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00813	Cyclase_00053	oligonucleotide-cyclase	Cyclase		Payne LJ	12	417	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00814	Cyclase_00054	oligonucleotide-cyclase	Cyclase		Payne LJ	6	295	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00815	Cyclase_00055	oligonucleotide-cyclase	Cyclase		Payne LJ	20	393	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00816	Cyclase_00056	oligonucleotide-cyclase	Cyclase		Payne LJ	6	542	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00817	Cyclase_00057	oligonucleotide-cyclase	Cyclase		Payne LJ	26	419	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00818	Cyclase_00058	oligonucleotide-cyclase	Cyclase		Payne LJ	25	322	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00819	Cyclase_00059	oligonucleotide-cyclase	Cyclase		Payne LJ	5	96	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00820	Cyclase_00060	oligonucleotide-cyclase	Cyclase		Payne LJ	5	324	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00821	Cyclase_00061	oligonucleotide-cyclase	Cyclase		Payne LJ	38	434	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00822	Cyclase_00062	oligonucleotide-cyclase	Cyclase		Payne LJ	64	375	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00823	Cyclase_00063	oligonucleotide-cyclase	Cyclase		Payne LJ	42	285	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00824	Cyclase_00064	oligonucleotide-cyclase	Cyclase		Payne LJ	27	466	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00825	E1E2_00001	E1-E2	E1-E2		Payne LJ	8	568	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00826	E1E2_00002	E1-E2	E1-E2		Payne LJ	9	576	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00827	E1E2_00003	E1-E2	E1-E2		Payne LJ	5	711	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
