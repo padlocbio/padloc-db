@@ -742,7 +742,7 @@ PDLC00741	Effector_00079	Endonuclease	Effector		Payne LJ	31	489	0.00001	0.3	0.3	
 PDLC00742	Effector_00080	Endonuclease	Effector		Payne LJ	19	527	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00743	Effector_00081	Endonuclease	Effector		Payne LJ	5	384	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00744	Effector_00082	Endonuclease	Effector		Payne LJ	5	495	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00745	Effector_00083	Endonuclease	Effector		Payne LJ	124	244	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00745	Effector_00083	Endonuclease (NucC)	Effector		Payne LJ	124	244	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00746	Effector_00084	Endonuclease	Effector		Payne LJ	8	389	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00747	Effector_00085	Endonuclease	Effector		Payne LJ	10	373	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00748	Effector_00086	Endonuclease	Effector		Payne LJ	7	473	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
@@ -757,7 +757,7 @@ PDLC00756	Effector_00094	Phospholipase	Effector		Payne LJ	18	280	0.00001	0.3	0.3
 PDLC00757	Effector_00095	Phospholipase	Effector		Payne LJ	131	331	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00758	Effector_00096	Phospholipase	Effector		Payne LJ	204	331	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00759	Effector_00097	PN-superfamily	Effector		Payne LJ	25	506	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00760	Effector_00098	Unknown	Effector		Payne LJ	5	277	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00760	Effector_00098	Unknown effector	Effector		Payne LJ	5	277	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00761	Cyclase_00001	adenylate-guanylate-cyclase	Cyclase		Payne LJ	6	438	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00762	Cyclase_00002	adenylate-guanylate-cyclase	Cyclase		Payne LJ	93	508	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00763	Cyclase_00003	adenylate-guanylate-cyclase	Cyclase		Payne LJ	9	268	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
@@ -1029,10 +1029,10 @@ PDLC01028	cas_Csy1	CRISPR type I-F/YPEST-associated protein Csy1	Cas8f	cas_effec
 PDLC01029	cas_Csy2	CRISPR type I-F/YPEST-associated protein Csy2	Cas5f	cas_effector	Haft DH	6	296	0.00001	0.3	0.6	CRISPR-CAS	10/ggdjdf	TIGRFAM; TIGR02565	"CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a widespread family of prokaryotic direct repeats with spacers of unique sequence between consecutive repeats. This protein family, typified by YPO2464 of Yersinia pestis, is a CRISPR-associated (Cas) family strictly associated with the Ypest subtype of CRISPR/Cas locus. This family is designated Csy2, for CRISPR/Cas Subtype Ypest protein 2."
 PDLC01030	cas_Csy3	CRISPR type I-F/YPEST-associated protein Csy3	Cas7f	cas_effector	Haft DH	6	341	0.00001	0.3	0.3	CRISPR-CAS	10/ggdjdf	TIGRFAM; TIGR02566	"CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a widespread family of prokaryotic direct repeats with spacers of unique sequence between consecutive repeats. This protein family, typified by YPO2463 of Yersinia pestis, is a CRISPR-associated (Cas) family strictly associated with the Ypest subtype of CRISPR/Cas locus. This family is designated Csy3, for CRISPR/Cas Subtype Ypest protein 3."
 PDLC01031	shah_acc_0001	CARF+HEPN	Csx1/Csm6	accessory_nuclease	Shah SA	116	357	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
-PDLC01032	shah_acc_0002	CARF+HEPN	Csx1	accessory_nuclease	Shah SA	94	412	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
-PDLC01033	shah_acc_0003	CARF+RelE	Csm6	accessory_nuclease	Shah SA	70	294	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
+PDLC01032	shah_acc_0002	CARF+HEPN	Csx1/Csm6	accessory_nuclease	Shah SA	94	412	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
+PDLC01033	shah_acc_0003	CARF+RelE	CARF_RelE	accessory_nuclease	Shah SA	70	294	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01034	shah_acc_0005	core gene (cas11)	Cas11	cas_effector	Shah SA	64	148	0.00001	0.3	0.3	CRISPR-CAS	10/ggqv9p		
-PDLC01035	shah_acc_0006	CARF+HEPN	Csx1	accessory_nuclease	Shah SA	61	396	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
+PDLC01035	shah_acc_0006	CARF+HEPN	Csx1/Csm6	accessory_nuclease	Shah SA	61	396	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01036	shah_acc_0007	CARF+WYL C	WYL/Csx1	cas_accessory	Shah SA	51	279	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01037	shah_acc_0009	ARF+Nuclease	Csx1	accessory_nuclease	Shah SA	49	320	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01038	shah_acc_0011	peptidase	Csx15/20/peptidase	cas_accessory	Shah SA	41	118	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
@@ -1065,8 +1065,8 @@ PDLC01064	shah_acc_0083	cluster 17 associated	cas_RFas	cas_accessory	Shah SA	6	1
 PDLC01065	shah_acc_0084	cluster 17 associated	cas_RFas	cas_accessory	Shah SA	6	119	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01066	shah_acc_0087	Cmr7	Cmr7	cas_accessory	Shah SA	6	159	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01067	shah_acc_0096	DNA binding C-ter.	Mvol_0529-fam	cas_accessory	Shah SA	5	115	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
-PDLC01068	shah_acc_0104	CARF+PIN	Csx1	accessory_nuclease	Shah SA	5	373	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
-PDLC01069	shah_acc_0107	CARF	Csx1	accessory_nuclease	Shah SA	5	556	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
+PDLC01068	shah_acc_0104	CARF+PIN	CARF_PIN	accessory_nuclease	Shah SA	5	373	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
+PDLC01069	shah_acc_0107	CARF	Can1	accessory_nuclease	Shah SA	5	556	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01070	shah_acc_0108	cluster 17 associated	cas_RFas	cas_accessory	Shah SA	5	137	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01071	shah_acc_0116	cluster 29 associated	C3a116	cas_accessory	Shah SA	4	235	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01072	shah_acc_0121	Unknown function	Csx23	cas_accessory	Shah SA	4	143	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
@@ -1899,7 +1899,7 @@ PDLC01898	CARF4--CARF_PDDEXK_MK_CARF_01001244		CARF4--CARF_PDDEXK	accessory_nucl
 PDLC01899	CARF4--CARF_PDDEXK_MK_CARF_00011349		CARF4--CARF_PDDEXK	accessory_nuclease	PADLOC; Jackson SA	6	421	0.00001	0.5	0.5	CRISPR-CAS			
 PDLC01900	CARF4--CARF_PDDEXK_AAA_CARF4--CARF_PDDEXK_AAA		CARF4--CARF_PDDEXK_AAA	accessory_nuclease	PADLOC; Jackson SA	7	556	0.00001	0.5	0.5	CRISPR-CAS			
 PDLC01901	CARF4--CARF_PDDEXK_CARF_MK_CARF_01001186		CARF4--CARF_PDDEXK_CARF	accessory_nuclease	PADLOC; Jackson SA	23	691	0.00001	0.5	0.5	CRISPR-CAS			
-PDLC01902	CARF4--CARF_PDDEXK_CARF_MK_CARF_01000893		CARF4--CARF_PDDEXK_CARF	accessory_nuclease	PADLOC; Jackson SA	17	598	0.00001	0.5	0.5	CRISPR-CAS			
+PDLC01902	CARF4--CARF_PDDEXK_CARF_MK_CARF_01000893		Can1	accessory_nuclease	PADLOC; Jackson SA	17	598	0.00001	0.5	0.5	CRISPR-CAS			
 PDLC01903	CARF4--CARF_PDDEXK_TM_CARF4--CARF_PDDEXK_TM		CARF4--CARF_PDDEXK_TM	accessory_nuclease	PADLOC; Jackson SA	10	380	0.00001	0.5	0.5	CRISPR-CAS			
 PDLC01904	CARF5--CARF_MK_CARF_00010430		CARF5--CARF	cas_accessory	PADLOC; Jackson SA	161	351	0.00001	0.5	0.5	CRISPR-CAS			
 PDLC01905	CARF5--CARF_MK_CARF_01000523		CARF5--CARF	cas_accessory	PADLOC; Jackson SA	18	176	0.00001	0.5	0.5	CRISPR-CAS			
