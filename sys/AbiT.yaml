@@ -1,0 +1,15 @@
+---
+# system description
+maximum_separation: 1
+minimum_core: 2
+minimum_total: 2
+
+# genes
+core_genes:
+  - AbiTi
+  - AbiTii
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...
