@@ -2149,10 +2149,10 @@ PDLC02148	Csn2_WP_012290143.1		Csn2	cas_effector	PADLOC; Jackson SA	6	215	0.0001
 PDLC02149	TniQ_IB_TniQ_IB		TniQ_IB	cas_accessory	PADLOC; Jackson SA	11	306	0.00001	0.5	0.5	CRISPR-CAS			
 PDLC02150	Cas7_IIIf_Cas7_IIIf		Cas7_IIIf	cas_effector	PADLOC; Jackson SA	4	237	0.0001	0.5	0.5	CRISPR-CAS			
 PDLC02151	Cas5_IIIf_Cas5_IIIf		Cas5_IIIf	cas_effector	PADLOC; Jackson SA	4	195	0.0001	0.5	0.5	CRISPR-CAS			
-PDLC02152	padloc_Cas13a		Cas13a	cas_effector | Cas13	PADLOC; Jackson SA	48	1008	1.00E-10	0.8	0.5	CRISPR-CAS			
-PDLC02153	padloc_Cas13b		Cas13b	cas_effector | Cas13	PADLOC; Jackson SA	71	903	1.00E-10	0.8	0.5	CRISPR-CAS			
-PDLC02154	padloc_Cas13c		Cas13c	cas_effector | Cas13	PADLOC; Jackson SA	15	822	1.00E-10	0.8	0.5	CRISPR-CAS			
-PDLC02155	padloc_Cas13d		Cas13d	cas_effector | Cas13	PADLOC; Jackson SA	7	817	1.00E-10	0.8	0.5	CRISPR-CAS			
+PDLC02152	padloc_Cas13a		Cas13a	cas_effector|Cas13	PADLOC; Jackson SA	48	1008	1.00E-10	0.8	0.5	CRISPR-CAS			
+PDLC02153	padloc_Cas13b		Cas13b	cas_effector|Cas13	PADLOC; Jackson SA	71	903	1.00E-10	0.8	0.5	CRISPR-CAS			
+PDLC02154	padloc_Cas13c		Cas13c	cas_effector|Cas13	PADLOC; Jackson SA	15	822	1.00E-10	0.8	0.5	CRISPR-CAS			
+PDLC02155	padloc_Cas13d		Cas13d	cas_effector|Cas13	PADLOC; Jackson SA	7	817	1.00E-10	0.8	0.5	CRISPR-CAS			
 PDLC02156	padloc_Cas5_IIIh		Cas5_IIIh	cas_effector	PADLOC; Jackson SA	38	577	0.0001	0.5	0.5	CRISPR-CAS			
 PDLC02157	ApeA_00001	NA	ApeA	NA	Payne LJ	10	601	1.00E-25	0.5	0.5	ApeA	10/gpsx	NA	NA
 PDLC02158	Avs1a_00001	NA	Avs1a	NA	Payne LJ	21	392	0.00001	0.3	0.3	AVAST	10/gpsx	NA	NA
