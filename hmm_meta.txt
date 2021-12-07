@@ -731,7 +731,7 @@ PDLC00730	Effector_00068	TIR	Effector		Payne LJ	7	299	0.00001	0.3	0.3	CBASS	10/g
 PDLC00731	Effector_00069	TIR	Effector		Payne LJ	72	306	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00732	Effector_00070	TIR	Effector		Payne LJ	9	301	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00733	Effector_00071	TIR	Effector		Payne LJ	34	388	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00734	Effector_00072	Pycsar cyclase	PycC		Payne LJ	10	374	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00734	Effector_00072	Pycsar cyclase	PycC		Payne LJ	10	374	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
 PDLC00735	Effector_00073	Endonuclease	Effector		Payne LJ	5	462	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00736	Effector_00074	Endonuclease	Effector		Payne LJ	6	561	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00737	Effector_00075	Endonuclease	Effector		Payne LJ	70	506	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
@@ -758,13 +758,13 @@ PDLC00757	Effector_00095	Phospholipase	Effector		Payne LJ	131	331	0.00001	0.3	0.
 PDLC00758	Effector_00096	Phospholipase	Effector		Payne LJ	204	331	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00759	Effector_00097	PN-superfamily	Effector		Payne LJ	25	506	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00760	Effector_00098	Unknown effector	Effector		Payne LJ	5	277	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00761	Cyclase_00001	Pycsar cyclase	PycC		Payne LJ	6	438	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
-PDLC00762	Cyclase_00002	Pycsar cyclase	PycC		Payne LJ	93	508	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
-PDLC00763	Cyclase_00003	Pycsar cyclase	PycC		Payne LJ	9	268	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
-PDLC00764	Cyclase_00004	Pycsar cyclase	PycC		Payne LJ	21	449	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
-PDLC00765	Cyclase_00005	Pycsar cyclase	PycC		Payne LJ	5	477	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
-PDLC00766	Cyclase_00006	Pycsar cyclase	PycC		Payne LJ	64	232	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
-PDLC00767	Cyclase_00007	Pycsar cyclase	PycC		Payne LJ	25	337	0.00001	0.3	0.3	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00761	Cyclase_00001	Pycsar cyclase	PycC		Payne LJ	6	438	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00762	Cyclase_00002	Pycsar cyclase	PycC		Payne LJ	93	508	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00763	Cyclase_00003	Pycsar cyclase	PycC		Payne LJ	9	268	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00764	Cyclase_00004	Pycsar cyclase	PycC		Payne LJ	21	449	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00765	Cyclase_00005	Pycsar cyclase	PycC		Payne LJ	5	477	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00766	Cyclase_00006	Pycsar cyclase	PycC		Payne LJ	64	232	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
+PDLC00767	Cyclase_00007	Pycsar cyclase	PycC		Payne LJ	25	337	1.00E-12	0.7	0.7	CBASS	10/gg84nk		Reassigned from CBASS
 PDLC00768	Cyclase_00008	oligonucleotide-cyclase	Cyclase		Payne LJ	75	380	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00769	Cyclase_00009	oligonucleotide-cyclase	Cyclase		Payne LJ	60	261	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00770	Cyclase_00010	oligonucleotide-cyclase	Cyclase		Payne LJ	38	509	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
@@ -1031,7 +1031,7 @@ PDLC01030	cas_Csy3	CRISPR type I-F/YPEST-associated protein Csy3	Cas7f	cas_effec
 PDLC01031	shah_acc_0001	CARF+HEPN	Csx1/Csm6	accessory_nuclease	Shah SA	116	357	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01032	shah_acc_0002	CARF+HEPN	Csx1/Csm6	accessory_nuclease	Shah SA	94	412	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01033	shah_acc_0003	CARF+RelE	CARF_RelE	accessory_nuclease	Shah SA	70	294	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
-PDLC01034	shah_acc_0005	core gene (cas11)	Cas11	cas_effector	Shah SA	64	148	0.00001	0.3	0.3	CRISPR-CAS	10/ggqv9p		
+PDLC01034	shah_acc_0005	core gene (cas11)	Csx19	cas_effector	Shah SA	64	148	0.00001	0.3	0.3	CRISPR-CAS	10/ggqv9p	Reassigned from Cas11	
 PDLC01035	shah_acc_0006	CARF+HEPN	Csx1/Csm6	accessory_nuclease	Shah SA	61	396	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01036	shah_acc_0007	CARF+WYL C	WYL/Csx1	cas_accessory	Shah SA	51	279	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01037	shah_acc_0009	ARF+Nuclease	Csx1	accessory_nuclease	Shah SA	49	320	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
@@ -1045,9 +1045,9 @@ PDLC01044	shah_acc_0033	Type I-A associated	Csa3	cas_accessory	Shah SA	13	194	0.
 PDLC01045	shah_acc_0035	Csx3-AAA	Csx3	ring_nuclease	Shah SA	12	286	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01046	shah_acc_0036	HTH-WYL	WYL	regulation	Shah SA	11	435	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01047	shah_acc_0037	HNH nuclease	Csx26	cas_accessory	Shah SA	11	105	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
-PDLC01048	shah_acc_0038	Unknown function	C3a38	cas_accessory	Shah SA	11	237	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
+PDLC01048	shah_acc_0038	Unknown function	CRISPR-T	cas_accessory	Shah SA	11	237	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p	Updated based on Rouillon et al.	
 PDLC01049	shah_acc_0042	core gene (cas11)	Cas11	cas_effector	Shah SA	9	123	0.00001	0.3	0.3	CRISPR-CAS	10/ggqv9p		
-PDLC01050	shah_acc_0043	Lon protease	C3a43	cas_accessory	Shah SA	10	458	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
+PDLC01050	shah_acc_0043	Lon protease	CRISPR-Lon	cas_accessory	Shah SA	10	458	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p	Updated based on Rouillon et al.	
 PDLC01051	shah_acc_0045	NucC nuclease	NucC	accessory_nuclease	Shah SA	9	243	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01052	shah_acc_0047	peptidase	protease	cas_accessory	Shah SA	9	96	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
 PDLC01053	shah_acc_0050	TM+CARF	Csx1	accessory_nuclease	Shah SA	8	212	0.00001	0.5	0.5	CRISPR-CAS	10/ggqv9p		
@@ -2359,3 +2359,13 @@ PDLC02358	Old	Old	Old		PADLOC; Jackson SA	227	578	1.00E-20	0.8	0.8	Abi	10/fkgq7x
 PDLC02359	Tin	Tin	Tin		PADLOC; Jackson SA	25	239	1.00E-20	0.8	0.8	Abi	10/gndc4r		NA
 PDLC02360	PrrC	PrrC	PrrC		PADLOC; Jackson SA	1202	372	1.00E-20	0.8	0.8	Abi	10/gndc4t		NA
 PDLC02361	PifA	PifA	PifA		PADLOC; Jackson SA	214	720	1.00E-20	0.8	0.8	Abi	10/fg7s8g		NA
+pycsar_1TM	Pyc_1TM		PycTM					0.00000001	0.5	0.5				
+pycsar_2TM	Pyc_2TM		PycTM					0.00000001	0.5	0.5				
+pycsar_3TM	Pyc_3TM		PycTM					0.00000001	0.5	0.5				
+pycsar_4TM	Pyc_4TM		PycTM					0.00000001	0.5	0.5				
+pycsar_CladeA	PycC_CladeA		PycC					1.00E-12	0.7	0.7				
+pycsar_CladeB	PycC_CladeB		PycC					1.00E-12	0.7	0.7				
+pycsar_CladeC	PycC_CladeC		PycC					1.00E-12	0.7	0.7				
+pycsar_CladeD	PycC_CladeD		PycC					1.00E-12	0.7	0.7				
+pycsar_CladeE	PycC_CladeE		PycC					1.00E-12	0.7	0.7				
+pycsar_TIR	Pyc_TIR		PycTIR					0.00000001	0.5	0.5				
