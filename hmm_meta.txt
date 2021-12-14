@@ -911,8 +911,8 @@ PDLC00910	OGG_00001	OGG	OGG		Payne LJ	9	215	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00911	QueC_00001	QueC	QueC		Payne LJ	24	190	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00912	TGT_00001	TGT	TGT		Payne LJ	7	280	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
 PDLC00913	TGT_00002	TGT	TGT		Payne LJ	24	326	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00914	TRIP13_00001	TRIP13	TRIP13		Payne LJ	117	302	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
-PDLC00915	TRIP13_00002	TRIP13	TRIP13		Payne LJ	73	302	0.00001	0.3	0.3	CBASS	10/gg84nk		NA
+PDLC00914	TRIP13_00001	TRIP13	TRIP13		Payne LJ	117	302	0.00001	0.3	0.7	CBASS	10/gg84nk		NA
+PDLC00915	TRIP13_00002	TRIP13	TRIP13		Payne LJ	73	302	0.00001	0.3	0.7	CBASS	10/gg84nk		NA
 PDLC00916	cas_TM1811_Csm1	"CRISPR-associated protein Cas10/Csm1, subtype III-A/MTUBE"	Cas10a	cas_effector	Haft DH	9	650	0.00001	0.3	0.3	CRISPR-CAS	10/ggdjdf	TIGRFAM; TIGR02578	"The family is designated Csm2, for CRISPR/Cas Subtype Mtube Protein 2. A typical example is TM1811 from Thermotoga maritima. CRISPR are Clustered Regularly Interspaced Short Palindromic Repeats. This protein family belongs to a conserved gene cluster regularly found near CRISPR repeats."
 PDLC00917	cas_TM1794_Cmr2	"CRISPR-associated protein Cas10/Cmr2, subtype III-B"	Cas10b	cas_effector	Haft DH	13	510	0.00001	0.3	0.3	CRISPR-CAS	10/ggdjdf	TIGRFAM; TIGR02577	"This model represent a Crm2 family of the CRISPR-associated RAMP module, a set of six genes recurring found together in prokaryotic genomes. This gene cluster is found only in species with CRISPR repeats, usually near the repeats themselves. Because most of the six (but not this family) contain RAMP domains, and because its appearance in a genome appears to depend on other CRISPR-associated Cas genes, the set is designated the CRISPR RAMP module. This protein, typified by TM1794 from Thermotoga maritima, is designated Crm2, for CRISPR RAMP Module protein 2."
 PDLC00918	cas10_IIIC_maka	Cas10	Cas10c	cas_effector	Makarova KS	11	953	0.00001	0.3	0.3	CRISPR-CAS	10/ggdjdf		

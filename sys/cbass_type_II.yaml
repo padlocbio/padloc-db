@@ -1,15 +1,14 @@
 ---
 maximum_separation: 3
-minimum_core: 4
+minimum_core: 3
 minimum_total: 4
 
 core_genes:
   - Cyclase
-  - Effector
   - E1-E2
   - JAB
 optional_genes:
-  - NA
+  - Effector
 prohibited_genes:
   - NA
 ...
