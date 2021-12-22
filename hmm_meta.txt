@@ -1137,7 +1137,7 @@ PDLC01136	icity0040	RT (reverse transcriptase)	RT	cas_accessory	Shmakov SA	57	26
 PDLC01137	icity0041	Serine/Threonine Kinase present with a putative adaptation module operon next to I-C systems in Rhodopirellula species	ST_Kinase	cas_accessory	Shmakov SA	3	162	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		
 PDLC01138	icity0043	"Unknown small protein, sometimes fused to CARF"	Unk_01	cas_accessory	Shmakov SA	14	103	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		
 PDLC01139	icity0044	"Unknown small protein, sometimes fused to CARF"	Unk_01	cas_accessory	Shmakov SA	3	86	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		
-PDLC01140	icity0045	Unknown	Unk_02	cas_accessory	Shmakov SA	6	252	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		
+PDLC01140	icity0045	Unknown	CRISPR-T	cas_accessory	Shmakov SA	6	252	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq	Updated based on Rouillon et al.	
 PDLC01141	icity0046	Unknown	CRISPR-T	cas_accessory	Shmakov SA	3	283	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq	Updated based on Rouillon et al.	
 PDLC01142	icity0047	"Alpha helical protein with coiled-coil region and maybe secreted or membrane (1 TM domain at N-terminus, but a weak TMHMM probability)"	Unk_03	cas_accessory	Shmakov SA	4	186	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		
 PDLC01143	icity0048	"I-E associated membrane protein, same context as STAND NTPase"	Unk_04	cas_accessory	Shmakov SA	7	63	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		
