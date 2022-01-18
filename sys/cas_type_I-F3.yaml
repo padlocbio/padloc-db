@@ -14,6 +14,7 @@ optional_genes:
   - TnsB
   - TnsC
   - regulation
+  - CRISPR_array
 prohibited_genes:
   - Cas23f
   - Cas1f

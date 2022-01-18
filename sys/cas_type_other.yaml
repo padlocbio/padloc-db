@@ -6,13 +6,14 @@ minimum_total: 2
 
 # genes
 core_genes:
- - cas_effector
- - cas_adaptation
+  - cas_effector
+  - cas_adaptation
 optional_genes:
- - cas_accessory
- - ring_nuclease
- - regulation
- - accessory_nuclease 
+  - cas_accessory
+  - ring_nuclease
+  - regulation
+  - accessory_nuclease 
+  - CRISPR_array
 prohibited_genes:
   - NA
 ...

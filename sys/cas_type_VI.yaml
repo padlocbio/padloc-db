@@ -6,11 +6,12 @@ minimum_total: 2
 
 # genes
 core_genes:
- - Cas13
+  - Cas13
 optional_genes:
- - cas_adaptation
- - cas_accessory
- - regulation
+  - cas_adaptation
+  - cas_accessory
+  - regulation
+  - CRISPR_array
 prohibited_genes:
   - NA
 ...

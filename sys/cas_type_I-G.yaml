@@ -15,6 +15,7 @@ optional_genes:
   - Cas1g
   - Cas2g
   - regulation
+  - CRISPR_array
 prohibited_genes:
   - NA
 ...

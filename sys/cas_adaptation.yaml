@@ -9,6 +9,7 @@ core_genes:
  - cas_adaptation
 optional_genes:
  - cas_accessory
+ - CRISPR_array
 prohibited_genes:
   - cas_effector
 ...

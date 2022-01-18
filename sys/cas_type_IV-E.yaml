@@ -6,14 +6,15 @@ minimum_total: 4
 
 # genes
 core_genes:
- - typeIV_Cas6
- - typeIV_Cas7
- - typeIV_DinG
- - typeIV_Cas58
+  - typeIV_Cas6
+  - typeIV_Cas7
+  - typeIV_DinG
+  - typeIV_Cas58
 optional_genes:
- - cas_accessory
- - regulation
+  - cas_accessory
+  - regulation
+  - CRISPR_array
 prohibited_genes:
- - typeIV_Cas5
- - typeIV_Cas8
+  - typeIV_Cas5
+  - typeIV_Cas8
 ...

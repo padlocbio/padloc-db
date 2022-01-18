@@ -6,19 +6,20 @@ minimum_total: 3
 
 # genes
 core_genes:
- - typeIV_Cas5
- - typeIV_Cas6
- - typeIV_Cas7
- - typeIV_Cas8
- - typeIV_DinG
- - typeIV_RecD
- - typeIV_Cas11
- - typeIV_Cas58
- - typeIVC_LS
+  - typeIV_Cas5
+  - typeIV_Cas6
+  - typeIV_Cas7
+  - typeIV_Cas8
+  - typeIV_DinG
+  - typeIV_RecD
+  - typeIV_Cas11
+  - typeIV_Cas58
+  - typeIVC_LS
 optional_genes:
- - cas_accessory
- - cas_adaptation
- - regulation
+  - cas_accessory
+  - cas_adaptation
+  - regulation
+  - CRISPR_array
 prohibited_genes:
   - NA
 ...

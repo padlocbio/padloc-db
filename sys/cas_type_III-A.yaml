@@ -16,13 +16,14 @@ core_genes:
   - Csm6
   - Cas6_IIIa
 optional_genes:
- - Cas10
- - Cas6
- - cas_accessory
- - cas_adaptation
- - accessory_nuclease
- - regulation
- - ring_nuclease
+  - Cas10
+  - Cas6
+  - cas_accessory
+  - cas_adaptation
+  - accessory_nuclease
+  - regulation
+  - ring_nuclease
+  - CRISPR_array
 prohibited_genes:
   - Cmr4
   - Cmr5

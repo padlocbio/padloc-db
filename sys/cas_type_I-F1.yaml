@@ -14,6 +14,7 @@ optional_genes:
   - Cas23f
   - Cas1f
   - regulation
+  - CRISPR_array
 prohibited_genes:
   - TniQ_IF
   - TniQ

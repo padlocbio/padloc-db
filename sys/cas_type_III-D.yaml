@@ -22,6 +22,7 @@ optional_genes:
   - regulation
   - ring_nuclease
   - accessory_nuclease  
+  - CRISPR_array
 prohibited_genes:
   - Cmr4
   - Cmr5

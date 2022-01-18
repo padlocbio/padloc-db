@@ -19,6 +19,7 @@ optional_genes:
   - cas_accessory
   - regulation
   - ring_nuclease
+  - CRISPR_array  
 prohibited_genes:
   - NA
 ...

@@ -6,14 +6,15 @@ minimum_total: 2
 
 # genes
 core_genes:
- - Cas12k
- - TniQ_V
+  - Cas12k
+  - TniQ_V
 optional_genes:
- - TnsB
- - TnsC
- - cas_accessory
- - cas_adaptation
- - regulation
+  - TnsB
+  - TnsC
+  - cas_accessory
+  - cas_adaptation
+  - regulation
+  - CRISPR_array
 prohibited_genes:
   - NA
 ...

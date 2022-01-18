@@ -12,6 +12,7 @@ optional_genes:
   - Cas6b2
   - Cas7b
   - Cas8b
+  - CRISPR_array
 prohibited_genes:
   - Cas1b
   - Cas2b

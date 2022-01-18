@@ -17,6 +17,7 @@ optional_genes:
   - Cas3b
   - Cas4b
   - regulation
+  - CRISPR_array
 prohibited_genes:
   - TniQ
   - TniQ_IF

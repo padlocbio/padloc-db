@@ -13,6 +13,7 @@ core_genes:
   - Cas7fv
 optional_genes:
   - regulation
+  - CRISPR_array
 prohibited_genes:
   - Cas8f
 ...

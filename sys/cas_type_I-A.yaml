@@ -22,6 +22,7 @@ optional_genes:
   - cas_accessory
   - cas_adaptation
   - regulation
+  - CRISPR_array
 prohibited_genes:
   - NA
 ...

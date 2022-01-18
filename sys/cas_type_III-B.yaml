@@ -6,25 +6,26 @@ minimum_total: 4
 
 # genes
 core_genes:
- - Cas10b
+  - Cas10b
 optional_genes:
- - Cmr1
- - Cmr3
- - Cmr4
- - Cmr5
- - Cmr6
- - Cas1_IIIb
- - Cas2_IIIb
- - Cas6
- - cas_accessory
- - cas_adaptation
- - accessory_nuclease 
- - regulation
- - ring_nuclease
+  - Cmr1
+  - Cmr3
+  - Cmr4
+  - Cmr5
+  - Cmr6
+  - Cas1_IIIb
+  - Cas2_IIIb
+  - Cas6
+  - cas_accessory
+  - cas_adaptation
+  - accessory_nuclease 
+  - regulation
+  - ring_nuclease
+  - CRISPR_array
 prohibited_genes:
- - Csm4
- - Csm5
- - Cas10c
- - Cas5_IIId
- - Cas7_IIId
+  - Csm4
+  - Csm5
+  - Cas10c
+  - Cas5_IIId
+  - Cas7_IIId
 ...

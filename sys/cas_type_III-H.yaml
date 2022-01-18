@@ -17,6 +17,7 @@ optional_genes:
   - regulation
   - ring_nuclease
   - accessory_nuclease 
+  - CRISPR_array
 prohibited_genes:
   - Cas5_IIId
   - Csx19
