@@ -64,6 +64,7 @@ CRISPR-Cas	type V	cas_type_V	T	NA
 CRISPR-Cas	type V-K	cas_type_V-K	T	NA
 CRISPR-Cas	type VI	cas_type_VI	T	NA
 CRISPR-Cas	orphan adaptation	cas_adaptation	T	NA
+CRISPR-Cas	arrays	cas_type_arrays	T	NA
 CRISPR-Cas	other	cas_type_other	T	NA
 ApeA	NA	ApeA	T	NA
 AVAST type I other	NA	AVAST_type_I_other	T	NA
