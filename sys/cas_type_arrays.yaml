@@ -1,0 +1,14 @@
+---
+# system description
+maximum_separation: 0
+minimum_core: 1
+minimum_total: 1
+
+# genes
+core_genes:
+  - CRISPR_array
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...
