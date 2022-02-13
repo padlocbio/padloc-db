@@ -1,0 +1,24 @@
+---
+# system description
+maximum_separation: 1
+minimum_core: 1
+minimum_total: 2
+
+# genes
+core_genes:
+  - PycC
+optional_genes:
+  - PycTIR
+  - PycTM
+  - Effector
+  - E1-E2
+  - E2
+  - HORMA
+  - JAB
+  - OGG
+  - QueC
+  - TGT
+  - TRIP13
+prohibited_genes:
+  - NA
+...

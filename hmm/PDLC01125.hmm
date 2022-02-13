@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0023
-ACC   PDLC01125
-DESC  "Cas3'', HD domain only, helicase domain is absent in these systems"
+	    NAME  icity0023
+	    ACC   PDLC01125
+	    DESC  "Cas3'',
 LENG  238
 ALPH  amino
 RF    no

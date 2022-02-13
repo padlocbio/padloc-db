@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_csp2
-ACC   PDLC00971
-DESC  "CRISPR-associated protein Cas8c/Csp2, subtype PGING"
+	    NAME  cas_csp2
+	    ACC   PDLC00971
+	    DESC  "CRISPR-associated
 LENG  483
 ALPH  amino
 RF    no

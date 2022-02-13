@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  COG1857
-ACC   PDLC01455
-DESC  CAS-I; effector_G7
+	    NAME  COG1857
+	    ACC   PDLC01455
+	    DESC  CAS-I;
 LENG  268
 ALPH  amino
 RF    no

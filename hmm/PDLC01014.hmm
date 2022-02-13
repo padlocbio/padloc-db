@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas7_TM1809
-ACC   PDLC01014
-DESC  CRISPR type III-A/MTUBE-associated RAMP protein Csm3
+	    NAME  cas7_TM1809
+	    ACC   PDLC01014
+	    DESC  CRISPR
 LENG  203
 ALPH  amino
 RF    no

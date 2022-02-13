@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas4_PREFRAN
-ACC   PDLC00945
-DESC  "CRISPR-associated protein Cas4, subtype PREFRAN"
+	    NAME  cas4_PREFRAN
+	    ACC   PDLC00945
+	    DESC  "CRISPR-associated
 LENG  178
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  shah_acc_0152
-ACC   PDLC01077
-DESC  Type III-C specific
+	    NAME  shah_acc_0152
+	    ACC   PDLC01077
+	    DESC  Type
 LENG  127
 ALPH  amino
 RF    no

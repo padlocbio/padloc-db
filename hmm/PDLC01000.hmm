@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  casB_cse2
-ACC   PDLC01000
-DESC  CRISPR type I-E/ECOLI-associated protein CasB/Cse2
+	    NAME  casB_cse2
+	    ACC   PDLC01000
+	    DESC  CRISPR
 LENG  159
 ALPH  amino
 RF    no

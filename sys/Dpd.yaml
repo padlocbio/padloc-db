@@ -1,0 +1,21 @@
+---
+maximum_separation: 3
+minimum_core: 3
+minimum_total: 3
+
+core_genes:
+  - DpdA
+  - DpdB
+  - DpdC
+optional_genes:
+  - DpdD
+  - DpdE
+  - DpdF
+  - DpdG
+  - DpdH
+  - DpdI
+  - DpdJ
+  - DpdK
+prohibited_genes:
+  - NA
+...

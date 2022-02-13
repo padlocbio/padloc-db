@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  shah_acc_0077
-ACC   PDLC01062
-DESC  a.k.a. cas_VVA1548
+	    NAME  shah_acc_0077
+	    ACC   PDLC01062
+	    DESC  a.k.a.
 LENG  98
 ALPH  amino
 RF    no

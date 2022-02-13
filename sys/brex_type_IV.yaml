@@ -1,0 +1,15 @@
+---
+maximum_separation: 3
+minimum_core: 4
+minimum_total: 4
+
+core_genes:
+  - BrxC
+  - BrxL
+  - BrxP
+  - PglZ
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

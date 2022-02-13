@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0039
-ACC   PDLC01135
-DESC  RT associated with distinct I-E system from  Streptomyces
+	    NAME  icity0039
+	    ACC   PDLC01135
+	    DESC  RT
 LENG  396
 ALPH  amino
 RF    no

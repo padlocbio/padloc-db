@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas3_HD
-ACC   PDLC00940
-DESC  CRISPR-associated endonuclease Cas3-HD
+	    NAME  cas3_HD
+	    ACC   PDLC00940
+	    DESC  CRISPR-associated
 LENG  178
 ALPH  amino
 RF    no

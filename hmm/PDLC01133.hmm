@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0034
-ACC   PDLC01133
-DESC  "Aspartyl protease, in the type III operon in Sulfolobales"
+	    NAME  icity0034
+	    ACC   PDLC01133
+	    DESC  "Aspartyl
 LENG  105
 ALPH  amino
 RF    no

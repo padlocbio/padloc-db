@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_Csy4
-ACC   PDLC00955
-DESC  "CRISPR-associated endoribonuclease Cas6/Csy4, subtype I-F/YPEST"
+	    NAME  cas_Csy4
+	    ACC   PDLC00955
+	    DESC  "CRISPR-associated
 LENG  184
 ALPH  amino
 RF    no

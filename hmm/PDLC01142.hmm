@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0047
-ACC   PDLC01142
-DESC  "Alpha helical protein with coiled-coil region and maybe secreted or membrane (1 TM domain at N-terminus, but a weak TMHMM probability)"
+	    NAME  icity0047
+	    ACC   PDLC01142
+	    DESC  "Alpha
 LENG  186
 ALPH  amino
 RF    no

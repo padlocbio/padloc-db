@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_CT1978
-ACC   PDLC00934
-DESC  "CRISPR-associated endoribonuclease Cas2, subtype I-E/ECOLI"
+	    NAME  cas_CT1978
+	    ACC   PDLC00934
+	    DESC  "CRISPR-associated
 LENG  87
 ALPH  amino
 RF    no

@@ -1,0 +1,14 @@
+---
+maximum_separation: 2
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - PbeA
+  - PbeC
+optional_genes:
+  - PbeB
+  - PbeD
+prohibited_genes:
+  - NA
+...

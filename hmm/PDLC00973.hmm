@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_Csn1
-ACC   PDLC00973
-DESC  CRISPR subtype II RNA-guided endonuclease Cas9
+	    NAME  cas_Csn1
+	    ACC   PDLC00973
+	    DESC  CRISPR
 LENG  830
 ALPH  amino
 RF    no

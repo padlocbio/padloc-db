@@ -1,0 +1,17 @@
+---
+maximum_separation: 3
+minimum_core: 1
+minimum_total: 1
+
+core_genes:
+  - pVip
+optional_genes:
+  - Ankyrin
+  - VakA
+prohibited_genes:
+  - NERD
+  - Csa3
+  - TPR
+  - NudI
+  - HicA-like  
+...

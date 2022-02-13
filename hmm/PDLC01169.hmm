@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0106
-ACC   PDLC01169
-DESC  TPR repeats containing protein
+	    NAME  icity0106
+	    ACC   PDLC01169
+	    DESC  TPR
 LENG  252
 ALPH  amino
 RF    no

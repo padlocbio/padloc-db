@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_csx17
-ACC   PDLC01026
-DESC  "CRISPR-associated protein Csx17, subtype Dpsyc"
+	    NAME  cas_csx17
+	    ACC   PDLC01026
+	    DESC  "CRISPR-associated
 LENG  718
 ALPH  amino
 RF    no

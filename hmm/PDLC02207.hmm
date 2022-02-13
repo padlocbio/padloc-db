@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  MzaE_00001
-ACC   PDLC02207
-DESC  NA
+	    NAME  MzaE_00001
+	    ACC   PDLC02207
+	    DESC  NA
 LENG  598
 ALPH  amino
 RF    no

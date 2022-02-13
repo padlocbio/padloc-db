@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0091
-ACC   PDLC01160
-DESC  "CARF, 2 TMs"
+	    NAME  icity0091
+	    ACC   PDLC01160
+	    DESC  "CARF,
 LENG  172
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0041
-ACC   PDLC01137
-DESC  Serine/Threonine Kinase present with a putative adaptation module operon next to I-C systems in Rhodopirellula species
+	    NAME  icity0041
+	    ACC   PDLC01137
+	    DESC  Serine/Threonine
 LENG  162
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  shah_acc_0168
-ACC   PDLC01082
-DESC  Unknown function
+	    NAME  shah_acc_0168
+	    ACC   PDLC01082
+	    DESC  Unknown
 LENG  318
 ALPH  amino
 RF    no

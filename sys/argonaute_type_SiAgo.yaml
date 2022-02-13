@@ -1,0 +1,14 @@
+---
+maximum_separation: 1
+minimum_core: 3
+minimum_total: 3
+
+core_genes:
+  - pAgo
+  - Aga1
+  - Aga2
+optional_genes:
+  - pAgoR
+prohibited_genes:
+  - NA
+...

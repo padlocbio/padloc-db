@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  COG1688
-ACC   PDLC01453
-DESC  CAS-I; effector_G5
+	    NAME  COG1688
+	    ACC   PDLC01453
+	    DESC  CAS-I;
 LENG  205
 ALPH  amino
 RF    no

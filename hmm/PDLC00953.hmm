@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas6_cmx6
-ACC   PDLC00953
-DESC  "CRISPR-associated protein Cas6, subtype MYXAN"
+	    NAME  cas6_cmx6
+	    ACC   PDLC00953
+	    DESC  "CRISPR-associated
 LENG  197
 ALPH  amino
 RF    no

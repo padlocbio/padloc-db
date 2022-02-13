@@ -1,0 +1,14 @@
+---
+maximum_separation: 1
+minimum_core: 3
+minimum_total: 3
+
+core_genes:
+  - RT_VI
+  - HTH_VI
+  - SP_VI
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

@@ -1,0 +1,16 @@
+---
+maximum_separation: 1
+minimum_core: 5
+minimum_total: 5
+
+core_genes:
+  - DrmA
+  - DrmB
+  - DrmC
+  - DrmD
+  - DrmMI
+optional_genes:
+  - NA
+prohibited_genes:
+  - DrmE
+...

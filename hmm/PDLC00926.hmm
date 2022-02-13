@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas1_NMENI
-ACC   PDLC00926
-DESC  "CRISPR-associated endonuclease Cas1, subtype II/NMENI"
+	    NAME  cas1_NMENI
+	    ACC   PDLC00926
+	    DESC  "CRISPR-associated
 LENG  278
 ALPH  amino
 RF    no

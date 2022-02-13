@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  DevR_archaea
-ACC   PDLC00957
-DESC  "CRISPR-associated protein Cas7/Csa2, subtype I-A/APERN"
+	    NAME  DevR_archaea
+	    ACC   PDLC00957
+	    DESC  "CRISPR-associated
 LENG  284
 ALPH  amino
 RF    no

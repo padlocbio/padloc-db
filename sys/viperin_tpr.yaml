@@ -1,0 +1,13 @@
+---
+maximum_separation: 0
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - pVip
+  - TPR
+optional_genes:
+  - Csa3
+prohibited_genes:
+  - NA
+...

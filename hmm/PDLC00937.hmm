@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas3_cyano
-ACC   PDLC00937
-DESC  "CRISPR-associated helicase Cas3, subtype CYANO"
+	    NAME  cas3_cyano
+	    ACC   PDLC00937
+	    DESC  "CRISPR-associated
 LENG  357
 ALPH  amino
 RF    no

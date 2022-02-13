@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_RAMP_Cmr4
-ACC   PDLC00981
-DESC  CRISPR type III-B/RAMP module RAMP protein Cmr4
+	    NAME  cas_RAMP_Cmr4
+	    ACC   PDLC00981
+	    DESC  CRISPR
 LENG  283
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_MJ0381
-ACC   PDLC00960
-DESC  CRISPR-associated autoregulator DevR family
+	    NAME  cas_MJ0381
+	    ACC   PDLC00960
+	    DESC  CRISPR-associated
 LENG  240
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cls001042
-ACC   PDLC01429
-DESC  CAS-I-U; effector_LS
+	    NAME  cls001042
+	    ACC   PDLC01429
+	    DESC  CAS-I-U;
 LENG  296
 ALPH  amino
 RF    no

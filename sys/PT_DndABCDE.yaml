@@ -1,0 +1,15 @@
+---
+maximum_separation: 2
+minimum_core: 2
+minimum_total: 3
+
+core_genes:
+  - DndC
+  - DndD
+optional_genes:
+  - DndA
+  - DndB
+  - DndE
+prohibited_genes:
+  - NA
+...

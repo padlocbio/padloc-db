@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_csx13_C
-ACC   PDLC00965
-DESC  "CRISPR-associated protein Cas8a1/Csx13, MYXAN subtype, C-terminal region"
+	    NAME  cas_csx13_C
+	    ACC   PDLC00965
+	    DESC  "CRISPR-associated
 LENG  152
 ALPH  amino
 RF    no

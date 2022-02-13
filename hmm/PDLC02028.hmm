@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  Cas3d_WP_036011816.1
-ACC   PDLC02028
-DESC  Cas3d
+	    NAME  Cas3d_WP_036011816.1
+	    ACC   PDLC02028
+	    DESC  Cas3d
 LENG  685
 ALPH  amino
 RF    no

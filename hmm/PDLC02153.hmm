@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  padloc_Cas13b
-ACC   PDLC02153
-DESC  Cas13b
+	    NAME  padloc_Cas13b
+	    ACC   PDLC02153
+	    DESC  Cas13b
 LENG  903
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  AbiEii_WP_082807810.1
-ACC   PDLC02291
-DESC  AbiEii
+	    NAME  AbiEii_WP_082807810.1
+	    ACC   PDLC02291
+	    DESC  AbiEii
 LENG  310
 ALPH  amino
 RF    no

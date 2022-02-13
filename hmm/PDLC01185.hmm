@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0124
-ACC   PDLC01185
-DESC  "Cas1, diverged variant, second in the loci"
+	    NAME  icity0124
+	    ACC   PDLC01185
+	    DESC  "Cas1,
 LENG  246
 ALPH  amino
 RF    no

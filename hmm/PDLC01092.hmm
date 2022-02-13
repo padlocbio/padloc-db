@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  shah_acc_0198
-ACC   PDLC01092
-DESC  TPR protein
+	    NAME  shah_acc_0198
+	    ACC   PDLC01092
+	    DESC  TPR
 LENG  523
 ALPH  amino
 RF    no

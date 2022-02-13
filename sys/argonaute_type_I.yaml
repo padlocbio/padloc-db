@@ -1,0 +1,12 @@
+---
+maximum_separation: 1
+minimum_core: 1
+minimum_total: 2
+
+core_genes:
+  - pAgo_I
+optional_genes:
+  - pAgo_I_associated
+prohibited_genes:
+  - NA
+...

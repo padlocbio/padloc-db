@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  Cas12c
-ACC   PDLC01662
-DESC  CAS-V-C; effector__SPE
+	    NAME  Cas12c
+	    ACC   PDLC01662
+	    DESC  CAS-V-C;
 LENG  968
 ALPH  amino
 RF    no

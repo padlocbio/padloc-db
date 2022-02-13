@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_TM1811_Csm1
-ACC   PDLC00916
-DESC  "CRISPR-associated protein Cas10/Csm1, subtype III-A/MTUBE"
+	    NAME  cas_TM1811_Csm1
+	    ACC   PDLC00916
+	    DESC  "CRISPR-associated
 LENG  650
 ALPH  amino
 RF    no

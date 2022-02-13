@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0089
-ACC   PDLC01159
-DESC  "CARF, 2 TMs, fused to lon-like S16 protease"
+	    NAME  icity0089
+	    ACC   PDLC01159
+	    DESC  "CARF,
 LENG  456
 ALPH  amino
 RF    no

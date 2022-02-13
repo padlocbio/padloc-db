@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_AF1879
-ACC   PDLC00942
-DESC  "CRISPR-associated protein Cas4/Csa1, subtype I-A/APERN"
+	    NAME  cas_AF1879
+	    ACC   PDLC00942
+	    DESC  "CRISPR-associated
 LENG  273
 ALPH  amino
 RF    no

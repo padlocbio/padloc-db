@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  shah_acc_0057
-ACC   PDLC01055
-DESC  Type III coevolved
+	    NAME  shah_acc_0057
+	    ACC   PDLC01055
+	    DESC  Type
 LENG  532
 ALPH  amino
 RF    no

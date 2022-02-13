@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  mkCas0063
-ACC   PDLC01474
-DESC  CAS-III-D; effector_SS
+	    NAME  mkCas0063
+	    ACC   PDLC01474
+	    DESC  CAS-III-D;
 LENG  138
 ALPH  amino
 RF    no

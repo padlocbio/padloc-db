@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas5_csf3
-ACC   PDLC01005
-DESC  CRISPR type IV/AFERR-associated protein Csf3
+	    NAME  cas5_csf3
+	    ACC   PDLC01005
+	    DESC  CRISPR
 LENG  215
 ALPH  amino
 RF    no

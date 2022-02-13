@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_Csc1
-ACC   PDLC00997
-DESC  CRISPR type I-D/CYANO-associated protein Csc1
+	    NAME  cas_Csc1
+	    ACC   PDLC00997
+	    DESC  CRISPR
 LENG  225
 ALPH  amino
 RF    no

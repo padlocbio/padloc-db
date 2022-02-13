@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0031
-ACC   PDLC01131
-DESC  "PDDEXK_1, same family as the one fused to CARF (PDB; 1XMX)"
+	    NAME  icity0031
+	    ACC   PDLC01131
+	    DESC  "PDDEXK_1,
 LENG  205
 ALPH  amino
 RF    no

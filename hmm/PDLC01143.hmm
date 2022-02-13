@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0048
-ACC   PDLC01143
-DESC  "I-E associated membrane protein, same context as STAND NTPase"
+	    NAME  icity0048
+	    ACC   PDLC01143
+	    DESC  "I-E
 LENG  63
 ALPH  amino
 RF    no

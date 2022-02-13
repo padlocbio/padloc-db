@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0121
-ACC   PDLC01183
-DESC  Putative small subunit of type IV - was DinG
+	    NAME  icity0121
+	    ACC   PDLC01183
+	    DESC  Putative
 LENG  136
 ALPH  amino
 RF    no

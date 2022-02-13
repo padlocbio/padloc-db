@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  casE_Cse3
-ACC   PDLC00954
-DESC  "CRISPR-associated protein Cas6/Cse3/CasE, subtype I-E/ECOLI"
+	    NAME  casE_Cse3
+	    ACC   PDLC00954
+	    DESC  "CRISPR-associated
 LENG  208
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0110
-ACC   PDLC01173
-DESC  "Predicted ATPase fused to Xre-HTH and TPR repeats domain, associated with cas1-less I-E system in Streptomyces"
+	    NAME  icity0110
+	    ACC   PDLC01173
+	    DESC  "Predicted
 LENG  1114
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  AbiLi-2
-ACC   PDLC02336
-DESC  AbiLi
+	    NAME  AbiLi-2
+	    ACC   PDLC02336
+	    DESC  AbiLi
 LENG  340
 ALPH  amino
 RF    no

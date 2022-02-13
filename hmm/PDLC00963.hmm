@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_Csh2
-ACC   PDLC00963
-DESC  "CRISPR-associated protein Cas7/Csh2, subtype I-B/HMARI"
+	    NAME  cas_Csh2
+	    ACC   PDLC00963
+	    DESC  "CRISPR-associated
 LENG  286
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0088
-ACC   PDLC01158
-DESC  "Membrane protein (2TM at N-terminus and a globular domain) in type III operon, could be a CARF domain diverged beyond recognition"
+	    NAME  icity0088
+	    ACC   PDLC01158
+	    DESC  "Membrane
 LENG  212
 ALPH  amino
 RF    no

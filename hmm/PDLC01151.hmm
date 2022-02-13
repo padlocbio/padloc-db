@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0080
-ACC   PDLC01151
-DESC  "Two HTH domains (N-terminal xre and C-therminal Sigma70_ECF), the C-terminal domain often fused to Cas6 (see WP_006509982.1); specific to cyanobacetria"
+	    NAME  icity0080
+	    ACC   PDLC01151
+	    DESC  "Two
 LENG  330
 ALPH  amino
 RF    no

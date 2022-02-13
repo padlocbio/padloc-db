@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0001
-ACC   PDLC01103
-DESC  "Cas8u2, new large subunit family"
+	    NAME  icity0001
+	    ACC   PDLC01103
+	    DESC  "Cas8u2,
 LENG  271
 ALPH  amino
 RF    no

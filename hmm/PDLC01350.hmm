@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cd09737
-ACC   PDLC01350
-DESC  CAS-I-F; effector_G7
+	    NAME  cd09737
+	    ACC   PDLC01350
+	    DESC  CAS-I-F;
 LENG  315
 ALPH  amino
 RF    no

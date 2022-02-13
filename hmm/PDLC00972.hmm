@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_csx12
-ACC   PDLC00972
-DESC  CRISPR system subtype II-B RNA-guided endonuclease Cas9/Csx12
+	    NAME  cas_csx12
+	    ACC   PDLC00972
+	    DESC  CRISPR
 LENG  802
 ALPH  amino
 RF    no

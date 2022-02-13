@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  icity0107
-ACC   PDLC01170
-DESC  TPR repeats containing protein fused to cold shock-like domain (OB-fold)
+	    NAME  icity0107
+	    ACC   PDLC01170
+	    DESC  TPR
 LENG  368
 ALPH  amino
 RF    no

@@ -123,3 +123,57 @@ Abi	Old	Old	T	NA
 Abi	Tin	Tin	T	NA
 Abi	PrrC	PrrC	T	NA
 Abi	PifA	PifA	T	NA
+argonaute_type_I	NA	argonaute_type_I	T	NA
+argonaute_type_II	NA	argonaute_type_II	T	NA
+argonaute_other	NA	argonaute_other	T	NA
+argonaute_solo	NA	argonaute_solo	T	NA
+argonaute_type_III	NA	argonaute_type_III	T	NA
+argonaute_type_SiAgo	NA	argonaute_type_SiAgo	T	NA
+Nhi	NA	Nhi	T	NA
+dXTPase	NA	dXTPase	T	NA
+Stk2	NA	Stk2	T	NA
+Pycsar_Effector	NA	pycsar_effector	T	NA
+Pycsar_Unknown	NA	pycsar_unknown	T	NA
+Pycsar_Other	NA	pycsar_other	T	NA
+BREX	other	brex_other	T	NA
+BREX	Type I	brex_type_I	T	NA
+BREX	Type II	brex_type_II	T	NA
+BREX 	Type III	brex_type_III	T	NA
+BREX 	Type IV	brex_type_IV	T	NA
+BREX 	Type V	brex_type_V	T	NA
+BREX 	Type VI	brex_type_VI	T	NA
+disarm 	other	disarm_other	T	NA
+disarm 	Type I	disarm_type_I	T	NA
+disarm 	Type II	disarm_type_II	T	NA
+Phosphorothioation	DndABCDE	PT_DndABCDE	T	NA
+Phosphorothioation	DndFGH	PT_DndFGH	T	NA
+Dpd 	other	Dpd_other	T	NA
+Dpd	NA	Dpd	T	NA
+Phosphorothioation	PbeABCD	PT_PbeABCD	T	NA
+Phosphorothioation	other	PT_other	T	NA
+Phosphorothioation	SspABCD	PT_SspABCD	T	NA
+Phosphorothioation	SspE	PT_SspE	T	NA
+Phosphorothioation	SspFGH	PT_SspFGH	T	NA
+viperin_toxin	NA	viperin_toxin	T	NA
+viperin_nerd	NA	viperin_nerd	T	NA
+viperin_solo	NA	viperin_solo	T	NA
+viperin_tpr	NA	viperin_tpr	T	NA
+viperin_kinase_fusion	NA	viperin_kinase_fusion	T	NA
+viperin other	NA	viperin_other	T	NA
+Retron	I-A	retron_I-A	T	NA
+Retron	I-B	retron_I-B	T	NA
+Retron	I-C	retron_I-C	T	single gene
+Retron	II-A	retron_II-A	T	NA
+Retron	III-A	retron_III-A	T	NA
+Retron	IV	retron_IV	T	NA
+Retron	IX	retron_IX	T	NA
+Retron	V	retron_V	T	NA
+Retron	VI	retron_VI	T	NA
+Retron	VII-A1	retron_VII-A1	T	single gene
+Retron	VII-A2	retron_VII-A2	T	NA
+Retron	VIII	retron_VIII	T	NA
+Retron	X	retron_X	T	NA
+Retron	XI	retron_XI	T	single gene
+Retron	XII	retron_XII	T	single gene
+Retron	XIII	retron_XIII	T	NA
+Retron	other	retron_other	T	NA

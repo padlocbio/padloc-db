@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_Cpf1
-ACC   PDLC01227
-DESC  "CRISPR-associated protein Cpf1, subtype PREFRAN"
+	    NAME  cas_Cpf1
+	    ACC   PDLC01227
+	    DESC  "CRISPR-associated
 LENG  1288
 ALPH  amino
 RF    no

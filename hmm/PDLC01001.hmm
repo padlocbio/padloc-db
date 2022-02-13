@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas8u_csf1
-ACC   PDLC01001
-DESC  CRISPR type AFERR-associated protein Csf1
+	    NAME  cas8u_csf1
+	    ACC   PDLC01001
+	    DESC  CRISPR
 LENG  202
 ALPH  amino
 RF    no

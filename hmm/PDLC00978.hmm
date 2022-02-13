@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_cmr3
-ACC   PDLC00978
-DESC  CRISPR type III-B/RAMP module-associated protein Cmr3
+	    NAME  cas_cmr3
+	    ACC   PDLC00978
+	    DESC  CRISPR
 LENG  346
 ALPH  amino
 RF    no

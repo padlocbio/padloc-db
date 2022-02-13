@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_Csy3
-ACC   PDLC01030
-DESC  CRISPR type I-F/YPEST-associated protein Csy3
+	    NAME  cas_Csy3
+	    ACC   PDLC01030
+	    DESC  CRISPR
 LENG  341
 ALPH  amino
 RF    no

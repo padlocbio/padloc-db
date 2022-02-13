@@ -1,7 +1,7 @@
 HMMER3/f [3.3.2 | Nov 2020]
-NAME  cas_Cas5d
-ACC   PDLC00948
-DESC  "CRISPR-associated protein Cas5, subtype I-C/DVULG"
+	    NAME  cas_Cas5d
+	    ACC   PDLC00948
+	    DESC  "CRISPR-associated
 LENG  203
 ALPH  amino
 RF    no
