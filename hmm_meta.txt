@@ -1132,8 +1132,8 @@ PDLC01131	icity0031	"PDDEXK_1, same family as the one fused to CARF (PDB; 1XMX)"
 PDLC01132	icity0032	PDDEXK_1	PD_DExK	accessory_nuclease	Shmakov SA	3	231	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
 PDLC01133	icity0034	"Aspartyl protease, in the type III operon in Sulfolobales"	PEPT_D	cas_accessory	Shmakov SA	3	105	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
 PDLC01134	icity0035	"PIWI, specific Argonaute family protein, linked to type III systems"	PIWI	cas_accessory	Shmakov SA	4	631	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
-PDLC01135	icity0039	RT associated with distinct I-E system from  Streptomyces	RT	cas_accessory	Shmakov SA	7	396	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
-PDLC01136	icity0040	RT (reverse transcriptase)	RT	cas_accessory	Shmakov SA	57	263	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
+PDLC01135	icity0039	RT associated with distinct I-E system from  Streptomyces	RT	cas_accessory	Shmakov SA	7	396	0.00001	0.5	0.3	CRISPR-CAS	10/gdpqwq		NA
+PDLC01136	icity0040	RT (reverse transcriptase)	RT	cas_accessory	Shmakov SA	57	263	0.00001	0.5	0.3	CRISPR-CAS	10/gdpqwq		NA
 PDLC01137	icity0041	Serine/Threonine Kinase present with a putative adaptation module operon next to I-C systems in Rhodopirellula species	ST_Kinase	cas_accessory	Shmakov SA	3	162	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
 PDLC01138	icity0043	"Unknown small protein, sometimes fused to CARF"	Unk_01	cas_accessory	Shmakov SA	14	103	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
 PDLC01139	icity0044	"Unknown small protein, sometimes fused to CARF"	Unk_01	cas_accessory	Shmakov SA	3	86	0.00001	0.5	0.5	CRISPR-CAS	10/gdpqwq		NA
