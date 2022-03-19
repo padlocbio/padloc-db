@@ -1,179 +1,179 @@
-system	type	yaml.name	search	comment
-cbass other	NA	cbass_other	T	NA
-cbass type I	NA	cbass_type_I	T	NA
-cbass type II	NA	cbass_type_II	T	NA
-cbass type III	NA	cbass_type_III	T	NA
-cbass type IIs	NA	cbass_type_IIs	T	NA
-cbass type IV	NA	cbass_type_IV	T	NA
-druantia other	NA	druantia_other	T	NA
-druantia type I	NA	druantia_type_I	T	NA
-druantia type II	NA	druantia_type_II	T	NA
-druantia type III	NA	druantia_type_III	T	NA
-druantia type IV	NA	druantia_type_IV	T	NA
-gabija	NA	gabija	T	NA
-hachiman other	NA	hachiman_other	T	NA
-hachiman type I	NA	hachiman_type_I	T	NA
-hachiman type II	NA	hachiman_type_II	T	NA
-kiwa	NA	kiwa	T	NA
-lamassu other	NA	lamassu_other	T	NA
-lamassu type I	NA	lamassu_type_I	T	NA
-lamassu type II	NA	lamassu_type_II	T	NA
-septu other	NA	septu_other	T	NA
-septu type I	NA	septu_type_I	T	NA
-septu type II	NA	septu_type_II	T	NA
-shedu	NA	shedu	T	NA
-thoeris other	NA	thoeris_other	T	NA
-thoeris type I	NA	thoeris_type_I	T	NA
-thoeris type II	NA	thoeris_type_II	T	NA
-wadjet other	NA	wadjet_other	T	NA
-wadjet type I	NA	wadjet_type_I	T	NA
-wadjet type II	NA	wadjet_type_II	T	NA
-wadjet type III	NA	wadjet_type_III	T	NA
-zorya other	NA	zorya_other	T	NA
-zorya type I	NA	zorya_type_I	T	NA
-zorya type II	NA	zorya_type_II	T	NA
-zorya type III	NA	zorya_type_III	T	NA
-hma	NA	hma	T	NA
-CRISPR-Cas	type I-A	cas_type_I-A	T	NA
-CRISPR-Cas	type I-B1	cas_type_I-B1	T	NA
-CRISPR-Cas	type I-B2	cas_type_I-B2	T	NA
-CRISPR-Cas	type I-C	cas_type_I-C	T	NA
-CRISPR-Cas	type I-D	cas_type_I-D	T	NA
-CRISPR-Cas	type I-E	cas_type_I-E	T	NA
-CRISPR-Cas	type I-F1	cas_type_I-F1	T	NA
-CRISPR-Cas	type I-F2	cas_type_I-F2	T	NA
-CRISPR-Cas	type I-F3	cas_type_I-F3	T	NA
-CRISPR-Cas	type I-G	cas_type_I-G	T	NA
-CRISPR-Cas	type II-A	cas_type_II-A	T	NA
-CRISPR-Cas	type II-B	cas_type_II-B	T	NA
-CRISPR-Cas	type II-C	cas_type_II-C	T	NA
-CRISPR-Cas	type III-A	cas_type_III-A	T	NA
-CRISPR-Cas	type III-B	cas_type_III-B	T	NA
-CRISPR-Cas	type III-C	cas_type_III-C	T	NA
-CRISPR-Cas	type III-D	cas_type_III-D	T	NA
-CRISPR-Cas	type III-E	cas_type_III-E	T	NA
-CRISPR-Cas	type III-F	cas_type_III-F	T	NA
-CRISPR-Cas	type III-G	cas_type_III-G	T	unofficial type
-CRISPR-Cas	type III-H	cas_type_III-H	T	unofficial type
-CRISPR-Cas	type IV-A	cas_type_IV-A	T	NA
-CRISPR-Cas	type IV-B	cas_type_IV-B	T	NA
-CRISPR-Cas	type IV-C	cas_type_IV-C	T	NA
-CRISPR-Cas	type IV-D	cas_type_IV-D	T	NA
-CRISPR-Cas	type IV-E	cas_type_IV-E	T	NA
-CRISPR-Cas	type V	cas_type_V	T	NA
-CRISPR-Cas	type V-K	cas_type_V-K	T	NA
-CRISPR-Cas	type VI	cas_type_VI	T	NA
-CRISPR-Cas	orphan adaptation	cas_adaptation	T	NA
-CRISPR-Cas	arrays	cas_type_arrays	T	NA
-CRISPR-Cas	other	cas_type_other	T	NA
-ApeA	NA	ApeA	T	NA
-AVAST type I other	NA	AVAST_type_I_other	T	NA
-AVAST type I	I	AVAST_type_I	T	NA
-AVAST type II	II	AVAST_type_II	T	NA
-AVAST type III	III	AVAST_type_III	T	NA
-AVAST type IV	IV	AVAST_type_IV	T	NA
-AVAST type V	V	AVAST_type_V	T	NA
-DRT type I	I	DRT_type_I	T	NA
-DRT type II	II	DRT_type_II	T	NA
-DRT type III	III	DRT_type_III	T	NA
-DRT type IV	IV	DRT_type_IV	T	NA
-DRT type V	V	DRT_type_V	T	NA
-DRT type other	other	DRT_type_other	T	NA
-dsr1	I	dsr1	T	NA
-dsr2	II	dsr2	T	NA
-GAO 19	NA	GAO_19	T	NA
-GAO 20	NA	GAO_20	T	NA
-GAO 29 other	NA	GAO_29_other	T	NA
-GAO 29	NA	GAO_29	T	NA
-hhe	NA	hhe	T	NA
-ietAS	NA	ietAS	T	NA
-mza other	other	mza_other	T	NA
-mza	NA	mza	T	NA
-ppl	NA	ppl	T	NA
-qatABCD other	NA	qatABCD_other	T	NA
-qatABCD	NA	qatABCD	T	NA
-RADAR	NA	RADAR	T	NA
-TerY-P other	NA	TerY-P_other	T	NA
-TerY-P	NA	TerY-P	T	NA
-tmn	NA	tmn	T	NA
-upx	NA	upx	T	NA
-Abi	AbiE	AbiE	T	NA
-Abi	AbiG	AbiG	T	NA
-Abi	AbiL	AbiL	T	NA
-Abi	AbiT	AbiT	T	NA
-Abi	RexAB	RexAB	T	NA
-Abi	AbiA	AbiA	T	NA
-Abi	AbiB	AbiB	T	NA
-Abi	AbiC	AbiC	T	NA
-Abi	AbiD	AbiD	T	NA
-Abi	AbiH	AbiH	T	NA
-Abi	AbiI	AbiI	T	NA
-Abi	AbiJ	AbiJ	T	NA
-Abi	AbiK	AbiK	T	NA
-Abi	AbiN	AbiN	T	NA
-Abi	AbiO	AbiO	T	NA
-Abi	AbiP	AbiP	T	NA
-Abi	AbiQ	AbiQ	T	NA
-Abi	AbiV	AbiV	T	NA
-Abi	AbiZ	AbiZ	T	NA
-Abi	Lit	Lit	T	NA
-Abi	BstA	BstA	T	NA
-Abi	AbiU	AbiU	T	NA
-Abi	Old	Old	T	NA
-Abi	Tin	Tin	T	NA
-Abi	PrrC	PrrC	T	NA
-Abi	PifA	PifA	T	NA
-argonaute_type_I	NA	argonaute_type_I	T	NA
-argonaute_type_II	NA	argonaute_type_II	T	NA
-argonaute_other	NA	argonaute_other	T	NA
-argonaute_solo	NA	argonaute_solo	T	NA
-argonaute_type_III	NA	argonaute_type_III	T	NA
-argonaute_type_SiAgo	NA	argonaute_type_SiAgo	T	NA
-Nhi	NA	Nhi	T	NA
-dXTPase	NA	dXTPase	T	NA
-Stk2	NA	Stk2	T	NA
-Pycsar_Effector	NA	pycsar_effector	T	NA
-Pycsar_Unknown	NA	pycsar_unknown	T	NA
-Pycsar_Other	NA	pycsar_other	T	NA
-BREX	other	brex_other	T	NA
-BREX	Type I	brex_type_I	T	NA
-BREX	Type II	brex_type_II	T	NA
-BREX 	Type III	brex_type_III	T	NA
-BREX 	Type IV	brex_type_IV	T	NA
-BREX 	Type V	brex_type_V	T	NA
-BREX 	Type VI	brex_type_VI	T	NA
-disarm 	other	disarm_other	T	NA
-disarm 	Type I	disarm_type_I	T	NA
-disarm 	Type II	disarm_type_II	T	NA
-Phosphorothioation	DndABCDE	PT_DndABCDE	T	NA
-Phosphorothioation	DndFGH	PT_DndFGH	T	NA
-Dpd 	other	Dpd_other	T	NA
-Dpd	NA	Dpd	T	NA
-Phosphorothioation	PbeABCD	PT_PbeABCD	T	NA
-Phosphorothioation	other	PT_other	T	NA
-Phosphorothioation	SspABCD	PT_SspABCD	T	NA
-Phosphorothioation	SspE	PT_SspE	T	NA
-Phosphorothioation	SspFGH	PT_SspFGH	T	NA
-viperin_toxin	NA	viperin_toxin	T	NA
-viperin_nerd	NA	viperin_nerd	T	NA
-viperin_solo	NA	viperin_solo	T	NA
-viperin_tpr	NA	viperin_tpr	T	NA
-viperin_kinase_fusion	NA	viperin_kinase_fusion	T	NA
-viperin other	NA	viperin_other	T	NA
-Retron	I-A	retron_I-A	T	NA
-Retron	I-B	retron_I-B	T	NA
-Retron	I-C	retron_I-C	T	single gene
-Retron	II-A	retron_II-A	T	NA
-Retron	III-A	retron_III-A	T	NA
-Retron	IV	retron_IV	T	NA
-Retron	IX	retron_IX	T	NA
-Retron	V	retron_V	T	NA
-Retron	VI	retron_VI	T	NA
-Retron	VII-A1	retron_VII-A1	T	single gene
-Retron	VII-A2	retron_VII-A2	T	NA
-Retron	VIII	retron_VIII	T	NA
-Retron	X	retron_X	T	NA
-Retron	XI	retron_XI	T	single gene
-Retron	XII	retron_XII	T	single gene
-Retron	XIII	retron_XIII	T	NA
-Retron	other	retron_other	T	NA
+system	type	yaml.name	search	comment	group
+cbass other	NA	cbass_other	T	NA	
+cbass type I	NA	cbass_type_I	T	NA	
+cbass type II	NA	cbass_type_II	T	NA	
+cbass type III	NA	cbass_type_III	T	NA	
+cbass type IIs	NA	cbass_type_IIs	T	NA	
+cbass type IV	NA	cbass_type_IV	T	NA	
+druantia other	NA	druantia_other	T	NA	
+druantia type I	NA	druantia_type_I	T	NA	
+druantia type II	NA	druantia_type_II	T	NA	
+druantia type III	NA	druantia_type_III	T	NA	
+druantia type IV	NA	druantia_type_IV	T	NA	
+gabija	NA	gabija	T	NA	
+hachiman other	NA	hachiman_other	T	NA	
+hachiman type I	NA	hachiman_type_I	T	NA	
+hachiman type II	NA	hachiman_type_II	T	NA	
+kiwa	NA	kiwa	T	NA	
+lamassu other	NA	lamassu_other	T	NA	
+lamassu type I	NA	lamassu_type_I	T	NA	
+lamassu type II	NA	lamassu_type_II	T	NA	
+septu other	NA	septu_other	T	NA	RTD
+septu type I	NA	septu_type_I	T	NA	RTD
+septu type II	NA	septu_type_II	T	NA	RTD
+shedu	NA	shedu	T	NA	
+thoeris other	NA	thoeris_other	T	NA	
+thoeris type I	NA	thoeris_type_I	T	NA	
+thoeris type II	NA	thoeris_type_II	T	NA	
+wadjet other	NA	wadjet_other	T	NA	
+wadjet type I	NA	wadjet_type_I	T	NA	
+wadjet type II	NA	wadjet_type_II	T	NA	
+wadjet type III	NA	wadjet_type_III	T	NA	
+zorya other	NA	zorya_other	T	NA	
+zorya type I	NA	zorya_type_I	T	NA	
+zorya type II	NA	zorya_type_II	T	NA	
+zorya type III	NA	zorya_type_III	T	NA	
+hma	NA	hma	T	NA	
+CRISPR-Cas	type I-A	cas_type_I-A	T	NA	
+CRISPR-Cas	type I-B1	cas_type_I-B1	T	NA	
+CRISPR-Cas	type I-B2	cas_type_I-B2	T	NA	
+CRISPR-Cas	type I-C	cas_type_I-C	T	NA	
+CRISPR-Cas	type I-D	cas_type_I-D	T	NA	
+CRISPR-Cas	type I-E	cas_type_I-E	T	NA	
+CRISPR-Cas	type I-F1	cas_type_I-F1	T	NA	
+CRISPR-Cas	type I-F2	cas_type_I-F2	T	NA	
+CRISPR-Cas	type I-F3	cas_type_I-F3	T	NA	
+CRISPR-Cas	type I-G	cas_type_I-G	T	NA	
+CRISPR-Cas	type II-A	cas_type_II-A	T	NA	
+CRISPR-Cas	type II-B	cas_type_II-B	T	NA	
+CRISPR-Cas	type II-C	cas_type_II-C	T	NA	
+CRISPR-Cas	type III-A	cas_type_III-A	T	NA	
+CRISPR-Cas	type III-B	cas_type_III-B	T	NA	
+CRISPR-Cas	type III-C	cas_type_III-C	T	NA	
+CRISPR-Cas	type III-D	cas_type_III-D	T	NA	
+CRISPR-Cas	type III-E	cas_type_III-E	T	NA	
+CRISPR-Cas	type III-F	cas_type_III-F	T	NA	
+CRISPR-Cas	type III-G	cas_type_III-G	T	unofficial type	
+CRISPR-Cas	type III-H	cas_type_III-H	T	unofficial type	
+CRISPR-Cas	type IV-A	cas_type_IV-A	T	NA	
+CRISPR-Cas	type IV-B	cas_type_IV-B	T	NA	
+CRISPR-Cas	type IV-C	cas_type_IV-C	T	NA	
+CRISPR-Cas	type IV-D	cas_type_IV-D	T	NA	
+CRISPR-Cas	type IV-E	cas_type_IV-E	T	NA	
+CRISPR-Cas	type V	cas_type_V	T	NA	
+CRISPR-Cas	type V-K	cas_type_V-K	T	NA	
+CRISPR-Cas	type VI	cas_type_VI	T	NA	
+CRISPR-Cas	orphan adaptation	cas_adaptation	T	NA	
+CRISPR-Cas	arrays	cas_type_arrays	T	NA	
+CRISPR-Cas	other	cas_type_other	T	NA	
+ApeA	NA	ApeA	T	NA	
+AVAST type I other	NA	AVAST_type_I_other	T	NA	
+AVAST type I	I	AVAST_type_I	T	NA	
+AVAST type II	II	AVAST_type_II	T	NA	
+AVAST type III	III	AVAST_type_III	T	NA	
+AVAST type IV	IV	AVAST_type_IV	T	NA	
+AVAST type V	V	AVAST_type_V	T	NA	
+DRT type I	I	DRT_type_I	T	NA	RTD
+DRT type II	II	DRT_type_II	T	NA	RTD
+DRT type III	III	DRT_type_III	T	NA	RTD
+DRT type IV	IV	DRT_type_IV	T	NA	RTD
+DRT type V	V	DRT_type_V	T	NA	RTD
+DRT type other	other	DRT_type_other	T	NA	RTD
+dsr1	I	dsr1	T	NA	
+dsr2	II	dsr2	T	NA	
+GAO 19	NA	GAO_19	T	NA	
+GAO 20	NA	GAO_20	T	NA	
+GAO 29 other	NA	GAO_29_other	T	NA	
+GAO 29	NA	GAO_29	T	NA	
+hhe	NA	hhe	T	NA	
+ietAS	NA	ietAS	T	NA	
+mza other	other	mza_other	T	NA	
+mza	NA	mza	T	NA	
+ppl	NA	ppl	T	NA	
+qatABCD other	NA	qatABCD_other	T	NA	
+qatABCD	NA	qatABCD	T	NA	
+RADAR	NA	RADAR	T	NA	
+TerY-P other	NA	TerY-P_other	T	NA	
+TerY-P	NA	TerY-P	T	NA	
+tmn	NA	tmn	T	NA	
+upx	NA	upx	T	NA	
+Abi	AbiE	AbiE	T	NA	
+Abi	AbiG	AbiG	T	NA	
+Abi	AbiL	AbiL	T	NA	
+Abi	AbiT	AbiT	T	NA	
+Abi	RexAB	RexAB	T	NA	
+Abi	AbiA	AbiA	T	NA	
+Abi	AbiB	AbiB	T	NA	
+Abi	AbiC	AbiC	T	NA	
+Abi	AbiD	AbiD	T	NA	
+Abi	AbiH	AbiH	T	NA	
+Abi	AbiI	AbiI	T	NA	
+Abi	AbiJ	AbiJ	T	NA	
+Abi	AbiK	AbiK	T	NA	RTD
+Abi	AbiN	AbiN	T	NA	
+Abi	AbiO	AbiO	T	NA	
+Abi	AbiP	AbiP	T	NA	
+Abi	AbiQ	AbiQ	T	NA	
+Abi	AbiV	AbiV	T	NA	
+Abi	AbiZ	AbiZ	T	NA	
+Abi	Lit	Lit	T	NA	
+Abi	BstA	BstA	T	NA	
+Abi	AbiU	AbiU	T	NA	
+Abi	Old	Old	T	NA	
+Abi	Tin	Tin	T	NA	
+Abi	PrrC	PrrC	T	NA	
+Abi	PifA	PifA	T	NA	
+argonaute_type_I	NA	argonaute_type_I	T	NA	
+argonaute_type_II	NA	argonaute_type_II	T	NA	
+argonaute_other	NA	argonaute_other	T	NA	
+argonaute_solo	NA	argonaute_solo	T	NA	
+argonaute_type_III	NA	argonaute_type_III	T	NA	
+argonaute_type_SiAgo	NA	argonaute_type_SiAgo	T	NA	
+Nhi	NA	Nhi	T	NA	
+dXTPase	NA	dXTPase	T	NA	
+Stk2	NA	Stk2	T	NA	
+Pycsar_Effector	NA	pycsar_effector	T	NA	
+Pycsar_Unknown	NA	pycsar_unknown	T	NA	
+Pycsar_Other	NA	pycsar_other	T	NA	
+BREX	other	brex_other	T	NA	
+BREX	Type I	brex_type_I	T	NA	
+BREX	Type II	brex_type_II	T	NA	
+BREX 	Type III	brex_type_III	T	NA	
+BREX 	Type IV	brex_type_IV	T	NA	
+BREX 	Type V	brex_type_V	T	NA	
+BREX 	Type VI	brex_type_VI	T	NA	
+disarm 	other	disarm_other	T	NA	
+disarm 	Type I	disarm_type_I	T	NA	
+disarm 	Type II	disarm_type_II	T	NA	
+Phosphorothioation	DndABCDE	PT_DndABCDE	T	NA	
+Phosphorothioation	DndFGH	PT_DndFGH	T	NA	
+Dpd 	other	Dpd_other	T	NA	
+Dpd	NA	Dpd	T	NA	
+Phosphorothioation	PbeABCD	PT_PbeABCD	T	NA	
+Phosphorothioation	other	PT_other	T	NA	
+Phosphorothioation	SspABCD	PT_SspABCD	T	NA	
+Phosphorothioation	SspE	PT_SspE	T	NA	
+Phosphorothioation	SspFGH	PT_SspFGH	T	NA	
+viperin_toxin	NA	viperin_toxin	T	NA	
+viperin_nerd	NA	viperin_nerd	T	NA	
+viperin_solo	NA	viperin_solo	T	NA	
+viperin_tpr	NA	viperin_tpr	T	NA	
+viperin_kinase_fusion	NA	viperin_kinase_fusion	T	NA	
+viperin other	NA	viperin_other	T	NA	
+Retron	I-A	retron_I-A	T	NA	RTD
+Retron	I-B	retron_I-B	T	NA	RTD
+Retron	I-C	retron_I-C	T	single gene	RTD
+Retron	II-A	retron_II-A	T	NA	RTD
+Retron	III-A	retron_III-A	T	NA	RTD
+Retron	IV	retron_IV	T	NA	RTD
+Retron	IX	retron_IX	T	NA	RTD
+Retron	V	retron_V	T	NA	RTD
+Retron	VI	retron_VI	T	NA	RTD
+Retron	VII-A1	retron_VII-A1	T	single gene	RTD
+Retron	VII-A2	retron_VII-A2	T	NA	RTD
+Retron	VIII	retron_VIII	T	NA	RTD
+Retron	X	retron_X	T	NA	RTD
+Retron	XI	retron_XI	T	single gene	RTD
+Retron	XII	retron_XII	T	single gene	RTD
+Retron	XIII	retron_XIII	T	NA	RTD
+Retron	other	retron_other	T	NA	RTD
