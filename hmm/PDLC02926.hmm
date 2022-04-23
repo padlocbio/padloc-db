@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_VI_hth_cluster2_1
-	    ACC   PDLC02926
-	    DESC  HTH_VI
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_VI_hth_cluster2_1
+ACC   PDLC02926
+DESC  HTH_VI
 LENG  92
 ALPH  amino
 RF    no

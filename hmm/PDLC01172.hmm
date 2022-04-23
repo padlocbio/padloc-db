@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0109
-	    ACC   PDLC01172
-	    DESC  TPR
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0109
+ACC   PDLC01172
+DESC  TPR
 LENG  448
 ALPH  amino
 RF    no

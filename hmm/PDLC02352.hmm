@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiQ
-	    ACC   PDLC02352
-	    DESC  AbiQ
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiQ
+ACC   PDLC02352
+DESC  AbiQ
 LENG  160
 ALPH  amino
 RF    no

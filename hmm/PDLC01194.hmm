@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  C19_cas11d2
-	    ACC   PDLC01194
-	    DESC  CAS-I-D;
+HMMER3/f [3.3 | Nov 2019]
+NAME  C19_cas11d2
+ACC   PDLC01194
+DESC  CAS-I-D;
 LENG  202
 ALPH  amino
 RF    no

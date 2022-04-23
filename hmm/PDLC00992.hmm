@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cas_Csa5
-	    ACC   PDLC00992
-	    DESC  CRISPR
+HMMER3/f [3.3 | Nov 2019]
+NAME  cas_Csa5
+ACC   PDLC00992
+DESC  CRISPR
 LENG  107
 ALPH  amino
 RF    no

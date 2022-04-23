@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  SspE_00005
-	    ACC   PDLC02787
-	    DESC  SspE
+HMMER3/f [3.3 | Nov 2019]
+NAME  SspE_00005
+ACC   PDLC02787
+DESC  SspE
 LENG  727
 ALPH  amino
 RF    no

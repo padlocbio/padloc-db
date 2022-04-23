@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Csm5
-	    ACC   PDLC01440
-	    DESC  "CAS-III-A,CAS-III-D;
+HMMER3/f [3.3 | Nov 2019]
+NAME  Csm5
+ACC   PDLC01440
+DESC  "CAS-III-A,CAS-III-D;
 LENG  322
 ALPH  amino
 RF    no

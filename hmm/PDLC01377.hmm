@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cd09767
-	    ACC   PDLC01377
-	    DESC  CAS-I-U;
+HMMER3/f [3.3 | Nov 2019]
+NAME  cd09767
+ACC   PDLC01377
+DESC  CAS-I-U;
 LENG  613
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  RexA
-	    ACC   PDLC02339
-	    DESC  RexA
+HMMER3/f [3.3 | Nov 2019]
+NAME  RexA
+ACC   PDLC02339
+DESC  RexA
 LENG  267
 ALPH  amino
 RF    no

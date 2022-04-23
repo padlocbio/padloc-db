@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  TerY_00001
-	    ACC   PDLC02224
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  TerY_00001
+ACC   PDLC02224
+DESC  NA
 LENG  277
 ALPH  amino
 RF    no

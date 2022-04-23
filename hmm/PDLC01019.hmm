@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  csm4_IIIA_maka_3
-	    ACC   PDLC01019
-	    DESC  Csm4
+HMMER3/f [3.3 | Nov 2019]
+NAME  csm4_IIIA_maka_3
+ACC   PDLC01019
+DESC  Csm4
 LENG  319
 ALPH  amino
 RF    no

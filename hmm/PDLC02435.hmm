@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AgaR.jackhmmer
-	    ACC   PDLC02435
-	    DESC  AgaR
+HMMER3/f [3.3 | Nov 2019]
+NAME  AgaR.jackhmmer
+ACC   PDLC02435
+DESC  AgaR
 LENG  91
 ALPH  amino
 RF    no

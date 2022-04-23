@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas12c_arbor_variant
-	    ACC   PDLC01663
-	    DESC  CAS-V-C;
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas12c_arbor_variant
+ACC   PDLC01663
+DESC  CAS-V-C;
 LENG  1165
 ALPH  amino
 RF    no

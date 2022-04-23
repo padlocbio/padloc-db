@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  pVip-near-kinase
-	    ACC   PDLC02904
-	    DESC  Viperins
+HMMER3/f [3.3 | Nov 2019]
+NAME  pVip-near-kinase
+ACC   PDLC02904
+DESC  Viperins
 LENG  262
 ALPH  amino
 RF    no

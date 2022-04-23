@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Aga_SIR2
-	    ACC   PDLC02414
-	    DESC  Aga_SIR2
+HMMER3/f [3.3 | Nov 2019]
+NAME  Aga_SIR2
+ACC   PDLC02414
+DESC  Aga_SIR2
 LENG  313
 ALPH  amino
 RF    no

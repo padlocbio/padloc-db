@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas1e_WP_120372217.1
-	    ACC   PDLC01745
-	    DESC  Cas1e
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas1e_WP_120372217.1
+ACC   PDLC01745
+DESC  Cas1e
 LENG  288
 ALPH  amino
 RF    no

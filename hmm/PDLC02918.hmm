@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_VIII_duf626_cluster2446_1
-	    ACC   PDLC02918
-	    DESC  DUF626_VIII
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_VIII_duf626_cluster2446_1
+ACC   PDLC02918
+DESC  DUF626_VIII
 LENG  474
 ALPH  amino
 RF    no

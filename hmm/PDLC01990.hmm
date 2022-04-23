@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  CARF_m8--CARF_Beta-galactosidase_LolE_TM_CARF_m8--CARF_Beta-galactosidase_LolE_TM
-	    ACC   PDLC01990
-	    DESC  CARF_m8--CARF_Beta-galactosidase_LolE_TM
+HMMER3/f [3.3 | Nov 2019]
+NAME  CARF_m8--CARF_Beta-galactosidase_LolE_TM_CARF_m8--CARF_Beta-galactosidase_LolE_TM
+ACC   PDLC01990
+DESC  CARF_m8--CARF_Beta-galactosidase_LolE_TM
 LENG  1791
 ALPH  amino
 RF    no

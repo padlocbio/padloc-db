@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  C19_Csa5gr11a
-	    ACC   PDLC01214
-	    DESC  CAS-I-A;
+HMMER3/f [3.3 | Nov 2019]
+NAME  C19_Csa5gr11a
+ACC   PDLC01214
+DESC  CAS-I-A;
 LENG  117
 ALPH  amino
 RF    no

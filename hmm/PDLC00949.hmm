@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  casD_Cas5e
-	    ACC   PDLC00949
-	    DESC  "CRISPR-associated
+HMMER3/f [3.3 | Nov 2019]
+NAME  casD_Cas5e
+ACC   PDLC00949
+DESC  "CRISPR-associated
 LENG  230
 ALPH  amino
 RF    no

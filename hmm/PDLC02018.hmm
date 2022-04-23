@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  SAVED_peptidaseM48_SAVED_peptidaseM48
-	    ACC   PDLC02018
-	    DESC  SAVED_peptidaseM48
+HMMER3/f [3.3 | Nov 2019]
+NAME  SAVED_peptidaseM48_SAVED_peptidaseM48
+ACC   PDLC02018
+DESC  SAVED_peptidaseM48
 LENG  498
 ALPH  amino
 RF    no

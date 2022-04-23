@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cmr5_IIIC_maka_1
-	    ACC   PDLC00984
-	    DESC  Cmr5
+HMMER3/f [3.3 | Nov 2019]
+NAME  cmr5_IIIC_maka_1
+ACC   PDLC00984
+DESC  Cmr5
 LENG  129
 ALPH  amino
 RF    no

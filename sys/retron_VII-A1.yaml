@@ -6,7 +6,7 @@ minimum_total: 1
 core_genes:
   - RT-DUF3800_VII-A1
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - DUF3800_VII
 ...

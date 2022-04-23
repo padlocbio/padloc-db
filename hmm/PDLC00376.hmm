@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PtuC2_00006
-	    ACC   PDLC00376
-	    DESC  Reverse
+HMMER3/f [3.3 | Nov 2019]
+NAME  PtuC2_00006
+ACC   PDLC00376
+DESC  Reverse
 LENG  341
 ALPH  amino
 RF    no

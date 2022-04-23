@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  GajB_00002
-	    ACC   PDLC00104
-	    DESC  UrvD
+HMMER3/f [3.3 | Nov 2019]
+NAME  GajB_00002
+ACC   PDLC00104
+DESC  UrvD
 LENG  574
 ALPH  amino
 RF    no

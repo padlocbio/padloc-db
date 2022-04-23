@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas5d_WP_158058421.1
-	    ACC   PDLC02040
-	    DESC  Cas5d
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas5d_WP_158058421.1
+ACC   PDLC02040
+DESC  Cas5d
 LENG  225
 ALPH  amino
 RF    no

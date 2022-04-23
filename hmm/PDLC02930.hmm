@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_II_A3_ndt_cluster42_1
-	    ACC   PDLC02930
-	    DESC  NDT_II-A
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_II_A3_ndt_cluster42_1
+ACC   PDLC02930
+DESC  NDT_II-A
 LENG  272
 ALPH  amino
 RF    no

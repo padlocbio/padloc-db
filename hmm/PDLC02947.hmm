@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_IV
-	    ACC   PDLC02947
-	    DESC  RT_IV
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_IV
+ACC   PDLC02947
+DESC  RT_IV
 LENG  386
 ALPH  amino
 RF    no

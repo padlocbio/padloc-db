@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Effector_00075
-	    ACC   PDLC00737
-	    DESC  Endonuclease
+HMMER3/f [3.3 | Nov 2019]
+NAME  Effector_00075
+ACC   PDLC00737
+DESC  Endonuclease
 LENG  506
 ALPH  amino
 RF    no

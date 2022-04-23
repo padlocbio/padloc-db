@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  CARF_RelE_CARF_RelE
-	    ACC   PDLC01969
-	    DESC  CARF_RelE
+HMMER3/f [3.3 | Nov 2019]
+NAME  CARF_RelE_CARF_RelE
+ACC   PDLC01969
+DESC  CARF_RelE
 LENG  296
 ALPH  amino
 RF    no

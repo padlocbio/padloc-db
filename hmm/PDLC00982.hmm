@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cmr4_IIIB_maka
-	    ACC   PDLC00982
-	    DESC  Cmr4
+HMMER3/f [3.3 | Nov 2019]
+NAME  cmr4_IIIB_maka
+ACC   PDLC00982
+DESC  Cmr4
 LENG  281
 ALPH  amino
 RF    no

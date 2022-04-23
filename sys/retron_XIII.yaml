@@ -9,7 +9,7 @@ core_genes:
   - WGR_XIII
   - SWIM_XIII
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - NA
 ...

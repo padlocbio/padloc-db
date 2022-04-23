@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0041
-	    ACC   PDLC01137
-	    DESC  Serine/Threonine
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0041
+ACC   PDLC01137
+DESC  Serine/Threonine
 LENG  162
 ALPH  amino
 RF    no

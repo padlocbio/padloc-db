@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  C19_csf1gr8
-	    ACC   PDLC01218
-	    DESC  CAS-IV;
+HMMER3/f [3.3 | Nov 2019]
+NAME  C19_csf1gr8
+ACC   PDLC01218
+DESC  CAS-IV;
 LENG  279
 ALPH  amino
 RF    no

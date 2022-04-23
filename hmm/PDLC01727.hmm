@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cluster2
-	    ACC   PDLC01727
-	    DESC  Csf3_0_IV
+HMMER3/f [3.3 | Nov 2019]
+NAME  cluster2
+ACC   PDLC01727
+DESC  Csf3_0_IV
 LENG  222
 ALPH  amino
 RF    no

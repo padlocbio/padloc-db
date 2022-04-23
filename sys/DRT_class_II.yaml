@@ -1,0 +1,27 @@
+---
+maximum_separation: 0
+minimum_core: 1
+minimum_total: 1
+
+core_genes:
+  - Drt2
+  - Drt9
+  - RT_UG26
+  - RT_UG27
+  - RT_UG39
+  - RT_UG4
+  - RT_UG18
+  - RT_UG38
+  - RT_UG17
+optional_genes:
+  - RTasWYL-YodC
+  - RTasYodC
+  - RTasRmuC
+  - RTasSLATT
+  - RTasCOG2852
+  - RTas337
+  - RTas346
+  - RTasVirE-PriCT2
+prohibited_genes:
+  - Drt3b
+...

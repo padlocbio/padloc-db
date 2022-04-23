@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  shah_acc_0037
-	    ACC   PDLC01047
-	    DESC  HNH
+HMMER3/f [3.3 | Nov 2019]
+NAME  shah_acc_0037
+ACC   PDLC01047
+DESC  HNH
 LENG  105
 ALPH  amino
 RF    no

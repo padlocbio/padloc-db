@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  BstA
-	    ACC   PDLC02356
-	    DESC  BstA
+HMMER3/f [3.3 | Nov 2019]
+NAME  BstA
+ACC   PDLC02356
+DESC  BstA
 LENG  292
 ALPH  amino
 RF    no

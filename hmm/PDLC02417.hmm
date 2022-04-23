@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  REase_Archaea
-	    ACC   PDLC02417
-	    DESC  Class
+HMMER3/f [3.3 | Nov 2019]
+NAME  REase_Archaea
+ACC   PDLC02417
+DESC  Class
 LENG  416
 ALPH  amino
 RF    no

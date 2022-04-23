@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas5_IIIg_Cas5_IIIg
-	    ACC   PDLC02092
-	    DESC  Cas5_IIIg
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas5_IIIg_Cas5_IIIg
+ACC   PDLC02092
+DESC  Cas5_IIIg
 LENG  221
 ALPH  amino
 RF    no

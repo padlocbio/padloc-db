@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  pVip-lone
-	    ACC   PDLC02903
-	    DESC  Viperins
+HMMER3/f [3.3 | Nov 2019]
+NAME  pVip-lone
+ACC   PDLC02903
+DESC  Viperins
 LENG  257
 ALPH  amino
 RF    no

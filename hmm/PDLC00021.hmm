@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DruF2_00006
-	    ACC   PDLC00021
-	    DESC  Unknown
+HMMER3/f [3.3 | Nov 2019]
+NAME  DruF2_00006
+ACC   PDLC00021
+DESC  Unknown
 LENG  676
 ALPH  amino
 RF    no

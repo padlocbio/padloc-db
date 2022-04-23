@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  csx10_IIID_maka_4
-	    ACC   PDLC01025
-	    DESC  Csx10
+HMMER3/f [3.3 | Nov 2019]
+NAME  csx10_IIID_maka_4
+ACC   PDLC01025
+DESC  Csx10
 LENG  390
 ALPH  amino
 RF    no

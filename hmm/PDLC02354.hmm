@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiZ
-	    ACC   PDLC02354
-	    DESC  AbiZ
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiZ
+ACC   PDLC02354
+DESC  AbiZ
 LENG  398
 ALPH  amino
 RF    no

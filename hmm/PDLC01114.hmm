@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0012
-	    ACC   PDLC01114
-	    DESC  Csm3gr7
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0012
+ACC   PDLC01114
+DESC  Csm3gr7
 LENG  245
 ALPH  amino
 RF    no

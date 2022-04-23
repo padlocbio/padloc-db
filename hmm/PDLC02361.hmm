@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PifA
-	    ACC   PDLC02361
-	    DESC  PifA
+HMMER3/f [3.3 | Nov 2019]
+NAME  PifA
+ACC   PDLC02361
+DESC  PifA
 LENG  720
 ALPH  amino
 RF    no

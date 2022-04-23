@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  GajA_00038
-	    ACC   PDLC00098
-	    DESC  AAA
+HMMER3/f [3.3 | Nov 2019]
+NAME  GajA_00038
+ACC   PDLC00098
+DESC  AAA
 LENG  534
 ALPH  amino
 RF    no

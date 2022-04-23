@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DndD_00002
-	    ACC   PDLC02664
-	    DESC  DndD
+HMMER3/f [3.3 | Nov 2019]
+NAME  DndD_00002
+ACC   PDLC02664
+DESC  DndD
 LENG  662
 ALPH  amino
 RF    no

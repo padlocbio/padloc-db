@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  shah_acc_0206
-	    ACC   PDLC01094
-	    DESC  TAP-like
+HMMER3/f [3.3 | Nov 2019]
+NAME  shah_acc_0206
+ACC   PDLC01094
+DESC  TAP-like
 LENG  504
 ALPH  amino
 RF    no

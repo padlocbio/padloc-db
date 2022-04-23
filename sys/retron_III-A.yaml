@@ -1,14 +1,14 @@
 ---
 maximum_separation: 1
-minimum_core: 3
-minimum_total: 3
+minimum_core: 2
+minimum_total: 2
 
 core_genes:
   - RT_III-A
   - PRTase_III-A
-  - WH_III-A
 optional_genes:
-  - NA
+  - ncRNA
+  - WH_III-A
 prohibited_genes:
   - NA
 ...

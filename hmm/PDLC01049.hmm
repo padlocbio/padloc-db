@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  shah_acc_0042
-	    ACC   PDLC01049
-	    DESC  core
+HMMER3/f [3.3 | Nov 2019]
+NAME  shah_acc_0042
+ACC   PDLC01049
+DESC  core
 LENG  123
 ALPH  amino
 RF    no

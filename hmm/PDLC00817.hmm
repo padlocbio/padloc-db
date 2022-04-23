@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cyclase_00057
-	    ACC   PDLC00817
-	    DESC  oligonucleotide-cyclase
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cyclase_00057
+ACC   PDLC00817
+DESC  oligonucleotide-cyclase
 LENG  419
 ALPH  amino
 RF    no

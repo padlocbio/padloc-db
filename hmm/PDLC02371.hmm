@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Pyc_TIR
-	    ACC   PDLC02371
-	    DESC  PycTIR
+HMMER3/f [3.3 | Nov 2019]
+NAME  Pyc_TIR
+ACC   PDLC02371
+DESC  PycTIR
 LENG  288
 ALPH  amino
 RF    no

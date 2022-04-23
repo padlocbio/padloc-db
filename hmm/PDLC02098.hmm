@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas6_IIIa_Cas6_IIIa
-	    ACC   PDLC02098
-	    DESC  Cas6_IIIa
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas6_IIIa_Cas6_IIIa
+ACC   PDLC02098
+DESC  Cas6_IIIa
 LENG  200
 ALPH  amino
 RF    no

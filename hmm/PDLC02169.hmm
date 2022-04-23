@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Avs4_00001
-	    ACC   PDLC02169
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  Avs4_00001
+ACC   PDLC02169
+DESC  NA
 LENG  1570
 ALPH  amino
 RF    no

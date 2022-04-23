@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DruK_00003
-	    ACC   PDLC00060
-	    DESC  PD-(D/E)XK
+HMMER3/f [3.3 | Nov 2019]
+NAME  DruK_00003
+ACC   PDLC00060
+DESC  PD-(D/E)XK
 LENG  347
 ALPH  amino
 RF    no

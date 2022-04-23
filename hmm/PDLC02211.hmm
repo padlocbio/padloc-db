@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  QatB_00001
-	    ACC   PDLC02211
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  QatB_00001
+ACC   PDLC02211
+DESC  NA
 LENG  191
 ALPH  amino
 RF    no

@@ -6,7 +6,7 @@ minimum_total: 1
 core_genes:
   - RT-Protease_XI
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - NA
 ...

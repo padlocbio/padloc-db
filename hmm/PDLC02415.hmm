@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  REase-PNTD1-PNTD2
-	    ACC   PDLC02415
-	    DESC  Class
+HMMER3/f [3.3 | Nov 2019]
+NAME  REase-PNTD1-PNTD2
+ACC   PDLC02415
+DESC  Class
 LENG  423
 ALPH  amino
 RF    no

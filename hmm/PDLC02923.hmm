@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_IX_hepn_1740_cluster1740_1
-	    ACC   PDLC02923
-	    DESC  HEPN_IX
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_IX_hepn_1740_cluster1740_1
+ACC   PDLC02923
+DESC  HEPN_IX
 LENG  161
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Nhi
-	    ACC   PDLC02372
-	    DESC  Nhi
+HMMER3/f [3.3 | Nov 2019]
+NAME  Nhi
+ACC   PDLC02372
+DESC  Nhi
 LENG  470
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  ThsA1_00005
-	    ACC   PDLC00411
-	    DESC  Macro
+HMMER3/f [3.3 | Nov 2019]
+NAME  ThsA1_00005
+ACC   PDLC00411
+DESC  Macro
 LENG  275
 ALPH  amino
 RF    no

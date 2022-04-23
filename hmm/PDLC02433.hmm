@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Aga1.jackhmmer
-	    ACC   PDLC02433
-	    DESC  Aga1
+HMMER3/f [3.3 | Nov 2019]
+NAME  Aga1.jackhmmer
+ACC   PDLC02433
+DESC  Aga1
 LENG  243
 ALPH  amino
 RF    no

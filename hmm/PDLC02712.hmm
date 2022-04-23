@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PbeC_00004
-	    ACC   PDLC02712
-	    DESC  PbeC
+HMMER3/f [3.3 | Nov 2019]
+NAME  PbeC_00004
+ACC   PDLC02712
+DESC  PbeC
 LENG  622
 ALPH  amino
 RF    no

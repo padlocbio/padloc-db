@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  CARF_HEPN_mCpol_CARF_HEPN_mCpol
-	    ACC   PDLC01967
-	    DESC  CARF_HEPN_mCpol
+HMMER3/f [3.3 | Nov 2019]
+NAME  CARF_HEPN_mCpol_CARF_HEPN_mCpol
+ACC   PDLC01967
+DESC  CARF_HEPN_mCpol
 LENG  471
 ALPH  amino
 RF    no

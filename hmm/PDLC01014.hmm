@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cas7_TM1809
-	    ACC   PDLC01014
-	    DESC  CRISPR
+HMMER3/f [3.3 | Nov 2019]
+NAME  cas7_TM1809
+ACC   PDLC01014
+DESC  CRISPR
 LENG  203
 ALPH  amino
 RF    no

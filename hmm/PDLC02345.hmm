@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiH
-	    ACC   PDLC02345
-	    DESC  AbiH
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiH
+ACC   PDLC02345
+DESC  AbiH
 LENG  343
 ALPH  amino
 RF    no

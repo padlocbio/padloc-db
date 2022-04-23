@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_I_A_hnh_cluster39_1
-	    ACC   PDLC02924
-	    DESC  HNH_I-A
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_I_A_hnh_cluster39_1
+ACC   PDLC02924
+DESC  HNH_I-A
 LENG  198
 ALPH  amino
 RF    no

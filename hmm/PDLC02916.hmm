@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_V_csd_cluster85_1
-	    ACC   PDLC02916
-	    DESC  CSD_V
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_V_csd_cluster85_1
+ACC   PDLC02916
+DESC  CSD_V
 LENG  64
 ALPH  amino
 RF    no

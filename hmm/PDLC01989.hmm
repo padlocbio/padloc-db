@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  CARF_m7--CARF_nitrilase_CARF_m7--CARF_nitrilase
-	    ACC   PDLC01989
-	    DESC  CARF_m7--CARF_nitrilase
+HMMER3/f [3.3 | Nov 2019]
+NAME  CARF_m7--CARF_nitrilase_CARF_m7--CARF_nitrilase
+ACC   PDLC01989
+DESC  CARF_m7--CARF_nitrilase
 LENG  457
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiTi
-	    ACC   PDLC02333
-	    DESC  AbiTi
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiTi
+ACC   PDLC02333
+DESC  AbiTi
 LENG  114
 ALPH  amino
 RF    no

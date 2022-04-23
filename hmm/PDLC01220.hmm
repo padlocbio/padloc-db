@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  C19_gRAMP
-	    ACC   PDLC01220
-	    DESC  CAS-III-E;
+HMMER3/f [3.3 | Nov 2019]
+NAME  C19_gRAMP
+ACC   PDLC01220
+DESC  CAS-III-E;
 LENG  1494
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PglW_00002
-	    ACC   PDLC02513
-	    DESC  PglW
+HMMER3/f [3.3 | Nov 2019]
+NAME  PglW_00002
+ACC   PDLC02513
+DESC  PglW
 LENG  1413
 ALPH  amino
 RF    no

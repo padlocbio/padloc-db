@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  C19_cas8b2
-	    ACC   PDLC01204
-	    DESC  CAS-I-B;
+HMMER3/f [3.3 | Nov 2019]
+NAME  C19_cas8b2
+ACC   PDLC01204
+DESC  CAS-I-B;
 LENG  337
 ALPH  amino
 RF    no

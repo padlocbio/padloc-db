@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  TPR
-	    ACC   PDLC02907
-	    DESC  TPR
+HMMER3/f [3.3 | Nov 2019]
+NAME  TPR
+ACC   PDLC02907
+DESC  TPR
 LENG  864
 ALPH  amino
 RF    no

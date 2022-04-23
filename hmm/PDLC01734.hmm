@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cluster10
-	    ACC   PDLC01734
-	    DESC  RecD_0_IVD
+HMMER3/f [3.3 | Nov 2019]
+NAME  cluster10
+ACC   PDLC01734
+DESC  RecD_0_IVD
 LENG  763
 ALPH  amino
 RF    no

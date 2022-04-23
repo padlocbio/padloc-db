@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  KwaA_00012
-	    ACC   PDLC00218
-	    DESC  Unknown
+HMMER3/f [3.3 | Nov 2019]
+NAME  KwaA_00012
+ACC   PDLC00218
+DESC  Unknown
 LENG  186
 ALPH  amino
 RF    no

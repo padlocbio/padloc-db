@@ -7,7 +7,7 @@ core_genes:
   - RT_VII-A2
   - DUF3800_VII
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - NA
 ...

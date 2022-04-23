@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PglZ_00019
-	    ACC   PDLC02560
-	    DESC  PglZ
+HMMER3/f [3.3 | Nov 2019]
+NAME  PglZ_00019
+ACC   PDLC02560
+DESC  PglZ
 LENG  798
 ALPH  amino
 RF    no

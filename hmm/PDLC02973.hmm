@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_XIII_wgr-heat_cluster216_1
-	    ACC   PDLC02973
-	    DESC  WGR_XIII
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_XIII_wgr-heat_cluster216_1
+ACC   PDLC02973
+DESC  WGR_XIII
 LENG  973
 ALPH  amino
 RF    no

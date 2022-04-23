@@ -1,0 +1,23 @@
+---
+maximum_separation: 0
+minimum_core: 1
+minimum_total: 1
+
+core_genes:
+  - RT_UG5-nitrilase
+  - RT_UG5_small
+  - RT_UG24
+  - Drt1a
+  - RT_UG6
+  - RT_UG29
+optional_genes:
+  - Drt1b
+  - RTasTM
+  - RTas1808
+  - RTas1299
+  - RTasDnaG-like
+  - RTasNitrilase
+  - RTasSbcB
+prohibited_genes:
+  - NA
+...

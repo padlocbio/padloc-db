@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Fish20601
-	    ACC   PDLC01467
-	    DESC  CAS-VI-A;
+HMMER3/f [3.3 | Nov 2019]
+NAME  Fish20601
+ACC   PDLC01467
+DESC  CAS-VI-A;
 LENG  139
 ALPH  amino
 RF    no

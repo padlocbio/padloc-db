@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Upx_00001
-	    ACC   PDLC02221
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  Upx_00001
+ACC   PDLC02221
+DESC  NA
 LENG  1271
 ALPH  amino
 RF    no

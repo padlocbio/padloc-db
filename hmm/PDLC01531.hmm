@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  mkCas0136
-	    ACC   PDLC01531
-	    DESC  CAS-III-A;
+HMMER3/f [3.3 | Nov 2019]
+NAME  mkCas0136
+ACC   PDLC01531
+DESC  CAS-III-A;
 LENG  128
 ALPH  amino
 RF    no

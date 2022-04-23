@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas12g
-	    ACC   PDLC01701
-	    DESC  CAS-V-G;
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas12g
+ACC   PDLC01701
+DESC  CAS-V-G;
 LENG  713
 ALPH  amino
 RF    no

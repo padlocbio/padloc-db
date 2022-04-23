@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  COG3649
-	    ACC   PDLC01461
-	    DESC  CAS-I-C;
+HMMER3/f [3.3 | Nov 2019]
+NAME  COG3649
+ACC   PDLC01461
+DESC  CAS-I-C;
 LENG  250
 ALPH  amino
 RF    no

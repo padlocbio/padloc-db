@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  CARF_m6--CARF_Unk_f2_CARF_m6--CARF_Unk_f2
-	    ACC   PDLC01988
-	    DESC  CARF_m6--CARF_Unk_f2
+HMMER3/f [3.3 | Nov 2019]
+NAME  CARF_m6--CARF_Unk_f2_CARF_m6--CARF_Unk_f2
+ACC   PDLC01988
+DESC  CARF_m6--CARF_Unk_f2
 LENG  517
 ALPH  amino
 RF    no

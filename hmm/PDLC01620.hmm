@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  pfam09344
-	    ACC   PDLC01620
-	    DESC  CAS-I-E;
+HMMER3/f [3.3 | Nov 2019]
+NAME  pfam09344
+ACC   PDLC01620
+DESC  CAS-I-E;
 LENG  335
 ALPH  amino
 RF    no

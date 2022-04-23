@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  shah_acc_0146
-	    ACC   PDLC01076
-	    DESC  DNA
+HMMER3/f [3.3 | Nov 2019]
+NAME  shah_acc_0146
+ACC   PDLC01076
+DESC  DNA
 LENG  165
 ALPH  amino
 RF    no

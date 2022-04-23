@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  RdrB_00002
-	    ACC   PDLC02219
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  RdrB_00002
+ACC   PDLC02219
+DESC  NA
 LENG  914
 ALPH  amino
 RF    no

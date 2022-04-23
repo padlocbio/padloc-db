@@ -8,7 +8,7 @@ core_genes:
   - HTH_VI
   - SP_VI
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - NA
 ...

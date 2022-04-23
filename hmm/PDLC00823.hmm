@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cyclase_00063
-	    ACC   PDLC00823
-	    DESC  oligonucleotide-cyclase
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cyclase_00063
+ACC   PDLC00823
+DESC  oligonucleotide-cyclase
 LENG  285
 ALPH  amino
 RF    no

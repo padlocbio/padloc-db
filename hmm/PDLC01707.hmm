@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  V_U5
-	    ACC   PDLC01707
-	    DESC  CAS-V-J;
+HMMER3/f [3.3 | Nov 2019]
+NAME  V_U5
+ACC   PDLC01707
+DESC  CAS-V-J;
 LENG  610
 ALPH  amino
 RF    no

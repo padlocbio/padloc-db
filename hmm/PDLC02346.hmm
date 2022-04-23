@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiI
-	    ACC   PDLC02346
-	    DESC  AbiI
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiI
+ACC   PDLC02346
+DESC  AbiI
 LENG  295
 ALPH  amino
 RF    no

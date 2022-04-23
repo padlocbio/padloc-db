@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  IetS_00003
-	    ACC   PDLC02199
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  IetS_00003
+ACC   PDLC02199
+DESC  NA
 LENG  826
 ALPH  amino
 RF    no

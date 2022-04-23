@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  ZorA2_00003
-	    ACC   PDLC00637
-	    DESC  MotA/ExbB/TolQ
+HMMER3/f [3.3 | Nov 2019]
+NAME  ZorA2_00003
+ACC   PDLC00637
+DESC  MotA/ExbB/TolQ
 LENG  420
 ALPH  amino
 RF    no

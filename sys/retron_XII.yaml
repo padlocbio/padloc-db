@@ -8,5 +8,5 @@ core_genes:
 optional_genes:
   - NA
 prohibited_genes:
-  - NA
+  - ncRNA
 ...

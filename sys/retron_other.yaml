@@ -5,9 +5,11 @@ minimum_total: 2
 
 core_genes:
   - ATPase_I-A
+  - RT_outgroup
+  - RT_Ec107-like  
   - HNH_I-A
   - ATPase-Toprim_I-B
-  - RT-Toprim_C
+  - RT-Toprim_I-C
   - NDT_II-A
   - PRTase_III-A
   - WH_III-A
@@ -16,7 +18,7 @@ core_genes:
   - HTH_VI
   - SP_VI
   - DUF3800_VII
-  - RT-DUF3800_VII
+  - RT-DUF3800_VII-A1
   - DUF626_VIII
   - HEPN_IX
   - HTH_IX
@@ -28,21 +30,20 @@ core_genes:
   - SWIM_XIII
   - RT_I-A
   - RT_I-B
-  - RT_I-C
   - RT_II-A
   - RT_III-A
   - RT_IV
   - RT_IX
   - RT_V
   - RT_VI
-  - RT_VII-A1
   - RT_VII-A2
   - RT_VIII
   - RT_X
-  - RT_XI
-  - RT_XII
+  - RT-Protease_XI
+  - RT-TIR_XII
   - RT_XIII
   - RT_other
+  - ncRNA  
 optional_genes:
   - NA
 prohibited_genes:

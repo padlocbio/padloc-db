@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Tin
-	    ACC   PDLC02359
-	    DESC  Tin
+HMMER3/f [3.3 | Nov 2019]
+NAME  Tin
+ACC   PDLC02359
+DESC  Tin
 LENG  239
 ALPH  amino
 RF    no

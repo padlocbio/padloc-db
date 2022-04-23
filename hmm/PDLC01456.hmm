@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  COG2254
-	    ACC   PDLC01456
-	    DESC  CAS-I;
+HMMER3/f [3.3 | Nov 2019]
+NAME  COG2254
+ACC   PDLC01456
+DESC  CAS-I;
 LENG  207
 ALPH  amino
 RF    no

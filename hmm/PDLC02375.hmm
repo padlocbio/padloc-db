@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Stk2
-	    ACC   PDLC02375
-	    DESC  Stk2
+HMMER3/f [3.3 | Nov 2019]
+NAME  Stk2
+ACC   PDLC02375
+DESC  Stk2
 LENG  500
 ALPH  amino
 RF    no

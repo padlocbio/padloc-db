@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cls000686
-	    ACC   PDLC01415
-	    DESC  CAS-III;
+HMMER3/f [3.3 | Nov 2019]
+NAME  cls000686
+ACC   PDLC01415
+DESC  CAS-III;
 LENG  593
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cas_cas6
-	    ACC   PDLC00956
-	    DESC  CRISPR-associated
+HMMER3/f [3.3 | Nov 2019]
+NAME  cas_cas6
+ACC   PDLC00956
+DESC  CRISPR-associated
 LENG  200
 ALPH  amino
 RF    no

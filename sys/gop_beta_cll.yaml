@@ -1,0 +1,16 @@
+---
+# system description
+maximum_separation: 1
+minimum_core: 3
+minimum_total: 3
+
+# genes
+core_genes:
+  - gop
+  - beta
+  - cll
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

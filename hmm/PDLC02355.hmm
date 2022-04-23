@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Lit
-	    ACC   PDLC02355
-	    DESC  Lit
+HMMER3/f [3.3 | Nov 2019]
+NAME  Lit
+ACC   PDLC02355
+DESC  Lit
 LENG  290
 ALPH  amino
 RF    no

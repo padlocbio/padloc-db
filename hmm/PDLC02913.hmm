@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_I_A_atpase_cluster22_1
-	    ACC   PDLC02913
-	    DESC  ATPase_I-A
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_I_A_atpase_cluster22_1
+ACC   PDLC02913
+DESC  ATPase_I-A
 LENG  508
 ALPH  amino
 RF    no

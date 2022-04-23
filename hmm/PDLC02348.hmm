@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiK
-	    ACC   PDLC02348
-	    DESC  AbiK
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiK
+ACC   PDLC02348
+DESC  AbiK
 LENG  544
 ALPH  amino
 RF    no

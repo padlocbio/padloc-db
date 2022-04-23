@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Drt4_00002
-	    ACC   PDLC02178
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  Drt4_00002
+ACC   PDLC02178
+DESC  NA
 LENG  506
 ALPH  amino
 RF    no

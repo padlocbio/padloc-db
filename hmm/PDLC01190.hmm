@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0129
-	    ACC   PDLC01190
-	    DESC  Small
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0129
+ACC   PDLC01190
+DESC  Small
 LENG  144
 ALPH  amino
 RF    no

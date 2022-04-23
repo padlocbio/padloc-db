@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiD
-	    ACC   PDLC02344
-	    DESC  AbiD
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiD
+ACC   PDLC02344
+DESC  AbiD
 LENG  277
 ALPH  amino
 RF    no

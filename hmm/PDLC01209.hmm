@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  C19_cmr3gr5_3
-	    ACC   PDLC01209
-	    DESC  "CAS-III-B,CAS-III-C;
+HMMER3/f [3.3 | Nov 2019]
+NAME  C19_cmr3gr5_3
+ACC   PDLC01209
+DESC  "CAS-III-B,CAS-III-C;
 LENG  389
 ALPH  amino
 RF    no

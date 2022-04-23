@@ -1,0 +1,25 @@
+---
+maximum_separation: 2
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - MTase_I
+  - REase_I
+  - Specificity_I
+  - REase_MTase_I
+  - MTase_II
+  - REase_II
+  - Specificity_II
+  - Control_protein
+  - REase_MTase_IIG
+  - MTase_III
+  - REase_III
+  - mREase_IV
+  - HEase 
+  - oMTase
+optional_genes:
+  - Helicase_II
+prohibited_genes:
+  - NA
+...

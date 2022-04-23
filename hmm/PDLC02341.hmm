@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiA
-	    ACC   PDLC02341
-	    DESC  AbiA
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiA
+ACC   PDLC02341
+DESC  AbiA
 LENG  604
 ALPH  amino
 RF    no

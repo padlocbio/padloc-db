@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PycC_CladeE
-	    ACC   PDLC02370
-	    DESC  PycC
+HMMER3/f [3.3 | Nov 2019]
+NAME  PycC_CladeE
+ACC   PDLC02370
+DESC  PycC
 LENG  340
 ALPH  amino
 RF    no

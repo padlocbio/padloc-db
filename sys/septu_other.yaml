@@ -6,7 +6,6 @@ minimum_total: 2
 core_genes:
   - PtuA
   - PtuB
-  - PtuC
 optional_genes:
   - NA
 prohibited_genes:

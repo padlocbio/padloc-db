@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  LmuB1_00009
-	    ACC   PDLC00257
-	    DESC  AAA
+HMMER3/f [3.3 | Nov 2019]
+NAME  LmuB1_00009
+ACC   PDLC00257
+DESC  AAA
 LENG  571
 ALPH  amino
 RF    no

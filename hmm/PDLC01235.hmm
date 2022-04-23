@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas12a_M26
-	    ACC   PDLC01235
-	    DESC  Cas12a_M26_V-A
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas12a_M26
+ACC   PDLC01235
+DESC  Cas12a_M26_V-A
 LENG  1159
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  pAgo_WP_049969002.1
-	    ACC   PDLC02388
-	    DESC  pAgo
+HMMER3/f [3.3 | Nov 2019]
+NAME  pAgo_WP_049969002.1
+ACC   PDLC02388
+DESC  pAgo
 LENG  716
 ALPH  amino
 RF    no

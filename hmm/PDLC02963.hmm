@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_I_C1_RT_typeIC1
-	    ACC   PDLC02963
-	    DESC  single
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_I_C1_RT_typeIC1
+ACC   PDLC02963
+DESC  single
 LENG  552
 ALPH  amino
 RF    no

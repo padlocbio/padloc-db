@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0111
-	    ACC   PDLC01174
-	    DESC  CorA-like
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0111
+ACC   PDLC01174
+DESC  CorA-like
 LENG  446
 ALPH  amino
 RF    no

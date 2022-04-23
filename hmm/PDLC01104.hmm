@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0002
-	    ACC   PDLC01104
-	    DESC  Cas9
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0002
+ACC   PDLC01104
+DESC  Cas9
 LENG  174
 ALPH  amino
 RF    no

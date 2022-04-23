@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DrmMII_00005
-	    ACC   PDLC02651
-	    DESC  DrmMII
+HMMER3/f [3.3 | Nov 2019]
+NAME  DrmMII_00005
+ACC   PDLC02651
+DESC  DrmMII
 LENG  371
 ALPH  amino
 RF    no

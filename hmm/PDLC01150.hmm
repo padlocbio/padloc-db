@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0079
-	    ACC   PDLC01150
-	    DESC  HEAT_CxxC_PD-DEXK
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0079
+ACC   PDLC01150
+DESC  HEAT_CxxC_PD-DEXK
 LENG  288
 ALPH  amino
 RF    no

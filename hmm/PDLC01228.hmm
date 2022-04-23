@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cpf1_V_maka
-	    ACC   PDLC01228
-	    DESC  Cas12a
+HMMER3/f [3.3 | Nov 2019]
+NAME  cpf1_V_maka
+ACC   PDLC01228
+DESC  Cas12a
 LENG  1233
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0104
-	    ACC   PDLC01167
-	    DESC  "CARF,
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0104
+ACC   PDLC01167
+DESC  "CARF,
 LENG  196
 ALPH  amino
 RF    no

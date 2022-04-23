@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas14f
-	    ACC   PDLC01226
-	    DESC  CAS-V-F;
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas14f
+ACC   PDLC01226
+DESC  CAS-V-F;
 LENG  549
 ALPH  amino
 RF    no

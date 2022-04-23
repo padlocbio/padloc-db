@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  ThsA2_00001
-	    ACC   PDLC00439
-	    DESC  Macro
+HMMER3/f [3.3 | Nov 2019]
+NAME  ThsA2_00001
+ACC   PDLC00439
+DESC  Macro
 LENG  282
 ALPH  amino
 RF    no

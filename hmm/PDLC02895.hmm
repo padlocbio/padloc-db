@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DpdJ_00003
-	    ACC   PDLC02895
-	    DESC  DpdJ
+HMMER3/f [3.3 | Nov 2019]
+NAME  DpdJ_00003
+ACC   PDLC02895
+DESC  DpdJ
 LENG  2112
 ALPH  amino
 RF    no

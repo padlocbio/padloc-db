@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cluster33
-	    ACC   PDLC01712
-	    DESC  Cas6_1_IVE
+HMMER3/f [3.3 | Nov 2019]
+NAME  cluster33
+ACC   PDLC01712
+DESC  Cas6_1_IVE
 LENG  247
 ALPH  amino
 RF    no

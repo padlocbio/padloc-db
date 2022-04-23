@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  VakA
-	    ACC   PDLC02911
-	    DESC  VakA
+HMMER3/f [3.3 | Nov 2019]
+NAME  VakA
+ACC   PDLC02911
+DESC  VakA
 LENG  163
 ALPH  amino
 RF    no

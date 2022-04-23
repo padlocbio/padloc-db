@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas4a2_Cas4a2
-	    ACC   PDLC02085
-	    DESC  Cas4a2
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas4a2_Cas4a2
+ACC   PDLC02085
+DESC  Cas4a2
 LENG  166
 ALPH  amino
 RF    no

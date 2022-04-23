@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_III_A2_prtase_cluster113_4
-	    ACC   PDLC02932
-	    DESC  PRTase_III-A
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_III_A2_prtase_cluster113_4
+ACC   PDLC02932
+DESC  PRTase_III-A
 LENG  271
 ALPH  amino
 RF    no

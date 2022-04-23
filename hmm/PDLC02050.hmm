@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas8b_Cas8b
-	    ACC   PDLC02050
-	    DESC  Cas8b
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas8b_Cas8b
+ACC   PDLC02050
+DESC  Cas8b
 LENG  496
 ALPH  amino
 RF    no

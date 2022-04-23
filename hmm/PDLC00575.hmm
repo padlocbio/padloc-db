@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  JetB3_00006
-	    ACC   PDLC00575
-	    DESC  Unknown
+HMMER3/f [3.3 | Nov 2019]
+NAME  JetB3_00006
+ACC   PDLC00575
+DESC  Unknown
 LENG  247
 ALPH  amino
 RF    no

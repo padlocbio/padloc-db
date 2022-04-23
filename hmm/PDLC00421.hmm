@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  ThsB1_00005
-	    ACC   PDLC00421
-	    DESC  TIR-like
+HMMER3/f [3.3 | Nov 2019]
+NAME  ThsB1_00005
+ACC   PDLC00421
+DESC  TIR-like
 LENG  180
 ALPH  amino
 RF    no

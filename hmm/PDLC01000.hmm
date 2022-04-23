@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  casB_cse2
-	    ACC   PDLC01000
-	    DESC  CRISPR
+HMMER3/f [3.3 | Nov 2019]
+NAME  casB_cse2
+ACC   PDLC01000
+DESC  CRISPR
 LENG  159
 ALPH  amino
 RF    no

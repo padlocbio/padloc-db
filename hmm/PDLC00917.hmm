@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cas_TM1794_Cmr2
-	    ACC   PDLC00917
-	    DESC  "CRISPR-associated
+HMMER3/f [3.3 | Nov 2019]
+NAME  cas_TM1794_Cmr2
+ACC   PDLC00917
+DESC  "CRISPR-associated
 LENG  510
 ALPH  amino
 RF    no

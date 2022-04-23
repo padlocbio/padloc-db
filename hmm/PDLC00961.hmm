@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cas_Cst2_DevR
-	    ACC   PDLC00961
-	    DESC  "CRISPR-associated
+HMMER3/f [3.3 | Nov 2019]
+NAME  cas_Cst2_DevR
+ACC   PDLC00961
+DESC  "CRISPR-associated
 LENG  321
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Ago1-i4
-	    ACC   PDLC02436
-	    DESC  pAgo
+HMMER3/f [3.3 | Nov 2019]
+NAME  Ago1-i4
+ACC   PDLC02436
+DESC  pAgo
 LENG  460
 ALPH  amino
 RF    yes

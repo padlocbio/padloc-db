@@ -1,0 +1,16 @@
+---
+# system description
+maximum_separation: 1
+minimum_core: 3
+minimum_total: 3
+
+# genes
+core_genes:
+  - Hp1
+  - Hp2
+  - Hp3  
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Effector_00097
-	    ACC   PDLC00759
-	    DESC  PN-superfamily
+HMMER3/f [3.3 | Nov 2019]
+NAME  Effector_00097
+ACC   PDLC00759
+DESC  PN-superfamily
 LENG  506
 ALPH  amino
 RF    no

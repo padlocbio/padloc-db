@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DndG_00001
-	    ACC   PDLC02675
-	    DESC  DndG
+HMMER3/f [3.3 | Nov 2019]
+NAME  DndG_00001
+ACC   PDLC02675
+DESC  DndG
 LENG  417
 ALPH  amino
 RF    no

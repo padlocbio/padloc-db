@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PtuA1_00042
-	    ACC   PDLC00306
-	    DESC  AAA
+HMMER3/f [3.3 | Nov 2019]
+NAME  PtuA1_00042
+ACC   PDLC00306
+DESC  AAA
 LENG  274
 ALPH  amino
 RF    no

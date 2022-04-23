@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DruH3_00007
-	    ACC   PDLC00044
-	    DESC  Unknown
+HMMER3/f [3.3 | Nov 2019]
+NAME  DruH3_00007
+ACC   PDLC00044
+DESC  Unknown
 LENG  1096
 ALPH  amino
 RF    no

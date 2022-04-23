@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  retron_type_IV_2tm_cluster826_1
-	    ACC   PDLC02912
-	    DESC  2TM_IV
+HMMER3/f [3.3 | Nov 2019]
+NAME  retron_type_IV_2tm_cluster826_1
+ACC   PDLC02912
+DESC  2TM_IV
 LENG  235
 ALPH  amino
 RF    no

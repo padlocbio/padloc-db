@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas12k_0_V-K
-	    ACC   PDLC01709
-	    DESC  Cas12k_0_V-K
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas12k_0_V-K
+ACC   PDLC01709
+DESC  Cas12k_0_V-K
 LENG  642
 ALPH  amino
 RF    no

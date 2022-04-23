@@ -7,7 +7,7 @@ core_genes:
   - RT_IV
   - 2TM_IV
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - NA
 ...

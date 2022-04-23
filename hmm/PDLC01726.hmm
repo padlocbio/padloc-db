@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cluster34
-	    ACC   PDLC01726
-	    DESC  Csf3-Csf1_0_IVE
+HMMER3/f [3.3 | Nov 2019]
+NAME  cluster34
+ACC   PDLC01726
+DESC  Csf3-Csf1_0_IVE
 LENG  479
 ALPH  amino
 RF    no

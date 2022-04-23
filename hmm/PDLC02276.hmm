@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiEi_WP_069691454.1
-	    ACC   PDLC02276
-	    DESC  AbiEi
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiEi_WP_069691454.1
+ACC   PDLC02276
+DESC  AbiEi
 LENG  270
 ALPH  amino
 RF    no

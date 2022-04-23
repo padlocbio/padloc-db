@@ -9,5 +9,5 @@ core_genes:
 optional_genes:
   - NA
 prohibited_genes:
-  - PtuC2 
+  - RT_I-A 
 ...

@@ -1,0 +1,13 @@
+---
+maximum_separation: 3
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - MTase_I
+  - REase_I
+optional_genes:
+  - Specificity_I
+prohibited_genes:
+  - NA
+...

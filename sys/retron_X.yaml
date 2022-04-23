@@ -7,7 +7,7 @@ core_genes:
   - RT_X
   - IHF-VHL_X
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - NA
 ...

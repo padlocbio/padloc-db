@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  HmaB_00002
-	    ACC   PDLC00661
-	    DESC  DNA-adenine
+HMMER3/f [3.3 | Nov 2019]
+NAME  HmaB_00002
+ACC   PDLC00661
+DESC  DNA-adenine
 LENG  973
 ALPH  amino
 RF    no

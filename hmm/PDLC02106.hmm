@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Cas6b2_Cas6b2
-	    ACC   PDLC02106
-	    DESC  Cas6b2
+HMMER3/f [3.3 | Nov 2019]
+NAME  Cas6b2_Cas6b2
+ACC   PDLC02106
+DESC  Cas6b2
 LENG  203
 ALPH  amino
 RF    no

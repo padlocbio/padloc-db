@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Csn2_WP_118351836.1
-	    ACC   PDLC02136
-	    DESC  Csn2
+HMMER3/f [3.3 | Nov 2019]
+NAME  Csn2_WP_118351836.1
+ACC   PDLC02136
+DESC  Csn2
 LENG  327
 ALPH  amino
 RF    no

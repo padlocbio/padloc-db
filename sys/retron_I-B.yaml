@@ -7,7 +7,7 @@ core_genes:
   - RT_I-B
   - ATPase-Toprim_I-B
 optional_genes:
-  - NA
+  - ncRNA
 prohibited_genes:
   - NA
 ...

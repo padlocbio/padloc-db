@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  BrxF_00004
-	    ACC   PDLC02499
-	    DESC  BrxF
+HMMER3/f [3.3 | Nov 2019]
+NAME  BrxF_00004
+ACC   PDLC02499
+DESC  BrxF
 LENG  133
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cluster5
-	    ACC   PDLC01711
-	    DESC  Cas6_0_IVA3
+HMMER3/f [3.3 | Nov 2019]
+NAME  cluster5
+ACC   PDLC01711
+DESC  Cas6_0_IVA3
 LENG  189
 ALPH  amino
 RF    no

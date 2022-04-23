@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  E2_00021
-	    ACC   PDLC00878
-	    DESC  E2
+HMMER3/f [3.3 | Nov 2019]
+NAME  E2_00021
+ACC   PDLC00878
+DESC  E2
 LENG  267
 ALPH  amino
 RF    no

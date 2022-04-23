@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  TniQ_IB_TniQ_IB
-	    ACC   PDLC02149
-	    DESC  TniQ_IB
+HMMER3/f [3.3 | Nov 2019]
+NAME  TniQ_IB_TniQ_IB
+ACC   PDLC02149
+DESC  TniQ_IB
 LENG  306
 ALPH  amino
 RF    no

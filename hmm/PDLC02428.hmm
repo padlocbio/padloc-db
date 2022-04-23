@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  pPIWI_solo
-	    ACC   PDLC02428
-	    DESC  PprPIWI
+HMMER3/f [3.3 | Nov 2019]
+NAME  pPIWI_solo
+ACC   PDLC02428
+DESC  PprPIWI
 LENG  666
 ALPH  amino
 RF    no

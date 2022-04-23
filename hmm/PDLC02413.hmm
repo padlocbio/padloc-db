@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Aga_Nuclease
-	    ACC   PDLC02413
-	    DESC  Aga_Nuclease
+HMMER3/f [3.3 | Nov 2019]
+NAME  Aga_Nuclease
+ACC   PDLC02413
+DESC  Aga_Nuclease
 LENG  267
 ALPH  amino
 RF    no

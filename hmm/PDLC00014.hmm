@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DruE2_00001
-	    ACC   PDLC00014
-	    DESC  SNF2
+HMMER3/f [3.3 | Nov 2019]
+NAME  DruE2_00001
+ACC   PDLC00014
+DESC  SNF2
 LENG  1928
 ALPH  amino
 RF    no

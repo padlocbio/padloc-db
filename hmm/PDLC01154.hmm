@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0084
-	    ACC   PDLC01154
-	    DESC  "LabA-like
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0084
+ACC   PDLC01154
+DESC  "LabA-like
 LENG  310
 ALPH  amino
 RF    no

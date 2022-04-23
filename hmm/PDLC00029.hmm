@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DruM2_00004
-	    ACC   PDLC00029
-	    DESC  DNA
+HMMER3/f [3.3 | Nov 2019]
+NAME  DruM2_00004
+ACC   PDLC00029
+DESC  DNA
 LENG  329
 ALPH  amino
 RF    no

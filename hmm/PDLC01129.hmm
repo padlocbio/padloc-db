@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0027
-	    ACC   PDLC01129
-	    DESC  Membrane
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0027
+ACC   PDLC01129
+DESC  Membrane
 LENG  195
 ALPH  amino
 RF    no

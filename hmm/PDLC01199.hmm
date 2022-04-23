@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  C19_Cas5f_1
-	    ACC   PDLC01199
-	    DESC  CAS-I-F;
+HMMER3/f [3.3 | Nov 2019]
+NAME  C19_Cas5f_1
+ACC   PDLC01199
+DESC  CAS-I-F;
 LENG  241
 ALPH  amino
 RF    no

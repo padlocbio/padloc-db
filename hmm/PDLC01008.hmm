@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  csf4_IV_maka_1
-	    ACC   PDLC01008
-	    DESC  Cas_effector
+HMMER3/f [3.3 | Nov 2019]
+NAME  csf4_IV_maka_1
+ACC   PDLC01008
+DESC  Cas_effector
 LENG  141
 ALPH  amino
 RF    no

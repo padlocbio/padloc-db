@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PtuB1_00023
-	    ACC   PDLC00334
-	    DESC  Unknown
+HMMER3/f [3.3 | Nov 2019]
+NAME  PtuB1_00023
+ACC   PDLC00334
+DESC  Unknown
 LENG  222
 ALPH  amino
 RF    no

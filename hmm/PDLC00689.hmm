@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Effector_00027
-	    ACC   PDLC00689
-	    DESC  2TM
+HMMER3/f [3.3 | Nov 2019]
+NAME  Effector_00027
+ACC   PDLC00689
+DESC  2TM
 LENG  360
 ALPH  amino
 RF    no

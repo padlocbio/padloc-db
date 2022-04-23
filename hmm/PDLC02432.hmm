@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  pPIWI_RE_Z
-	    ACC   PDLC02432
-	    DESC  pPIWI_RE_Z
+HMMER3/f [3.3 | Nov 2019]
+NAME  pPIWI_RE_Z
+ACC   PDLC02432
+DESC  pPIWI_RE_Z
 LENG  167
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cas2_I_II_III_V_maka
-	    ACC   PDLC00936
-	    DESC  Cas2
+HMMER3/f [3.3 | Nov 2019]
+NAME  cas2_I_II_III_V_maka
+ACC   PDLC00936
+DESC  Cas2
 LENG  83
 ALPH  amino
 RF    no

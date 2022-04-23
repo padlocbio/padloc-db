@@ -5,11 +5,10 @@ minimum_total: 4
 
 core_genes:
   - Cyclase
-  - Effector
   - HORMA
   - TRIP13
 optional_genes:
-  - NA
+  - Effector
 prohibited_genes:
   - NA
 ...

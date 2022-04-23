@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  ZorB1_00005
-	    ACC   PDLC00612
-	    DESC  MotB
+HMMER3/f [3.3 | Nov 2019]
+NAME  ZorB1_00005
+ACC   PDLC00612
+DESC  MotB
 LENG  293
 ALPH  amino
 RF    no

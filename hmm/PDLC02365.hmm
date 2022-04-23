@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Pyc_4TM
-	    ACC   PDLC02365
-	    DESC  PycTM
+HMMER3/f [3.3 | Nov 2019]
+NAME  Pyc_4TM
+ACC   PDLC02365
+DESC  PycTM
 LENG  165
 ALPH  amino
 RF    no

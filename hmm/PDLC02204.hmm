@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  MzaB_00001
-	    ACC   PDLC02204
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  MzaB_00001
+ACC   PDLC02204
+DESC  NA
 LENG  500
 ALPH  amino
 RF    no

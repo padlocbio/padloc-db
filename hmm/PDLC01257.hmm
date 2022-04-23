@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cd09644
-	    ACC   PDLC01257
-	    DESC  CAS-II-A;
+HMMER3/f [3.3 | Nov 2019]
+NAME  cd09644
+ACC   PDLC01257
+DESC  CAS-II-A;
 LENG  221
 ALPH  amino
 RF    no

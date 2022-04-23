@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  CARF7--CARF_RelE_like_CARF7--CARF_RelE_like
-	    ACC   PDLC01939
-	    DESC  CARF7--CARF_RelE_like
+HMMER3/f [3.3 | Nov 2019]
+NAME  CARF7--CARF_RelE_like_CARF7--CARF_RelE_like
+ACC   PDLC01939
+DESC  CARF7--CARF_RelE_like
 LENG  370
 ALPH  amino
 RF    no

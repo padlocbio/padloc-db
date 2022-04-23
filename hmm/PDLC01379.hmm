@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cd12217
-	    ACC   PDLC01379
-	    DESC  CAS-II-A;
+HMMER3/f [3.3 | Nov 2019]
+NAME  cd12217
+ACC   PDLC01379
+DESC  CAS-II-A;
 LENG  335
 ALPH  amino
 RF    no

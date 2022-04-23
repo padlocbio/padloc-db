@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cas3_yersinia
-	    ACC   PDLC00941
-	    DESC  "CRISPR-associated
+HMMER3/f [3.3 | Nov 2019]
+NAME  cas3_yersinia
+ACC   PDLC00941
+DESC  "CRISPR-associated
 LENG  1110
 ALPH  amino
 RF    no

@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  TIR-PNTD1-PNTD2
-	    ACC   PDLC02421
-	    DESC  Class
+HMMER3/f [3.3 | Nov 2019]
+NAME  TIR-PNTD1-PNTD2
+ACC   PDLC02421
+DESC  Class
 LENG  430
 ALPH  amino
 RF    no

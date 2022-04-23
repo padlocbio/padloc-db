@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  icity0035
-	    ACC   PDLC01134
-	    DESC  "PIWI,
+HMMER3/f [3.3 | Nov 2019]
+NAME  icity0035
+ACC   PDLC01134
+DESC  "PIWI,
 LENG  631
 ALPH  amino
 RF    no

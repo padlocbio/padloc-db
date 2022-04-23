@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cls000023
-	    ACC   PDLC01384
-	    DESC  "CAS-I,CAS-III;
+HMMER3/f [3.3 | Nov 2019]
+NAME  cls000023
+ACC   PDLC01384
+DESC  "CAS-I,CAS-III;
 LENG  128
 ALPH  amino
 RF    no

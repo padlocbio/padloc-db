@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  Dsr1_00001
-	    ACC   PDLC02183
-	    DESC  NA
+HMMER3/f [3.3 | Nov 2019]
+NAME  Dsr1_00001
+ACC   PDLC02183
+DESC  NA
 LENG  1275
 ALPH  amino
 RF    no

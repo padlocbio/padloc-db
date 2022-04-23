@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  AbiN
-	    ACC   PDLC02349
-	    DESC  AbiN
+HMMER3/f [3.3 | Nov 2019]
+NAME  AbiN
+ACC   PDLC02349
+DESC  AbiN
 LENG  165
 ALPH  amino
 RF    no

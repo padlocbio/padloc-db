@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  pAgo-associated_WP_053326746.1
-	    ACC   PDLC02399
-	    DESC  Class
+HMMER3/f [3.3 | Nov 2019]
+NAME  pAgo-associated_WP_053326746.1
+ACC   PDLC02399
+DESC  Class
 LENG  463
 ALPH  amino
 RF    no

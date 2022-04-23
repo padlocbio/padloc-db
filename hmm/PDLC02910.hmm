@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  viperin_HicA-like
-	    ACC   PDLC02910
-	    DESC  HicA-like
+HMMER3/f [3.3 | Nov 2019]
+NAME  viperin_HicA-like
+ACC   PDLC02910
+DESC  HicA-like
 LENG  61
 ALPH  amino
 RF    no

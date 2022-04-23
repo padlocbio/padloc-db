@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  shah_acc_0083
-	    ACC   PDLC01064
-	    DESC  cluster
+HMMER3/f [3.3 | Nov 2019]
+NAME  shah_acc_0083
+ACC   PDLC01064
+DESC  cluster
 LENG  133
 ALPH  amino
 RF    no

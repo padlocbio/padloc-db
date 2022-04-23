@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  DrmA_00008
-	    ACC   PDLC02574
-	    DESC  DrmA
+HMMER3/f [3.3 | Nov 2019]
+NAME  DrmA_00008
+ACC   PDLC02574
+DESC  DrmA
 LENG  269
 ALPH  amino
 RF    no

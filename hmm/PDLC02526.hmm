@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  PglX_00012
-	    ACC   PDLC02526
-	    DESC  PglX
+HMMER3/f [3.3 | Nov 2019]
+NAME  PglX_00012
+ACC   PDLC02526
+DESC  PglX
 LENG  640
 ALPH  amino
 RF    no

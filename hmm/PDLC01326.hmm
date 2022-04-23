@@ -1,7 +1,7 @@
-HMMER3/f [3.3.2 | Nov 2020]
-	    NAME  cd09713
-	    ACC   PDLC01326
-	    DESC  CAS-I-B;
+HMMER3/f [3.3 | Nov 2019]
+NAME  cd09713
+ACC   PDLC01326
+DESC  CAS-I-B;
 LENG  295
 ALPH  amino
 RF    no

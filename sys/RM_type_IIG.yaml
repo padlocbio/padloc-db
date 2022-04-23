@@ -1,0 +1,20 @@
+---
+maximum_separation: 0
+minimum_core: 1
+minimum_total: 1
+
+core_genes:
+  - REase_MTase_IIG
+optional_genes:
+  - NA
+prohibited_genes:
+  - Specificity_I
+  - PglZ
+  - PglW
+  - DrmA
+  - DrmB
+  - DrmC 
+  - BrxA
+  - BrxB
+  - BrxC
+...
