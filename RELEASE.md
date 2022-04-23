@@ -1,4 +1,4 @@
-# PADLOC-DB release v1.3.0
+# PADLOC-DB release v1.4.0
 
 ### About
 
@@ -8,7 +8,7 @@ The latest version of this database is installed when running `padloc --db-updat
 
 ### What's new
 
-This release of PADLOC-DB adds BREX, DISARM, pArgonaute, Phosphorothioation systems (DND/PBE/SSP), Pycsar, Viperin, and several other types of defence systems (https://doi.org/10/g29b).
+This release of PADLOC-DB adds RM systems, new systems from Rousset et al. (https://doi.org/10.1016/j.chom.2022.02.018), darTG from LeRoux et al. (https://doi.org/10.1101/2021.09.27.462013), Gasdermins from Johnson et al. (https://doi.org/10.1126/science.abj8432), and spbK from Johnson et al. (https://doi.org/10.1371/journal.pgen.1010065).
 
 ### What's included
 
@@ -28,6 +28,7 @@ padloc-db
 
 | Release | Date       | HMMs | Classifications |
 | ------- | ---------- | ---- | --------------- |
+| v1.4.0  | 23/04/2022 | 3824 | 210             |
 | v1.3.0  | 14/02/2022 | 2974 | 181             |
 | v1.2.0  | 11/11/2021 | 2360 | 126             |
 | v1.1.0  | 28/09/2021 | 2223 | 97              |
