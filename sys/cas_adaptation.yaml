@@ -1,7 +1,7 @@
 ---
 # system description
 maximum_separation: 3
-minimum_core: 2
+minimum_core: 1
 minimum_total: 2
 
 # genes
