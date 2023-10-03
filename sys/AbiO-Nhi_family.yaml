@@ -1,0 +1,13 @@
+force_strand: FALSE
+maximum_separation: 1
+minimum_core: 1
+minimum_total: 1
+core_genes:
+  - AbiO
+  - Nhi
+secondary_genes:
+  - NA
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

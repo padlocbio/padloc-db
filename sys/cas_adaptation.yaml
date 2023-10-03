@@ -1,15 +1,13 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 3
 minimum_core: 2
 minimum_total: 2
-
-# genes
 core_genes:
- - cas_adaptation
-optional_genes:
- - cas_accessory
- - CRISPR_array
+  - cas_adaptation
+secondary_genes:
+  - cas_accessory
+  - CRISPR_array
+neutral_genes:
+  - NA
 prohibited_genes:
   - cas_effector
-...

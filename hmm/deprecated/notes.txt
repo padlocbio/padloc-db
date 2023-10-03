@@ -1,2 +1,39 @@
 hmm.accession	hmm.name	comments
 PDLC00300	PtuA1_00036	Unlikely genuine PtuA homologue - appears to match MTase instead
+PDLC00359	PtuA2_00001	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00360	PtuA2_00002	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00361	PtuA2_00003	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00362	PtuA2_00004	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00363	PtuA2_00005	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00364	PtuA2_00006	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00365	PtuB2_00001	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00366	PtuB2_00002	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00367	PtuB2_00003	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00368	PtuB2_00004	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00369	PtuB2_00005	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00370	PtuB2_00006	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00371	PtuC2_00001	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00372	PtuC2_00002	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00373	PtuC2_00003	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00374	PtuC2_00004	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00375	PtuC2_00005	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC00376	PtuC2_00006	Not used by any models due to dropping the Septu Type II model (in favor of Retron I-A model)
+PDLC02856	DpdF_00002	Unlikely genuine DpdF
+PDLC02950	retron_unknown	Not used by any models
+PDLC02984	ATPase_Blast	Labelled as defunct
+PDLC02992	RexA_Tm	Labelled as defunct
+PDLC02993	Rst_HEPN	Labelled as defunct
+PDLC02994	Rst_RexA	Labelled as defunct
+PDLC02996	Sirtuin_Blast2	Labelled as defunct
+PDLC03003	HP	Labelled as defunct
+PDLC03007	Hp-Tm	Labelled as defunct
+PDLC03788	drt-cluster107	Not used by any models
+PDLC03789	drt-cluster114	Not used by any models
+PDLC03790	drt-cluster121	Not used by any models
+PDLC03796	drt-cluster169	Not used by any models
+PDLC03801	drt-cluster2186	Not used by any models
+PDLC03803	drt-cluster231	Not used by any models
+PDLC03814	drt-cluster573	Not used by any models
+PDLC03822	drt-cluster90	Not used by any models
+PDLC03823	drt-cluster972	Not used by any models
+PDLC03824	drt-cluster999	Not used by any models

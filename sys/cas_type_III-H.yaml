@@ -1,24 +1,21 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 2
 minimum_total: 2
-
-# genes
 core_genes:
   - Cas10h
   - Csx25
-optional_genes:
+secondary_genes:
   - Cas5_IIIh
-  - Cas6_IIIh 
+  - Cas6_IIIh
   - Cas7_IIIh
   - cas_accessory
   - cas_adaptation
-  - regulation
   - ring_nuclease
-  - accessory_nuclease 
+  - accessory_nuclease
   - CRISPR_array
+neutral_genes:
+  - regulation
 prohibited_genes:
   - Cas5_IIId
   - Csx19
-...

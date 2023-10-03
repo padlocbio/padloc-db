@@ -1,20 +1,17 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 1
 minimum_core: 2
 minimum_total: 2
-
-# genes
 core_genes:
   - Cas12k
   - TniQ_V
-optional_genes:
+secondary_genes:
   - TnsB
   - TnsC
   - cas_accessory
   - cas_adaptation
-  - regulation
   - CRISPR_array
+neutral_genes:
+  - regulation
 prohibited_genes:
   - NA
-...

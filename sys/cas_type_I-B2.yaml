@@ -1,20 +1,18 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 1
 minimum_total: 4
-
-# genes
 core_genes:
   - TniQ_IB
-optional_genes:
+secondary_genes:
   - Cas5b
   - Cas6b2
   - Cas7b
   - Cas8b
   - CRISPR_array
+neutral_genes:
+  - NA
 prohibited_genes:
   - Cas1b
   - Cas2b
   - Cas3b
-...

@@ -1,8 +1,7 @@
----
+force_strand: FALSE
 maximum_separation: 1
 minimum_core: 1
 minimum_total: 2
-
 core_genes:
   - ATPase-Toprim_I-B
   - RT-Toprim_I-C
@@ -16,7 +15,6 @@ core_genes:
   - DUF626_VIII
   - IHF-VHL_X
   - RT-Protease_XI
-  - RT-TIR_XII
   - HEAT-ARM_XIII
   - WGR_XIII
   - SWIM_XIII
@@ -31,8 +29,6 @@ core_genes:
   - RT_VII-A2
   - RT_VIII
   - RT_X
-  - RT-Protease_XI
-  - RT-TIR_XII
   - RT_XIII
   - RT_other
   - Drt6
@@ -42,25 +38,25 @@ core_genes:
   - AbiP2
   - RT_UG14
   - Drt3a
-  - Drt3b 
+  - Drt3b
   - RT_UG31
   - RT_UG10_large
-  - RT_UG10_small  
+  - RT_UG10_small
   - RT_UG22
   - RT_UG23
-  - RT_UG32 
-  - RT_UG19  
+  - RT_UG32
+  - RT_UG19
   - RT_UG9_large
-  - RT_UG9_small 
-  - RT_UG21  
+  - RT_UG9_small
+  - RT_UG21
   - RT_UG13a
   - RT_UG13b
-  - RT_UG33  
+  - RT_UG33
   - Drt8
   - RT_UG34
   - Drt5
   - RT_UG20
-  - RT_UG35  
+  - RT_UG35
   - AbiA
   - RT_UG25
   - Drt2
@@ -77,14 +73,14 @@ core_genes:
   - RT_UG24
   - Drt1a
   - RT_UG6
-  - RT_UG29 
+  - RT_UG29
   - RT_UG36
-  - RT_UG37  
-optional_genes:
+  - RT_UG37
+secondary_genes:
   - ncRNA
   - ATPase_I-A
   - HNH_I-A
-  - HTH_VI  
+  - HTH_VI
   - HEPN_IX
   - HTH_IX
   - CSD_V
@@ -97,22 +93,22 @@ optional_genes:
   - RTasPDDEXK
   - RTasNERD-Hel
   - RTasHel
-  - RTasDUF1848 
+  - RTasDUF1848
   - RTasWYL-YodC
   - RTasYodC
   - RTasRmuC
-  - RTasSLATT
   - RTasCOG2852
   - RTas337
   - RTas346
-  - RTasVirE-PriCT2  
+  - RTasVirE-PriCT2
   - Drt1b
   - RTasTM
   - RTas1808
   - RTas1299
   - RTasDnaG-like
   - RTasNitrilase
-  - RTasSbcB  
+  - RTasSbcB
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

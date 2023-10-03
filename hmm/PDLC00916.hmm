@@ -1,7 +1,7 @@
 HMMER3/f [3.3 | Nov 2019]
 NAME  cas_TM1811_Csm1
 ACC   PDLC00916
-DESC  "CRISPR-associated
+DESC  CRISPR-associated
 LENG  650
 ALPH  amino
 RF    no

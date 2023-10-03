@@ -1,0 +1,13 @@
+force_strand: FALSE
+maximum_separation: 2
+minimum_core: 2
+minimum_total: 2
+core_genes:
+  - LmuA
+  - LmuB
+secondary_genes:
+  - LmuC
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

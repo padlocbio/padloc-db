@@ -1,14 +1,14 @@
----
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - PbeA
   - PbeC
-optional_genes:
+secondary_genes:
   - PbeB
   - PbeD
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

@@ -1,0 +1,13 @@
+force_strand: FALSE
+maximum_separation: 3
+minimum_core: 1
+minimum_total: 2
+core_genes:
+  - SngA
+secondary_genes:
+  - SngB
+  - SngC
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

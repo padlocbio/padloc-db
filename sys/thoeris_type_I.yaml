@@ -1,13 +1,13 @@
----
+force_strand: FALSE
 maximum_separation: 3
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - ThsA1
-  - ThsB1 
-optional_genes:
+  - ThsB1
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - ThsC2
-...

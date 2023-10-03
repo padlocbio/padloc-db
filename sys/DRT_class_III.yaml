@@ -1,8 +1,7 @@
----
+force_strand: FALSE
 maximum_separation: 0
 minimum_core: 1
 minimum_total: 1
-
 core_genes:
   - RT_UG5-nitrilase
   - RT_UG5_small
@@ -10,7 +9,7 @@ core_genes:
   - Drt1a
   - RT_UG6
   - RT_UG29
-optional_genes:
+secondary_genes:
   - Drt1b
   - RTasTM
   - RTas1808
@@ -18,6 +17,7 @@ optional_genes:
   - RTasDnaG-like
   - RTasNitrilase
   - RTasSbcB
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

@@ -1,0 +1,14 @@
+force_strand: TRUE
+maximum_separation: 0
+minimum_core: 3
+minimum_total: 3
+core_genes:
+  - PDC-M28A
+  - PDC-M28B
+  - PDC-M28C
+secondary_genes:
+  - NA
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

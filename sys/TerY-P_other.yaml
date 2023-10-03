@@ -1,14 +1,14 @@
----
+force_strand: FALSE
 maximum_separation: 1
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - TerY
   - PP2C
   - STK_OB
-optional_genes:
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - NA
-...

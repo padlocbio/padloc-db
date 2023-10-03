@@ -1,8 +1,7 @@
----
+force_strand: FALSE
 maximum_separation: 0
 minimum_core: 1
 minimum_total: 1
-
 core_genes:
   - Drt6
   - Drt4
@@ -12,25 +11,25 @@ core_genes:
   - RT_UG14
   - RT_UG31
   - RT_UG10_large
-  - RT_UG10_small  
+  - RT_UG10_small
   - RT_UG22
   - RT_UG23
-  - RT_UG32 
-  - RT_UG19  
+  - RT_UG32
+  - RT_UG19
   - RT_UG9_large
-  - RT_UG9_small 
-  - RT_UG21  
+  - RT_UG9_small
+  - RT_UG21
   - RT_UG13a
   - RT_UG13b
-  - RT_UG33  
+  - RT_UG33
   - Drt8
   - RT_UG34
   - Drt5
   - RT_UG20
-  - RT_UG35  
+  - RT_UG35
   - AbiA
   - RT_UG25
-optional_genes:
+secondary_genes:
   - RTasSLATT
   - RTasHEPN
   - RTasNUDIX
@@ -41,11 +40,12 @@ optional_genes:
   - RTasNERD-Hel
   - RTasHel
   - RTasDUF1848
+neutral_genes:
+  - NA
 prohibited_genes:
   - Drt1a
   - Drt1b
   - Drt3a
-  - Drt3b  
+  - Drt3b
   - PRTase_III-A
   - WH_III-A
-...

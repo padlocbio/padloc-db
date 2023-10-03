@@ -1,17 +1,17 @@
----
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 1
 minimum_total: 1
-
 core_genes:
   - pVip
   - pVip-kinase
-optional_genes:
+secondary_genes:
   - Csa3
   - TPR
   - Ankyrin
-  - NERD  
-  - HicA-like  
+  - NERD
+  - HicA-like
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

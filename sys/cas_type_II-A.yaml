@@ -1,19 +1,16 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 2
 minimum_total: 3
-
-# genes
 core_genes:
   - Cas9
-  - Csn2 
-optional_genes:
+  - Csn2
+secondary_genes:
   - Cas1_II
   - Cas2_II
   - cas_accessory
-  - regulation
   - CRISPR_array
+neutral_genes:
+  - regulation
 prohibited_genes:
-   - NA
-...
+  - NA

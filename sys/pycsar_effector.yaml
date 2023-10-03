@@ -1,16 +1,14 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 0
 minimum_core: 1
 minimum_total: 2
-
-# genes
 core_genes:
   - PycC
-optional_genes:
+secondary_genes:
   - PycTIR
   - PycTM
   - Effector
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

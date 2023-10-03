@@ -1,13 +1,10 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 1
 minimum_total: 4
-
-# genes
 core_genes:
   - Cas10c
-optional_genes:
+secondary_genes:
   - Cmr1
   - Cmr3
   - Cmr4
@@ -16,12 +13,12 @@ optional_genes:
   - Cas6
   - cas_accessory
   - cas_adaptation
-  - regulation
-  - ring_nuclease 
-  - accessory_nuclease 
+  - ring_nuclease
+  - accessory_nuclease
   - CRISPR_array
+neutral_genes:
+  - regulation
 prohibited_genes:
   - Csm4
   - Csm5
   - Cas10b
-...

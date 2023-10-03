@@ -1,15 +1,15 @@
----
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - QatA
   - QatB
   - QatC
   - QatD
-optional_genes:
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - NA
-...

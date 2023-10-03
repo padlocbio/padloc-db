@@ -1,10 +1,7 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 4
 minimum_total: 5
-
-# genes
 core_genes:
   - Cas11a
   - Cas7a
@@ -12,17 +9,12 @@ core_genes:
   - Cas8a
   - Cas3a1
   - Cas3a2
-optional_genes:
-  - Cas1a
-  - Cas2a
-  - Cas4a1
-  - Cas4a2
-  - Cas4a
-  - Cas6a  
+secondary_genes:
+  - Cas6a
   - cas_accessory
   - cas_adaptation
-  - regulation
   - CRISPR_array
+neutral_genes:
+  - regulation
 prohibited_genes:
   - NA
-...

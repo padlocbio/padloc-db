@@ -1,14 +1,15 @@
----
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 1
 minimum_total: 1
-
 core_genes:
   - pAgo
   - pAgo_I
   - pAgo_II
   - PprPIWI
-optional_genes:
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - pPIWI_associated
@@ -16,5 +17,4 @@ prohibited_genes:
   - pAgo_II_associated
   - Ppr_associated
   - Aga1
-  - Aga2  
-...
+  - Aga2

@@ -1,0 +1,13 @@
+force_strand: TRUE
+maximum_separation: 0
+minimum_core: 2
+minimum_total: 2
+core_genes:
+  - PDC-M64A
+  - PDC-M64B
+secondary_genes:
+  - PDC-M64C
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

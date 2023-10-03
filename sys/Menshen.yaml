@@ -1,0 +1,14 @@
+force_strand: FALSE
+maximum_separation: 3
+minimum_core: 3
+minimum_total: 3
+core_genes:
+  - NsnA
+  - NsnB
+  - NsnC
+secondary_genes:
+  - NA
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

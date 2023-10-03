@@ -1,15 +1,15 @@
----
+force_strand: FALSE
 maximum_separation: 1
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - MTase_II
   - REase_II
-optional_genes:
+secondary_genes:
   - Specificity_II
   - Control_protein
   - Helicase_II
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

@@ -1,8 +1,7 @@
----
+force_strand: FALSE
 maximum_separation: 3
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - ZorA
   - ZorB
@@ -11,8 +10,9 @@ core_genes:
   - ZorE
   - ZorF
   - ZorG
-optional_genes:
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - NA
-...

@@ -1,12 +1,9 @@
----
+force_strand: FALSE
 maximum_separation: 3
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - Cyclase
-  - Effector
-optional_genes:
   - E1-E2
   - E2
   - HORMA
@@ -15,6 +12,9 @@ optional_genes:
   - QueC
   - TGT
   - TRIP13
+secondary_genes:
+  - Effector
+neutral_genes:
+  - regulation
 prohibited_genes:
   - NA
-...

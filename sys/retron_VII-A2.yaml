@@ -1,13 +1,13 @@
----
+force_strand: FALSE
 maximum_separation: 1
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - RT_VII-A2
   - DUF3800_VII
-optional_genes:
+secondary_genes:
   - ncRNA
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

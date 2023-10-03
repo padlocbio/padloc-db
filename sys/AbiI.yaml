@@ -1,14 +1,12 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 1
 minimum_core: 1
 minimum_total: 1
-
-# genes
 core_genes:
   - AbiI
-optional_genes:
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - NA
-...

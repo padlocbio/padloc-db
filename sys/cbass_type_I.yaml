@@ -1,12 +1,13 @@
----
-maximum_separation: 3
+force_strand: FALSE
+maximum_separation: 2
 minimum_core: 1
 minimum_total: 2
-
 core_genes:
   - Cyclase
-optional_genes:
+secondary_genes:
   - Effector
+neutral_genes:
+  - regulation
 prohibited_genes:
   - E1-E2
   - E2
@@ -16,4 +17,3 @@ prohibited_genes:
   - QueC
   - TGT
   - TRIP13
-...

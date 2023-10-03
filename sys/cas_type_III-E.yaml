@@ -1,19 +1,16 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 1
 minimum_total: 1
-
-# genes
 core_genes:
   - gRAMP
-optional_genes:
+secondary_genes:
   - cas_accessory
   - cas_adaptation
-  - regulation
   - ring_nuclease
-  - accessory_nuclease  
+  - accessory_nuclease
   - CRISPR_array
+neutral_genes:
+  - regulation
 prohibited_genes:
   - NA
-...

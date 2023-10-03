@@ -1,16 +1,16 @@
----
+force_strand: FALSE
 maximum_separation: 1
 minimum_core: 4
 minimum_total: 4
-
 core_genes:
   - DrmA
   - DrmB
   - DrmC
   - DrmMII
-optional_genes:
+secondary_genes:
   - DrmE
+neutral_genes:
+  - NA
 prohibited_genes:
   - DrmD
   - DrmMI
-...

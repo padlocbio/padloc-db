@@ -1,21 +1,18 @@
----
-# system description
+force_strand: FALSE
 maximum_separation: 2
 minimum_core: 4
 minimum_total: 4
-
-# genes
 core_genes:
   - Cas8f
   - Cas5f
   - Cas7f
   - Cas6f
-optional_genes:
+secondary_genes:
   - Cas23f
   - Cas1f
-  - regulation
   - CRISPR_array
+neutral_genes:
+  - regulation
 prohibited_genes:
   - TniQ_IF
   - TniQ
-...

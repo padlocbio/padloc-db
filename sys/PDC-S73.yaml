@@ -1,0 +1,12 @@
+force_strand: TRUE
+maximum_separation: 0
+minimum_core: 1
+minimum_total: 1
+core_genes:
+  - PDC-S73
+secondary_genes:
+  - NA
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

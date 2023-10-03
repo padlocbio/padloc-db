@@ -1,8 +1,7 @@
----
-maximum_separation: 2
+force_strand: FALSE
+maximum_separation: 3
 minimum_core: 2
 minimum_total: 2
-
 core_genes:
   - MTase_I
   - REase_I
@@ -16,7 +15,7 @@ core_genes:
   - MTase_III
   - REase_III
   - mREase_IV
-  - HEase 
+  - HEase
   - oMTase
   - DndA
   - DndB
@@ -69,8 +68,23 @@ core_genes:
   - PLD_Helicase
   - DpdA
   - DpdB
-  - DpdC  
-optional_genes:
+  - DpdC
+  - mREase_II
+  - HEC-05
+  - HEC-06
+  - SngA
+  - SngB
+  - SngC
+  - PD-Lambda-5_A
+  - PD-Lambda-5_B
+  - mad2
+  - mad3
+  - mad4
+  - mad5
+  - mad6
+  - mad7
+  - mad8
+secondary_genes:
   - Helicase_II
   - DpdD
   - DpdE
@@ -79,7 +93,9 @@ optional_genes:
   - DpdH
   - DpdI
   - DpdJ
-  - DpdK  
+  - DpdK
+neutral_genes:
+  - mad1
+  - regulation
 prohibited_genes:
   - NA
-...

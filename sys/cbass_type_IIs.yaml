@@ -1,13 +1,13 @@
----
+force_strand: FALSE
 maximum_separation: 3
 minimum_core: 2
 minimum_total: 3
-
 core_genes:
   - Cyclase
   - E2
-optional_genes:
+secondary_genes:
   - Effector
+neutral_genes:
+  - regulation
 prohibited_genes:
   - NA
-...

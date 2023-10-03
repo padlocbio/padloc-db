@@ -1,0 +1,13 @@
+force_strand: TRUE
+maximum_separation: 0
+minimum_core: 2
+minimum_total: 2
+core_genes:
+  - PDC-M12A
+  - PDC-M12B
+secondary_genes:
+  - NA
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

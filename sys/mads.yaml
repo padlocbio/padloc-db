@@ -1,0 +1,18 @@
+force_strand: FALSE
+maximum_separation: 2
+minimum_core: 3
+minimum_total: 3
+core_genes:
+  - mad2
+  - mad5
+  - mad6
+  - mad7
+  - mad8
+secondary_genes:
+  - mad1
+  - mad3
+  - mad4
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

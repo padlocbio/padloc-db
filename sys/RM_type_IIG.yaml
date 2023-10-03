@@ -1,11 +1,12 @@
----
+force_strand: FALSE
 maximum_separation: 0
 minimum_core: 1
 minimum_total: 1
-
 core_genes:
   - REase_MTase_IIG
-optional_genes:
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - Specificity_I
@@ -13,8 +14,7 @@ prohibited_genes:
   - PglW
   - DrmA
   - DrmB
-  - DrmC 
+  - DrmC
   - BrxA
   - BrxB
   - BrxC
-...

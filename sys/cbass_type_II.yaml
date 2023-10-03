@@ -1,14 +1,14 @@
----
-maximum_separation: 3
+force_strand: FALSE
+maximum_separation: 2
 minimum_core: 3
 minimum_total: 4
-
 core_genes:
   - Cyclase
   - E1-E2
   - JAB
-optional_genes:
+secondary_genes:
   - Effector
+neutral_genes:
+  - regulation
 prohibited_genes:
   - NA
-...

@@ -1,8 +1,7 @@
----
+force_strand: FALSE
 maximum_separation: 0
 minimum_core: 1
 minimum_total: 1
-
 core_genes:
   - Drt2
   - Drt9
@@ -13,7 +12,7 @@ core_genes:
   - RT_UG18
   - RT_UG38
   - RT_UG17
-optional_genes:
+secondary_genes:
   - RTasWYL-YodC
   - RTasYodC
   - RTasRmuC
@@ -22,6 +21,7 @@ optional_genes:
   - RTas337
   - RTas346
   - RTasVirE-PriCT2
+neutral_genes:
+  - NA
 prohibited_genes:
   - Drt3b
-...

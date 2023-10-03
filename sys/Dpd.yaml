@@ -1,13 +1,12 @@
----
+force_strand: FALSE
 maximum_separation: 3
 minimum_core: 3
 minimum_total: 3
-
 core_genes:
   - DpdA
   - DpdB
   - DpdC
-optional_genes:
+secondary_genes:
   - DpdD
   - DpdE
   - DpdF
@@ -16,6 +15,7 @@ optional_genes:
   - DpdI
   - DpdJ
   - DpdK
+neutral_genes:
+  - NA
 prohibited_genes:
   - NA
-...

@@ -1,10 +1,28 @@
-<a href="https://github.com/padlocbio/padloc-db/LICENSE" alt="License"><img src="https://img.shields.io/github/license/padlocbio/padloc-db" /></a> <a href="https://github.com/padlocbio/padloc-db/releases" alt="Github release"><img src="https://img.shields.io/github/v/release/padlocbio/padloc-db?label=github%20release" /></a> <a href="https://github.com/padlocbio/padloc-db/commits/master" alt="GitHub commits since latest release"><img src="https://img.shields.io/github/commits-since/padlocbio/padloc-db/latest?sort=semver"></a> <a href="https://github.com/padlocbio/padloc-db/" alt="Last update"><img src="https://img.shields.io/github/last-commit/padlocbio/padloc-db?label=last%20update" /></a> 
+<a href="https://github.com/padlocbio/padloc-db/LICENSE" alt="License">
+	<img src="https://img.shields.io/github/license/padlocbio/padloc-db" />
+</a>
+
+<a href="https://github.com/padlocbio/padloc-db/releases" alt="Github release">
+	<img src="https://img.shields.io/github/v/release/padlocbio/padloc-db?label=github%20release" />
+</a>
+
+<a href="https://github.com/padlocbio/padloc-db/commits/master" alt="GitHub commits since latest release">
+	<img src="https://img.shields.io/github/commits-since/padlocbio/padloc-db/latest?sort=semver">
+</a>
+
+<a href="https://github.com/padlocbio/padloc-db/" alt="Last update">
+	<img src="https://img.shields.io/github/last-commit/padlocbio/padloc-db?label=last%20update" />
+</a>
+
+<a href="https://doi.org/10/gzgh" alt="Citations">
+	<img src="https://citations.njzjz.win/10.1093/nar/gkab883">
+</a>
 
 # PADLOC-DB
 
 ## About
 
-This repo contains the latest version of the HMMs and system models used by [PADLOC](https://github.com/padlocbio/padloc). The latest version of this database can be downloaded by running `padloc --db-update`.
+This repo contains the HMMs and system models used by [PADLOC](https://github.com/padlocbio/padloc). The latest version of this database can be downloaded by running `padloc --db-update`.
 
 The following document describes each field of `hmm_meta.txt` and `sys_meta.txt`, and how you can use your own HMMs and system models with [PADLOC](https://github.com/padlocbio/padloc).
 
@@ -14,203 +32,67 @@ If you use [PADLOC](https://github.com/padlocbio/padloc) or [PADLOC-DB](https://
 
 > Payne, L.J., Todeschini, T.C., Wu, Y., Perry, B.J., Ronson, C.W., Fineran, P.C., Nobrega, F.L., Jackson, S.A. (2021) Identification and classification of antiviral defence systems in bacteria and archaea with PADLOC reveals new system types. *Nucleic Acids Research*, **49**, 10868-10878. doi: https://doi.org/10/gzgh
 
-The HMMs in [PADLOC-DB](https://github.com/padlocbio/padloc-db) were built/curated using data from various sources, we encourage you to also give credit to these groups by [citing them too](#References).
+The HMMs in [PADLOC-DB](https://github.com/padlocbio/padloc-db) were built/curated using data from various sources, we encourage you to also give credit to these groups by citing them too. The relevant refences for individual HMMs can be found by inspecting the `hmm_meta.txt` file provided with [PADLOC-DB](https://github.com/padlocbio/padloc-db).
 
-## System models
+## System models (`sys/*.yaml`)
 
 System models are written using YAML syntax:
 
 ```yaml
----
-maximum_separation: 4       <- Number of unrelated genes allowed to separate each component.
-minimum_core: 4             <- Number of core genes that need to be present.
-minimum_total: 5            <- Number of total genes that need to be present.
-core_genes:                 <- Genes that are generally considered essential.
+force_strand: FALSE    # <- Specifies whether all system components should be on the same strand.
+maximum_separation: 4  # <- Number of unrelated genes allowed to separate each component.
+minimum_core: 4        # <- Number of core genes that need to be present.
+minimum_total: 5       # <- Number of total genes that need to be present.
+core_genes:            # <- Genes that are generally considered essential.
   - GenA
   - GenB
   - GenC
   - GenD
-optional_genes:             <- Genes that are not always present.
+secondary_genes:       # <- Genes that are not always present, but still contribute to minimum_total.
   - GenX
+neutral_genes:         # <- Genes that are not always present, and do not contribute to minimum_total.
   - GenY
-prohibited_genes:           <- Genes that cannot be present.
+prohibited_genes:      # <- Genes that cannot be present.
   - GenZ
-...
 ```
 
-## HMM metadata (hmm_meta.txt)
+## HMM metadata (`hmm_meta.txt`)
 
-#### Compulsory fields
+| Field                       | Example                | Description                                                  |
+| --------------------------- | ---------------------- | ------------------------------------------------------------ |
+| `hmm.accession`             | `PDLC00001`            | A unique identifier for each PADLOC-DB HMM. This should be consistent with the filename and `ACC` field of the HMM. |
+| `hmm.name`                  | `GajA_6`               | Another unique identifier for each HMM. If the HMM is from an external database, the original ID from that database is preferred. This should be consistent with the `NAME` field of the HMM. |
+| `hmm.description`           | `Predicted ATPase`     | A one line description of the HMM e.g. describing protein function or domains. This should be consistent with the `DESC` field of the HMM. |
+| `protein.name`              | `PemK\|MazF`           | The name of the protein that the HMM represents. Multiple protein names are separated by a pipe (`\|`). Capitalisation of the first letter is preferred. These are the names that are referenced in the system models. |
+| `secondary.name`            | `cas_effector`         | A secondary identifier that can be references in the system definition for groups of proteins rather than individual protein names. |
+| `author`                    | `Payne LJ, Jackson SA` | Author(s) of the entry. If the HMM is from an external database, crediting the original author is preferred. If the HMM is from a study where an author was not explicity credited, authorship is attributed to the first author of the study. Multiple authors are separated by a comma (`, `). |
+| `hmm.nseq`                  | `NA`                   | :arrows_counterclockwise: DEPRECATED: This column no longer contains useful information and will likely be removed in a future update. |
+| `hmm.length`                | `NA`                   | :arrows_counterclockwise: DEPRECATED: This column no longer contains useful information and will likely be removed in a future update. |
+| `e.value.threshold`         | `1e-05`                | The minimum E-value allowed when reporting hits.             |
+| `hmm.coverage.threshold`    | `0.3`                  | The proportion of the HMM that must contribute to the HMM/target alignment when reporting hits. |
+| `target.coverage.threshold` | `0.3`                  | The proportion of the target that must contribute to the HMM/target alignment when reporting hits. |
+| `system`                    | `NA`                   | :arrows_counterclockwise: DEPRECATED: This column no longer contains useful information and will likely be removed in a future update. |
+| `literature.ref`            | `10/f2wkj3`            | The DOI for the literature that implies that the HMM or underlying protein sequences belong to a particular protein family or defence system.  Multiple references are separated by a comma (`, `). DOIs can be resolved at [doi.org](https://www.doi.org/). |
+| `database.ref`              | `PFAM; PF06527`        | Reference to the original accession of the alignment/HMM if it was taken from an external database, e.g. PFAM, COG, etc. Includes the name of the database and the identifier separated by a semicolon (`; `). |
+| `comment`                   | `NA`                   | Other relevant information. This may include comments from the original database where applicable. |
 
-These fields must be filled out for use with [PADLOC](https://github.com/leightonpayne/padloc).
+## System metadata (`sys_meta.txt`)
 
-| Field                       | Example          | Description                                                  |
-| --------------------------- | ---------------- | ------------------------------------------------------------ |
-| `hmm.accession`             | PDLC00001        | A unique identifier for each padlocDB HMM.                   |
-| `hmm.name`                  | GajA_6           | Another unique identifier for each HMM. If the HMM is from an external database, the original ID from that database is preferred. |
-| `hmm.description`           | Predicted ATPase | A one line description of the HMM e.g. describing protein function or domains. |
-| `protein.name`              | PemK\|MazF       | The name of the protein that the HMM represents. Multiple protein names are separated by '\|'. Capitalisation of the first letter is preferred. These are the names that are referenced in the system models. |
-| `e.value.threshold`         | 1e-05            | The minimum E-value allowed when reporting hits.             |
-| `hmm.coverage.threshold`    | 0.3              | The proportion of the HMM that must contribute to the HMM/target alignment when reporting hits. |
-| `target.coverage.threshold` | 0.3              | The proportion of the target that must contribute to the HMM/target alignment when reporting hits. |
-| `comment`                   | NA               | Other information that is relevant. This may include comments from the original database where applicable. |
-
-####  Optional fields
-
-These fields are for reference only, and are not strictly required by [PADLOC](https://github.com/leightonpayne/padloc).
-
-| Field            | Example                          | Description                                                  |
-| ---------------- | -------------------------------- | ------------------------------------------------------------ |
-| `secondary.name` | CRISPR-accessory                 | A secondary identifier that can be referred to in the system definition for groups of proteins rather than individual protein names |
-| `system`         | DISARM, RESTRICTION MODIFICATION | The category of defence system to which the HMM belongs. Multiple system names are separated by ', '. The full system name is used where reasonable. |
-| `author`         | Payne LJ, Jackson SA             | Author(s) of the entry. If the HMM is from an external database,    crediting the original author is preferred. If the HMM is from a study where an author was not explicity credited, authorship is attributed to the first author of the study. Multiple authors are separated by ', '. |
-| `hmm.nseq`       | 49                               | The number of sequences that contribute to the HMM.          |
-| `hmm.length`     | 120                              | The length of the the HMM.                                   |
-| `literature.ref` | 10/f2wkj3                        | The DOI for the literature that implies that the HMM or underlying proteins belong to the protein/defence system.  Multiple references are separated by ', '. DOIs can be resolved at [doi.org](https://www.doi.org/). |
-| `database.ref`   | PFAM; PF06527                    | Reference to the original accession of the alignment/HMM if it was taken from an external database, e.g. PFAM, COG, etc. Includes the name of the database and the identifier separated by '; '. |
-
-## System metadata (sys_meta.txt)
-
-#### Compulsory fields
-
-| Field       | Example         | Description                                                  |
-| ----------- | --------------- | ------------------------------------------------------------ |
-| `yaml.name` | druantia_type_I | The exact name of the yaml file that corresponds with the system type (without the `.yaml` extension) |
-| `search`    | T               | Set to `TRUE` or `FALSE` (or `T` / `F`) to determine whether the system is searched or not. |
-| `comment`   | NA              | Other information that is relevant.                          |
-
-#### Optional fields
-
-| Field         | Example  | Description                |
-| ------------- | -------- | -------------------------- |
-| `system.name` | Druantia | The name of the system     |
-| `type`        | type I   | The subtype of the system. |
+| Field         | Example           | Description                                                  |
+| ------------- | ---------------   | ------------------------------------------------------------ |
+| `system.name` | `Druantia Type I` | The human-readable name for the system. |
+| `type`        | `NA`              | :arrows_counterclockwise: *DEPRECATED:* This column no longer contains useful information and will likely be removed in a future update. |
+| `yaml.name`   | `druantia_type_I` | The exact name of the yaml file that corresponds with the system type (without the `.yaml` extension). |
+| `search`      | `TRUE`            | Set to `TRUE` or `FALSE` to determine whether the system is searched or not. |
+| `comment`     | `NA`              | Other relevant information.                          |
 
 ## Adding to the database
 
 Additional HMMs and system models can be added directly to your copy of this database, or a separate database can be set up in the same way as this one.
 
-Additional HMMs can be added to the `hmm/` directory, `hmm_meta.txt` also needs to be updated to include metadata for the new HMMs. When using with [PADLOC](https://github.com/leightonpayne/padloc), these HMMs need to be concatenated into a single file in the `hmm/` directory called `padlocdb.hmm`.
+Additional HMMs can be added to the `hmm/` directory, `hmm_meta.txt` also needs to be updated to include metadata for the new HMMs. When using with [PADLOC](https://github.com/leightonpayne/padloc), these HMMs need to be concatenated into a single file in the `hmm/` directory called `padlocdb.hmm`. This is done automatically when downloading the database using `padloc --db-update` or `padloc --db-install`.
 
 Additional system models can be added to the `sys/` directory, `sys_meta.txt` should also be updated to include metadata for the new models.
-
-## References
-
-The HMMs in [PADLOC-DB](https://github.com/padlocbio/padloc-db) were built/curated using data from various sources, we encourage you to also give credit to these groups by citing them too:
-
-> Doron, S., Melamed, S., Ofir, G., Leavitt, A., Lopatina, A., Keren, M., Amitai, G. and Sorek, R. (2018) Systematic discovery of antiphage defense systems in the microbial pangenome. *Science*, **359**, eaar4120. doi: [10/ggqhzm](https://doi.org/10/ggqhzm)
-
-> Millman, A., Melamed, S., Amitai, G. and Sorek, R. (2020) Diversity and classification of cyclic-oligonucleotide-based anti-phage signalling systems. *Nature Microbiology*, **5**, 1608–1615. doi: [10/gg84nk](https://doi.org/10/gg84nk)
-
-> Couvin, D., Bernheim, A., Toffano-Nioche, C., Touchon, M., Michalik, J., Néron, B., Rocha, E. P. C., Vergnaud, G., Gautheret, D. and Pourcel, C. (2018) CRISPRCasFinder, an update of CRISRFinder, includes a portable version, enhanced performance and integrates search for Cas proteins. *Nucleic Acids Res*, **46**, W246–W251. doi: [10/ggdjdf](https://doi.org/10/ggdjdf)
-
-> Makarova, K. S., Wolf, Y. I., Iranzo, J., Shmakov, S. A., Alkhnbashi, O. S., Brouns, S. J. J., Charpentier, E., Cheng, D., Haft, D. H., Horvath, P., et al. (2020) Evolutionary classification of CRISPR–Cas systems: a burst of class 2 and derived variants. *Nat Rev Microbiol*, **18**, 67–83. doi: [10/ggkfgj](https://doi.org/10/ggkfgj)
-
-> Shah, S. A., Alkhnbashi, O. S., Behler, J., Han, W., She, Q., Hess, W. R., Garrett, R. A. and Backofen, R. (2019) Comprehensive search for accessory proteins encoded with archaeal and bacterial type III CRISPR-cas gene cassettes reveals 39 new cas gene families. *RNA Biology*, **16**, 530–542. doi: [10/ggqv9p](https://doi.org/10/ggqv9p)
-
-> Shmakov, S. A., Makarova, K. S., Wolf, Y. I., Severinov, K. V. and Koonin, E. V. (2018) Systematic prediction of genes functionally linked to CRISPR-Cas systems by gene neighborhood analysis. *PNAS*, **115**, E5307–E5316. doi: [10/gdpqwq](https://doi.org/10/gdpqwq)
-
-> Russel, J., Pinilla-Redondo, R., Mayo-Muñoz, D., Shah, S. A. and Sørensen, S. J. (2020) CRISPRCasTyper: Automated Identification, Annotation, and Classification of CRISPR-Cas Loci. *The CRISPR Journal*, **3**, 462–469. doi: [10/gshm](https://doi.org/10/gshm)
-
-> Gao, L., Altae-Tran, H., Böhning, F., Makarova, K. S., Segel, M., Schmid-Burgk, J. L., Koob, J., Wolf, Y. I., Koonin, E. V. and Zhang, F. (2020) Diverse enzymatic activities mediate antiviral immunity in prokaryotes. *Science*, **369**, 1077–1084. doi: [10/gpsx](https://doi.org/10/gpsx)
-
-> Makarova, K. S., Timinskas, A., Wolf, Y. I., Gussow, A. B., Siksnys, V., Venclovas, Č. and Koonin, E. V. (2020) Evolutionary and functional classification of the CARF domain superfamily, key sensors in prokaryotic antivirus defense. *Nucleic Acids Res*, **48**, 8828–8847. doi: [10/gg7qx6](https://doi.org/10/gg7qx6)
-
-> Bouchard, J. D., Dion, E., Bissonnette, F. and Moineau, S. (2002) Characterization of the Two-Component Abortive Phage Infection Mechanism AbiT from Lactococcus lactis. *Journal of Bacteriology*, **184**, 6325–6332. doi: [10/btq97w](https://doi.org/10/btq97w)
-
-> Parma, D. H., Snyder, M., Sobolevski, S., Nawroz, M., Brody, E. and Gold, L. (1992) The Rex system of bacteriophage lambda: tolerance and altruistic cell death. *Genes Dev.*, **6**, 497–510. doi: [10/b9xpsb](https://doi.org/10/b9xpsb)
-
-> Jabbar, M. A. and Snyder, L. (1984) Genetic and physiological studies of an Escherichia coli locus that restricts polynucleotide kinase- and RNA ligase-deficient mutants of bacteriophage T4. *Journal of Virology*, **51**, 522–529. doi: [10/gndc4t](https://doi.org/10/gndc4t)
-
-> Cram, D., Ray, A. and Skurray, R. (1984) Molecular analysis of F plasmid pif region specifying abortive infection of T7 phage. *Mol Gen Genet*, **197**, 137–142. doi: [10/fg7s8g](https://doi.org/10/fg7s8g)
-
-> Smith, H. S., Pizer, L. I., Pylkas, L. and Lederberg, S. (1969) Abortive Infection of Shigella dysenteriae P2 by T2 Bacteriophage. *Journal of Virology*, **4**, 162–168. doi: [10/gndc4r](https://doi.org/10/gndc4r)
-
-> Dai, G., Su, P., Allison, G. E., Geller, B. L., Zhu, P., Kim, W. S. and Dunn, N. W. (2001) Molecular Characterization of a New Abortive Infection System (AbiU) from Lactococcus lactisLL51-1. *Applied and Environmental Microbiology*, **67**, 5225–5232. doi: [10/cwbxdg](https://doi.org/10/cwbxdg)
-
-> Lindahl, G., Sironi, G., Bialy, H. and Calendar, R. (1970) Bacteriophage Lambda; Abortive Infection of Bacteria Lysogenic for Phage P2. *PNAS*, **66**, 587–594. doi: [10/fkgq7x](https://doi.org/10/fkgq7x)
-
-> Bergsland, K. J., Kao, C., Yu, Y. T. N., Gulati, R. and Snyder, L. (1990) A site in the T4 bacteriophage major head protein gene that can promote the inhibition of all translation in Escherichia coli. *Journal of Molecular Biology*, **213**, 477–494. doi: [10/fv36tb](https://doi.org/10/fv36tb)
-
-> Durmaz, E. and Klaenhammer, T. R. (2007) Abortive Phage Resistance Mechanism AbiZ Speeds the Lysis Clock To Cause Premature Lysis of Phage-Infected Lactococcus lactis. *Journal of Bacteriology*, **189**, 1417–1425. doi: [10/dnndhw](https://doi.org/10/dnndhw)
-
-> Haaber, J., Moineau, S., Fortier, L. C. and Hammer, K. (2008) AbiV, a Novel Antiphage Abortive Infection Mechanism on the Chromosome of Lactococcus lactis subsp. cremoris MG1363. *Applied and Environmental Microbiology*, **74**, 6528–6537. doi: [10/cnwcq7](https://doi.org/10/cnwcq7)
-
-> Emond, E., Dion, E., Walker, S. A., Vedamuthu, E.R., Kondo, J.K. and Moineau, S. (1998) AbiQ, an Abortive Infection Mechanism fromLactococcus lactis. *Applied and Environmental Microbiology*, **64**, 4748–4756. doi: [10/gndc4p](https://doi.org/10/gndc4p)
-
-> Domingues, S., Chopin, A., Ehrlich, S. D. and Chopin, M. C. (2004) The Lactococcal Abortive Phage Infection System AbiP Prevents both Phage DNA Replication and Temporal Transcription Switch. *Journal of Bacteriology*, **186**, 713–721. doi: [10/bjjwc6](https://doi.org/10/bjjwc6)
-
-> Prevots, F. and Ritzenthaler, P. (1998) Complete Sequence of the New Lactococcal Abortive Phage Resistance Gene abiO. *Journal of Dairy Science*, **81**, 1483–1485. doi: [10/cg69rg](https://doi.org/10/cg69rg)
-
-> Prévots, F., Tolou, S., Delpech, B., Kaghad, M. and Daloyau, M. (1998) Nucleotide sequence and analysis of the new chromosomal abortive infection gene abiN of Lactococcus lactis subsp. cremoris S114. *FEMS Microbiology Letters*, **159**, 331–336. doi: [10/c94sd6](https://doi.org/10/c94sd6)
-
-> Deng, Y. M., Liu, C. Q. and W. Dunn, N. (1999) Genetic organization and functional analysis of a novel phage abortive infection system, AbiL, from Lactococcus lactis. *Journal of Biotechnology*, **67**, 135–149. doi: [10/bwc9k8](https://doi.org/10/bwc9k8)
-
-> Emond, E., Holler, B. J., Boucher, I., Vandenbergh, P. A., Vedamuthu, E. R., Kondo, J. K. and Moineau, S. (1997) Phenotypic and genetic characterization of the bacteriophage abortive infection mechanism AbiK from Lactococcus lactis. *Applied and Environmental Microbiology*, **63**, 1274–1283. doi: [10/gndc4n](https://doi.org/10/gndc4n)
-
-> Deng, Y. M., Harvey, M. L., Liu, C. Q. and Dunn, N. W. (1997) A novel plasmid-encoded phage abortive infection system from Lactococcus lactis biovar. diacetylactis. *FEMS Microbiology Letters*, **146**, 149–154. doi: [10/d24tcq](https://doi.org/10/d24tcq)
-
-> Su, P., Harvey, M., Im, H. J. and Dunn, N. W. (1997) Isolation, cloning and characterisation of the abiI gene from Lactococcus lactis subsp. lactis M138 encoding abortive phage infection. *Journal of Biotechnology*, **54**, 95–104. doi: [10/ckwmpp](https://doi.org/10/ckwmpp)
-
-> Prévots, F., Daloyau, M., Bonin, O., Dumont, X. and Tolou, S. (1996) Cloning and sequencing of the novel abortive infection gene abiH of Lactococcus lactis ssp. lactis biovar. diacetylactis S94. *FEMS Microbiology Letters*, **142**, 295–299. doi: [10/dvjcb5](https://doi.org/10/dvjcb5)
-
-> O’Connor, L., Coffey, A., Daly, C. and Fitzgerald, G. F. (1996) AbiG, a genotypically novel abortive infection mechanism encoded by plasmid pCI750 of Lactococcus lactis subsp. cremoris UC653. *Applied and Environmental Microbiology*, **62**, 3075–3082. doi: [10/gndc4m](https://doi.org/10/gndc4m)
-
-> Garvey, P., Fitzgerald, G. F. and Hill, C. (1995) Cloning and DNA sequence analysis of two abortive infection phage resistance determinants from the lactococcal plasmid pNP40. *Applied and Environmental Microbiology*, **61**, 4321–4328. doi: [10/gndc3x](https://doi.org/10/gndc3x)
-
-> Dy, R. L., Przybilski, R., Semeijn, K., Salmond, G. P. C. and Fineran, P. C. (2014) A widespread bacteriophage abortive infection system functions through a Type IV toxin–antitoxin mechanism. *Nucleic Acids Research*, **42**, 4590–4605. doi: [10/f5zkmw](https://doi.org/10/f5zkmw)
-
-> McLandsborough, L.A., Kolaetis, K. M., Requena, T. and McKay, L. L. (1995) Cloning and characterization of the abortive infection genetic determinant abiD isolated from pBF61 of Lactococcus lactis subsp. lactis KR5. *Applied and Environmental Microbiology*, **61**, 2023–2026. doi: [10/gndc4j](https://doi.org/10/gndc4j)
-
-> Garvey, P., Fitzgerald, G. F. and Hill, C. (1995) Cloning and DNA sequence analysis of two abortive infection phage resistance determinants from the lactococcal plasmid pNP40. *Applied and Environmental Microbiology*, **61**, 4321–4328. doi: [10/gndc3x](https://doi.org/10/gndc3x)
-
-> Anba, J., Bidnenko, E., Hillier, A., Ehrlich, D. and Chopin, M. C. (1995) Characterization of the lactococcal abiD1 gene coding for phage abortive infection. *Journal of Bacteriology*, **177**, 3818–3823. doi: [10/gndc3w](https://doi.org/10/gndc3w)
-
-> Durmaz, E., Higgins, D. L. and Klaenhammer, T. R. (1992) Molecular characterization of a second abortive phage resistance gene present in Lactococcus lactis subsp. lactis ME2. *Journal of Bacteriology*, **174**, 7463–7469. doi: [10/gndc3v](https://doi.org/10/gndc3v)
-
-> Parreira, R., Ehrlich, S. D. and Chopin, M. C. (1996) Dramatic decay of phage transcripts in lactococcal cells carrying the abortive infection determinant AbiB. *Molecular Microbiology*, **19**, 221–230. doi: [10/b835bf](https://doi.org/10/b835bf)
-
-> Cluzel, P. J., Chopin, A., Ehrlich, S. D. and Chopin, M. C. (1991) Phage abortive infection mechanism from Lactococcus lactis subsp. lactis, expression of which is mediated by an Iso-ISS1 element. *Applied and Environmental Microbiology*, **57**, 3547–3551. doi: [10/gndc3t](https://doi.org/10/gndc3t)
-
-> Dinsmore, P. K. and Klaenhammer, T. R. (1994) Phenotypic Consequences of Altering the Copy Number of abiA, a Gene Responsible for Aborting Bacteriophage Infections in Lactococcus lactis. *Applied and Environmental Microbiology*, **60**, 1129–1136. doi: [10/gndc3s](https://doi.org/10/gndc3s)
-
-> Owen, S. V., Wenner, N., Dulberger, C. L., Rodwell, E. V., Bowers-Barnard, A., Quinones-Olvera, N., Rigden, D. J., Rubin, E. J., Garner, E. C., Baym, M., et al. (2021) Prophages encode phage-defense systems with cognate self-immunity. *Cell Host & Microbe*, **29**, 1620-1633. doi: [10/g29b](https://doi.org/10/g29b)
-
-> Bari, S. M. N., Chou-Zheng, L., Howell, O., Cater, K., Dandu, V. S., Thomas, A., Aslan, B., and Hatoum-Aslan, A. (2021). A unique mode of nucleic acid immunity performed by a single multifunctional enzyme. *bioRxiv*. doi: [10/gkw6wr](https://doi.org/10/gkw6wr)
-
-> Burroughs A. M., Ando Y., Aravind L. (2014) New perspectives on the diversification of the RNA interference system: insights from comparative genomics and small RNA sequencing. *WIREs RNA*. **5**, 141–181. doi: [10/gfkh7c](https://doi.org/10/gfkh7c)
-
-> Makarova, K. S., Wolf, Y. I., van der Oost, J., and Koonin, E. V. (2009). Prokaryotic homologs of Argonaute proteins are predicted to function as key components of a novel system of defense against mobile genetic elements. *Biol Direct*, **4**, 29. doi: [10/cvfhm6](https://doi.org/10/cvfhm6)
-
-> Burroughs, A. M., Iyer, L. M., and Aravind, L. (2013). Two novel PIWI families: roles in inter-genomic conflicts in bacteria and Mediator-dependent modulation of transcription in eukaryotes. *Biology Direct* **8**, 13. doi: [10/f46qcd](https://doi.org/10/f46qcd)
-
-> Zeng, Z., Chen, Y., Pinilla-Redondo, R., Shah, S. A., Zhao, F., Wang, C., Hu, Z., Zhang, C., Whitaker, R. J., She, Q., et al. (2021). A short prokaryotic argonaute cooperates with membrane effector to confer antiviral defense. *bioRxiv*. doi: [10//hgr9](https://doi.org//hgr9)
-
-> Mestre, M. R., González-Delgado, A., Gutiérrez-Rus, L. I., Martínez-Abarca, F., and Toro, N. (2020). Systematic prediction of genes functionally associated with bacterial retrons and classification of the encoded tripartite systems. *Nucleic Acids Research*, **48**, 12632–12647. doi: [10/fzk3](https://doi.org/10/fzk3)
-
-> Millman, A., Bernheim, A., Stokar-Avihail, A., Fedorenko, T., Voichek, M., Leavitt, A., Oppenheimer-Shaanan, Y., and Sorek, R. (2020). Bacterial Retrons Function In Anti-Phage Defense. *Cell*, **183**, 1551-1561.e12. doi: [10/ghjct3](https://doi.org/10/ghjct3)
-
-> Bernheim, A., Millman, A., Ofir, G., Meitav, G., Avraham, C., Shomar, H., Rosenberg, M. M., Tal, N., Melamed, S., Amitai, G., et al. (2021). Prokaryotic viperins produce diverse antiviral molecules. *Nature*, **589**, 120–124. doi: [10/d9ss](https://doi.org/10/d9ss)
-
-> Goldfarb, T., Sberro, H., Weinstock, E., Cohen, O., Doron, S., Charpak‐Amikam, Y., Afik, S., Ofir, G., and Sorek, R. (2015). BREX is a novel phage resistance system widespread in microbial genomes. *EMBO J*, **34**, 169–183. doi: [10/f2wkj3](https://doi.org/10/f2wkj3)
-
-> Ofir, G., Melamed, S., Sberro, H., Mukamel, Z., Silverman, S., Yaakov, G., Doron, S., and Sorek, R. (2018). DISARM is a widespread bacterial defence system with broad anti-phage activities. *Nat Microbiol*, **3**, 90–98. doi: [10/ggnszb](https://doi.org/10/ggnszb)
-
-> Yuan, Y., Hutinet, G., Valera, J. G., Hu, J., Hillebrand, R., Gustafson, A., Iwata-Reuyl, D., Dedon, P. C., and de Crécy-Lagard, V. (2018). Identification of the minimal bacterial 2′-deoxy-7-amido-7-deazaguanine synthesis machinery. *Molecular Microbiology*, **110**, 469–483. doi: [10/gfft6b](https://doi.org/10/gfft6b)
-
-> Thiaville, J. J., Kellner, S. M., Yuan, Y., Hutinet, G., Thiaville, P. C., Jumpathong, W., Mohapatra, S., Brochier-Armanet, C., Letarov, A. V., Hillebrand, R., et al. (2016). Novel genomic island modifies DNA with 7-deazaguanine derivatives. *Proc Natl Acad Sci USA*, **113**, E1452–E1459. doi: [10/ggr4f7](https://doi.org/10/ggr4f7)
-
-> Tong, T., Chen, S., Wang, L., Tang, Y., Ryu, J. Y., Jiang, S., Wu, X., Chen, C., Luo, J., Deng, Z., et al. (2018). Occurrence, evolution, and functions of DNA phosphorothioate epigenetics in bacteria. *Proc Natl Acad Sci USA*, **115**, E2988–E2996. doi: [10/gdbj2n](https://doi.org/10/gdbj2n)
-
-> Xu, T., Yao, F., Zhou, X., Deng, Z., and You, D. (2010). A novel host-specific restriction system associated with DNA backbone S-modification in Salmonella. *Nucleic Acids Research*, **38**, 7133–7141. doi: [10/d5zqcp](https://doi.org/10/d5zqcp)
-
-> Xiong, L., Liu, S., Chen, S., Xiao, Y., Zhu, B., Gao, Y., Zhang, Y., Chen, B., Luo, J., Deng, Z., et al. (2019). A new type of DNA phosphorothioation-based antiviral system in archaea. *Nat Commun*, **10**, 1688. [10/ggctjz](https://doi.org/10/ggctjz)
-
-> Xiong, X., Wu, G., Wei, Y., Liu, L., Zhang, Y., Su, R., Jiang, X., Li, M., Gao, H., Tian, X., et al. (2020). SspABCD–SspE is a phosphorothioation-sensing bacterial defence system with broad anti-phage activities. *Nat Microbiol*, **5**, 917–928. [10/ggq8nb](https://doi.org/10/ggq8nb)
-
-> Wang, S., Wan, M., Huang, R., Zhang, Y., Xie, Y., Wei, Y., Ahmad, M., Wu, D., Hong, Y., Deng, Z., et al. (2021). SspABCD-SspFGH Constitutes a New Type of DNA Phosphorothioate-Based Bacterial Defense System. *MBio*, **12**, e00613-21. [10/gbsw](https://doi.org/10/gbsw)
-
-The relevant refences for individual HMMs can be found by inspecting the `hmm_meta.txt` file provided with [PADLOC-DB](https://github.com/padlocbio/padloc-db).
 
 ## License
 

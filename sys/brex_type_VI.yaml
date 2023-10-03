@@ -1,8 +1,7 @@
----
+force_strand: FALSE
 maximum_separation: 3
 minimum_core: 8
 minimum_total: 8
-
 core_genes:
   - BrxA
   - BrxB
@@ -12,8 +11,9 @@ core_genes:
   - BrxHI
   - PglX
   - PglZ
-optional_genes:
+secondary_genes:
+  - NA
+neutral_genes:
   - NA
 prohibited_genes:
   - NA
-...

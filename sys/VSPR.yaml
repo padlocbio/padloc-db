@@ -1,0 +1,13 @@
+force_strand: FALSE
+maximum_separation: 1
+minimum_core: 1
+minimum_total: 2
+core_genes:
+  - Vsr
+secondary_genes:
+  - MTase_I
+  - MTase_II
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA

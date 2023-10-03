@@ -1,0 +1,13 @@
+force_strand: FALSE
+maximum_separation: 0
+minimum_core: 1
+minimum_total: 1
+core_genes:
+  - PD-T7-1
+  - PD-T7-5
+secondary_genes:
+  - NA
+neutral_genes:
+  - NA
+prohibited_genes:
+  - NA
