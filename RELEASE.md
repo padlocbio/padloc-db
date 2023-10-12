@@ -8,11 +8,11 @@ The latest version of this database is installed when running `padloc --db-updat
 
 ### What's new
 
-This release of PADLOC-DB adds many new systems from [Millman et al., 2022]() (from DefenseFinder), the systems from [Vassalo et al., 2022](), the Juk system from [](), the Ddm system from [](), the HNH system from [](), the MADS system from [](), the Cap system from [](), several new Hma-embedded candidates (HECs), based on their presence embedded between the genes of Hma systems (unpublished), and hundreds of potential phage defence candidates (PDCs) based on their presence embedded between the genes of RM, BREX, and DISARM systems (unpublished).
+This release of PADLOC-DB adds many new systems from [Millman et al., 2022](https://doi.org/10/gsdp9b) (HMMs from [DefenseFinder](https://doi.org/10/kx68)), the systems from [Vassalo et al., 2022](https://doi.org/10/gqwkdp), the Juk system from [Li et al., 2022](https://doi.org/10/kwzv), the Ddm system from [Jaskólska et al., 2022](https://doi.org/10/hrkn), the HNH (PcaRCII) system from [Birkholz et al., 2022](https://doi.org/10/kw2b), the MADS system from [Maestri et al., 2023](https://doi.org/10/ktmx), several new Hma-embedded candidate systems (HECs), based on their presence embedded between the genes of Hma systems (Payne, unpublished), and hundreds of other phage defence candidates (PDCs) based on their presence embedded between the genes of RM, BREX, and DISARM systems (Payne, unpublished).
 
 The covariance models used by the PADLOC web server for retron ncRNA detection have also been included. Instructions for using these CMs with PADLOC can be found in the [PADLOC repo](https://github.com/padlocbio/padloc).
 
-Due to re-formating of the system models, this database is only compatible with PADLOC version 2.X.X, and not PADLOC version 1.X.X. Make sure you are using the updated version of PADLOC with this database.
+Due to re-formating of the system models and metadata tables, this database is only compatible with PADLOC version 2.X.X, and not PADLOC version 1.X.X. Make sure you are using the updated version of PADLOC with this database.
 
 ### What's included
 
@@ -24,6 +24,7 @@ padloc-db
 ├── hmm_meta.txt                <- Metadata for HMMs.
 ├── cm_meta.txt                 <- Metadata for CMs.
 ├── sys_meta.txt                <- Metadata for system models.
+├── system_info.md              <- Formatted table of system/reference information.
 ├── README.md                   <- Information regarding metadata fields.
 ├── RELEASE.md                  <- This file.
 └── LICENSE                     <- Copyright information.
