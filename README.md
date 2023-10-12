@@ -78,7 +78,7 @@ prohibited_genes:      # <- Genes that cannot be present
 
 | Field         | Example             | Description |
 | ------------- | ------------------- | ----------- |
-| `system.name` | `Druantia Type I`   | The human-readable name for the system. |
+| `system`      | `Druantia Type I`   | The human-readable name for the system. |
 | `yaml.name`   | `druantia_type_I`   | The exact name of the yaml file that corresponds with the system type (without the `.yaml` extension). |
 | `search`      | `TRUE`              | Set to `TRUE` or `FALSE` to determine whether the system is searched or not. |
 | `comment`     | `NA`                | Other relevant information. |
