@@ -1,57 +1,36 @@
 system	yaml.name	search	comment	references	group	fill	stroke
-2TM-1TM-TIR	2TM-1TM-TIR	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
-3HP	3HP	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
-AbiB	AbiB	TRUE	NA	cluzel1991:10/gndc3t;parreira1996:10/b835bf	SG1	#EDED9E	#96971B
-AbiC	AbiC	TRUE	NA	durmaz1992:10/gndc3v	SG1	#EDED9E	#96971B
-AbiD	AbiD	TRUE	"Captures AbiD, AbiD1 and AbiF"	mclandsborough1995:10/gndc4j;anba1995:10/gndc3w;garvey1995:10/gndc3x	SG1	#EDED9E	#96971B
-AbiE	AbiE	TRUE	NA	garvey1995:10/gndc3x;dy2014:10/f5zkmw	DG1	#EDED9E	#96971B
-AbiG	AbiG	TRUE	NA	oconnor1996:10/gndc4m	DG1	#EDED9E	#96971B
-AbiH	AbiH	TRUE	NA	prevots1996:10/dvjcb5	SG1	#EDED9E	#96971B
-AbiI	AbiI	TRUE	NA	su1997:10/ckwmpp	SG1	#EDED9E	#96971B
-AbiJ	AbiJ	TRUE	NA	deng1997:10/d24tcq	SG1	#EDED9E	#96971B
-AbiL	AbiL	TRUE	NA	deng1999:10/bwc9k8	DG1	#EDED9E	#96971B
-AbiN	AbiN	TRUE	NA	prevots1998:10/c94sd6	SG1	#EDED9E	#96971B
-AbiO-Nhi_family	AbiO-Nhi_family	TRUE	NA	prevots1998:10/cg69rg; bari2022:10/hrgb	SG1	#EDED9E	#96971B
-AbiP	AbiP	TRUE	NA	domingues2004:10/bjjwc6	DRT	#EDED9E	#96971B
-AbiQ	AbiQ	TRUE	NA	emond1998:10/gndc4p	SG1	#EDED9E	#96971B
-AbiT	AbiT	TRUE	NA	bouchard2002:10/btq97w	DG1	#EDED9E	#96971B
-AbiU	AbiU	TRUE	NA	dai2001:10/cwbxdg	SG1	#EDED9E	#96971B
-AbiV	AbiV	TRUE	NA	haaber2008:10/cnwcq7	SG1	#EDED9E	#96971B
-AbiZ	AbiZ	TRUE	NA	durmaz2007:10/dnndhw	SG1	#EDED9E	#96971B
-Aditi	Aditi	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Adjacent protein	adjacent	FALSE	Search should be set to FALSE; Only used by the PADLOC web server for drawing adjacent genes	NA	NA	#CCCCCC	#666666
-ApeA	ApeA	TRUE	NA	gao2020:10/gpsx	SG1	#EDED9E	#96971B
-Argonaute other	argonaute_other	TRUE	NA	NA	MG1	#F1F1D1	#CACA56
-Argonaute SiAgo	argonaute_type_SiAgo	TRUE	NA	zeng2022:10/kws6	MG1	#F1F1D1	#CACA56
-Argonaute solo	argonaute_solo	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
-Argonaute Type I	argonaute_type_I	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
-Argonaute Type II	argonaute_type_II	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
-Argonaute Type III	argonaute_type_III	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
-AVAST Type I	AVAST_type_I	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
-AVAST Type I (other)	AVAST_type_I_other	TRUE	NA	NA	MG1	#F1F1D1	#CACA56
-AVAST Type II	AVAST_type_II	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
-AVAST Type III	AVAST_type_III	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
-AVAST Type IV	AVAST_type_IV	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
-AVAST Type V	AVAST_type_V	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
-Azaca	Azaca	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Borvo	Borvo	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-BREX Type I	brex_type_I	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
-BREX Type II	brex_type_II	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
-BREX Type III	brex_type_III	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
-BREX Type IV	brex_type_IV	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
-BREX Type V	brex_type_V	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
-BREX Type VI	brex_type_VI	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
-BstA	BstA	TRUE	NA	owen2021:10/g29b	SG1	#EDED9E	#96971B
-Bunzi	Bunzi	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-CBASS (other)	cbass_other	TRUE	NA	NA	SigPro	#FFE4C9	#FF952D
 CBASS Type I	cbass_type_I	TRUE	NA	cohen2019:10/ggjhsz;millman2020:10/gg84nk	SigPro	#FFE4C9	#FF952D
 CBASS Type II	cbass_type_II	TRUE	NA	cohen2019:10/ggjhsz;millman2020:10/gg84nk	SigPro	#FFE4C9	#FF952D
 CBASS Type III	cbass_type_III	TRUE	NA	ye2020:10/gghmg3;millman2020:10/gg84nk	SigPro	#FFE4C9	#FF952D
 CBASS Type Iis	cbass_type_IIs	TRUE	NA	millman2020:10/gg84nk	SigPro	#FFE4C9	#FF952D
 CBASS Type IV	cbass_type_IV	TRUE	NA	millman2020:10/gg84nk	SigPro	#FFE4C9	#FF952D
-CRISPR-Cas (other)	cas_type_other	TRUE	NA	NA	CRISPR	#F9BA9A	#B8440A
-CRISPR-Cas adaptation	cas_adaptation	TRUE	Captures potential orphan Cas1/Cas2 modules	NA	CRISPR	#F9BA9A	#B8440A
-CRISPR-Cas array	cas_type_arrays	TRUE	Captures CRISPR arrays	NA	CRISPR	#F9BA9A	#B8440A
+CBASS (other)	cbass_other	TRUE	NA	NA	SigPro	#FFE4C9	#FF952D
+Druantia Type I	druantia_type_I	TRUE	NA	doron2018:10/ggqhzm	DMS	#EFA8A8	#AB1F20
+Druantia Type II	druantia_type_II	TRUE	NA	doron2018:10/ggqhzm	DMS	#EFA8A8	#AB1F20
+Druantia Type III	druantia_type_III	TRUE	NA	doron2018:10/ggqhzm	DMS	#EFA8A8	#AB1F20
+Druantia Type IV	druantia_type_IV	TRUE	NA	payne2021:10/gzgh	DMS	#EFA8A8	#AB1F20
+Druantia (other)	druantia_other	TRUE	NA	NA	DMS	#EFA8A8	#AB1F20
+Gabija	gabija	TRUE	NA	doron2018:10/ggqhzm;cheng2021:10/kwtc	DG1	#FFD6D5	#FF4945
+Hachiman Type I	hachiman_type_I	TRUE	Also known as AbpAB (Yasui 2014)	doron2018:10/ggqhzm;yasui2014:10/f6js6j	DMS	#D4C2E5	#7747A3
+Hachiman Type II	hachiman_type_II	TRUE	NA	payne2021:10/gzgh	DMS	#D4C2E5	#7747A3
+Hachiman (other)	hachiman_other	TRUE	NA	NA	DMS	#D4C2E5	#7747A3
+Kiwa	kiwa	TRUE	NA	doron2018:10/ggqhzm	DG1	#E8DFEE	#A07DBA
+Lamassu family	Lamassu_Family	TRUE	Captures Lamassu Type I and Lamassu Type II	doron2018:10/ggqhzm;payne2021:10/gzgh;millman2022:10/gsdp9b	new	#D6B8B2	#70453C
+Lamassu (other)	Lamassu_other	TRUE	NA	NA	new	#D6B8B2	#70453C
+Septu Type I	septu_type_I	TRUE	NA	doron2018:10/ggqhzm	DRT	#E7D7D4	#AC7368
+Septu (other)	septu_other	TRUE	NA	NA	DRT	#E7D7D4	#AC7368
+Shedu	shedu	TRUE	Also known as PD-T4-8 (Vassallo 2022)	doron2018:10/ggqhzm;vassallo2022:10/gqwkdp	SG1	#F4C9E7	#D73EA8
+Thoeris Type I	thoeris_type_I	TRUE	NA	doron2018:10/ggqhzm;ka2020:10/dx32;ofir2021:10/gnrx8z	SigPro	#FCE2ED	#EF69A2
+Thoeris Type II	thoeris_type_II	TRUE	NA	payne2021:10/gzgh	SigPro	#FCE2ED	#EF69A2
+Thoeris (other)	thoeris_other	TRUE	NA	NA	SigPro	#FCE2ED	#EF69A2
+Wadjet Type I	wadjet_type_I	TRUE	Also known as Ept (Panas 2014)	doron2018:10/ggqhzm;panas2014:10/f6gwxs	MG1	#D8F0F5	#61C3D5
+Wadjet Type II	wadjet_type_II	TRUE	NA	doron2018:10/ggqhzm	MG1	#D8F0F5	#61C3D5
+Wadjet Type III	wadjet_type_III	TRUE	NA	doron2018:10/ggqhzm	MG1	#D8F0F5	#61C3D5
+Wadjet (other)	wadjet_other	TRUE	NA	NA	MG1	#D8F0F5	#61C3D5
+Zorya Type I	zorya_type_I	TRUE	NA	doron2018:10/ggqhzm	DMS	#EBC5E5	#BD3FA7
+Zorya Type II	zorya_type_II	TRUE	NA	doron2018:10/ggqhzm	DMS	#EBC5E5	#BD3FA7
+Zorya Type III	zorya_type_III	TRUE	NA	doron2018:10/ggqhzm	DMS	#EBC5E5	#BD3FA7
+Zorya (other)	zorya_other	TRUE	NA	NA	DMS	#EBC5E5	#BD3FA7
 CRISPR-Cas Type I-A	cas_type_I-A	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
 CRISPR-Cas Type I-B1	cas_type_I-B1	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
 CRISPR-Cas Type I-B2	cas_type_I-B2	TRUE	Transposon-associated	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
@@ -78,222 +57,134 @@ CRISPR-Cas Type IV-B	cas_type_IV-B	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4
 CRISPR-Cas Type IV-C	cas_type_IV-C	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
 CRISPR-Cas Type IV-D	cas_type_IV-D	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
 CRISPR-Cas Type IV-E	cas_type_IV-E	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
-CRISPR-Cas Type V	cas_type_V	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
+CRISPR-Cas Type V	cas_type_V	TRUE	Requires Cas12 and adaptation genes or array	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
 CRISPR-Cas Type V-K	cas_type_V-K	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
-CRISPR-Cas Type VI	cas_type_VI	TRUE	NA	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
-DarTG	darTG	TRUE	NA	sberro2013:10/f4skh2;leroux2022:10/kws7	DG1	#EDED9E	#96971B
-Dazbog	Dazbog	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-DdmDE	DdmDE	TRUE	NA	jaskolska2022:10/hrkn	new	#9FB59A	#468F38
-DISARM Type I	disarm_type_I	TRUE	NA	ofir2017:10/ggnszb	DMS	#FFCC9F	#D76500
-DISARM Type II	disarm_type_II	TRUE	NA	ofir2017:10/ggnszb	DMS	#FFCC9F	#D76500
-DNA-modification systems (other)	DMS_other	TRUE	Loose model that captures various DNA-modification system proteins	NA	DMS	#D6D6A5	#9C9C6E
-DndABCDE	PT_DndABCDE	TRUE	Phosphorotioation system modification module	xu2010:10/d5zqcp;tong2018:10/gdbj2n	DMS	#FFE4C9	#FF952D
-DndFGH	PT_DndFGH	TRUE	Phosphorotioation system restriction module	xu2010:10/d5zqcp;tong2018:10/gdbj2n	DMS	#FFE4C9	#FF952D
-Dodola	Dodola	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Dpd	Dpd	TRUE	7-deazaguanine modification system; protects against RM and CRISPR-Cas	thiaville2016:10/ggr4f7;yuan2018:10/gfft6b	DMS	#99CBED	#195F90
-DRT (other)	DRT_other	TRUE		NA	DRT	#CFB8B8	#C24744
-DRT Class 1	DRT_class_I	TRUE	"Captures multiple RT groups (both with and without known defence activity); includes AbiA, AbiK, AbiP2"	dinsmore1994:10/gndc3s;emond1997:10/gndc4n;odegrip2006:10/dbkcfp;gao2020:10/gpsx;mestre2022:10/kws9	DRT	#FFD6D5	#FF4945
+CRISPR-Cas Type VI	cas_type_VI	TRUE	Requires Cas13 and adaptation genes or array	makarova2020:10/ggkfgj	CRISPR	#9AECF4	#1298A6
+CRISPR-Cas adaptation	cas_adaptation	TRUE	Captures potential orphan Cas1/Cas2 modules	NA	CRISPR	#F9BA9A	#B8440A
+CRISPR-Cas (other)	cas_type_other	TRUE	NA	NA	CRISPR	#F9BA9A	#B8440A
+AVAST Type I	AVAST_type_I	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
+AVAST Type I (other)	AVAST_type_I_other	TRUE	NA	NA	MG1	#F1F1D1	#CACA56
+AVAST Type II	AVAST_type_II	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
+AVAST Type III	AVAST_type_III	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
+AVAST Type IV	AVAST_type_IV	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
+AVAST Type V	AVAST_type_V	TRUE	NA	gao2020:10/gpsx	MG1	#F1F1D1	#CACA56
+DRT Class 1	DRT_class_I	TRUE	Captures multiple RT groups (both with and without known defence activity); includes AbiA, AbiK, AbiP2	dinsmore1994:10/gndc3s;emond1997:10/gndc4n;odegrip2006:10/dbkcfp;gao2020:10/gpsx;mestre2022:10/kws9	DRT	#FFD6D5	#FF4945
 DRT Class 2	DRT_class_II	TRUE	Captures multiple RT groups (both with and without known defence activity)	gao2020:10/gpsx;mestre2022:10/kws9	DRT	#FFD6D5	#FF4945
 DRT Class 3	DRT_class_III	TRUE	Captures multiple RT groups (both with and without known defence activity)	gao2020:10/gpsx;rousset2022:10/hnt9	DRT	#FFD6D5	#FF4945
 DRT Type III	DRT_type_III	TRUE	Type III requires a separate model to avoid Class1/2 overlap	gao2020:10/gpsx	DRT	#FFD6D5	#FF4945
-Druantia (other)	druantia_other	TRUE	NA	NA	DMS	#EFA8A8	#AB1F20
-Druantia Type I	druantia_type_I	TRUE	NA	doron2018:10/ggqhzm	DMS	#EFA8A8	#AB1F20
-Druantia Type II	druantia_type_II	TRUE	NA	doron2018:10/ggqhzm	DMS	#EFA8A8	#AB1F20
-Druantia Type III	druantia_type_III	TRUE	NA	doron2018:10/ggqhzm	DMS	#EFA8A8	#AB1F20
-Druantia Type IV	druantia_type_IV	TRUE	NA	payne2021:10/gzgh	DMS	#EFA8A8	#AB1F20
+DRT (other)	DRT_other	TRUE	NA	NA	DRT	#CFB8B8	#C24744
 Dsr1	dsr1	TRUE	NA	gao2020:10/gpsx	MG1	#EFA8A8	#AB1F20
 Dsr2	dsr2	TRUE	NA	gao2020:10/gpsx	MG1	#EFA8A8	#AB1F20
-DUF4238	DUF4238	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
-dXTPase	dXTPase	TRUE	Captures dCTPases and dGTPases	tal2022:10/gqh5nt	SG1	#EDED9E	#96971B
-Dynamins	Dynamins	TRUE	NA	guo2022:10/kwtb;millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Gabija	gabija	TRUE	NA	doron2018:10/ggqhzm;cheng2021:10/kwtc	DG1	#FFD6D5	#FF4945
+ApeA	ApeA	TRUE	NA	gao2020:10/gpsx	SG1	#EDED9E	#96971B
 Gao System 19	GAO_19	TRUE	Also known as PD-T7-2 (Vassallo 2022)	gao2020:10/gpsx;vassallo2022:10/gqwkdp	DG1	#98CBED	#195F8E
 Gao System 20	GAO_20	TRUE	NA	gao2020:10/gpsx	DG1	#98CBED	#195F8E
 Gao System 29	GAO_29	TRUE	NA	gao2020:10/gpsx	DMS	#98CBED	#195F8E
-Gasdermin	gasdermin	TRUE	NA	johnson2022:10/gn4vwb	DG1	#D6F2D0	#66CF51
-Gop-beta-cII	gop_beta_cll	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
-Hachiman (other)	hachiman_other	TRUE	NA	NA	DMS	#D4C2E5	#7747A3
-Hachiman Type I	hachiman_type_I	TRUE	Also known as AbpAB (Yasui 2014)	doron2018:10/ggqhzm;yasui2014:10/f6js6j	DMS	#D4C2E5	#7747A3
-Hachiman Type II	hachiman_type_II	TRUE	NA	payne2021:10/gzgh	DMS	#D4C2E5	#7747A3
-HEC-01	HEC-01	TRUE	Hma-embedded candidate; defence undetected	payneUNPUBLISHED	HEC	#FFD6D5	#FF4945
-HEC-02	HEC-02	TRUE	Hma-embedded candidate; 	payneUNPUBLISHED	HEC	#FFD6D5	#FF4945
-HEC-03	HEC-03	TRUE	Hma-embedded candidate; 	payneUNPUBLISHED	HEC	#FFD6D5	#FF4945
-HEC-04	HEC-04	TRUE	Hma-embedded candidate; related to fused PARIS systems	payneUNPUBLISHED	HEC	#FFD6D5	#FF4945
-HEC-05	HEC-05	TRUE	Hma-embedded candidate; related to GmrSD family systems; BrxU	payneUNPUBLISHED	DMS	#FFD6D5	#FF4945
-HEC-06	HEC-06	TRUE	Hma-embedded candidate; related to GmrSD family systems	payneUNPUBLISHED	DMS	#FFD6D5	#FF4945
-HEC-07	HEC-07	TRUE	Hma-embedded candidate; 	payneUNPUBLISHED	HEC	#FFD6D5	#FF4945
-HEC-08	HEC-08	TRUE	Hma-embedded candidate; 	payneUNPUBLISHED	HEC	#FFD6D5	#FF4945
-HEC-09	HEC-09	TRUE	Hma-embedded candidate; defence undetected	payneUNPUBLISHED	HEC	#FFD6D5	#FF4945
-Helicase-DUF2290	Helicase-DUF2290	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
 Hhe	hhe	TRUE	NA	gao2020:10/gpsx	SG1	#F1F1D1	#CACA56
-Hma	hma	TRUE	Helicase-Methylase-ATPase system	payne2021:10/gzgh	DMS	#D6F2D0	#66CF51
-Hydrolase-TM	Hydrolase-TM	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
 IetAS	ietAS	TRUE	NA	gao2020:10/gpsx	DG1	#F0F0B9	#A6A638
-ISG15-like	ISG15-like	TRUE	NA	millman2022:10/gsdp9b	SigPro	#9FB59A	#468F38
-ISG15-like (other)	ISG15-like_other	TRUE	NA	NA	SigPro	#9FB59A	#468F38
-Juk	Juk	TRUE	NA	li2022:10/kwzv	new	#9FB59A	#468F38
-Kiwa	kiwa	TRUE	NA	doron2018:10/ggqhzm	DG1	#E8DFEE	#A07DBA
-Lamassu (other)	Lamassu_other	TRUE	NA	NA	new	#D6B8B2	#70453C
-Lamassu family	Lamassu_Family	TRUE	Captures Lamassu Type I and Lamassu Type II	doron2018:10/ggqhzm;payne2021:10/gzgh;millman2022:10/gsdp9b	new	#D6B8B2	#70453C
-Lit	Lit	TRUE	NA	bergsland1990:10/fv36tb	SG1	#EDED9E	#96971B
-MADS	mads	TRUE	NA	maestri2023:10/ktmx	DMS	#E8DFA2	#D1BE45
-Menshen	Menshen	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Menshen (other)	Menshen_other	TRUE	NA	NA	new	#9FB59A	#468F38
-Mokosh Type I	Mokosh_TypeI	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Mokosh Type II	Mokosh_TypeII	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
 Mza	mza	TRUE	NA	gao2020:10/gpsx	MG1	#D6B8B2	#70453C
 Mza (other)	mza_other	TRUE	NA	NA	MG1	#D6B8B3	#70453C
+Ppl	ppl	TRUE	NA	gao2020:10/gpsx	SG1	#EDED9E	#96971B
+QatABCD	qatABCD	TRUE	NA	gao2020:10/gpsx	MG1	#E8DFEE	#A07DBA
+QatABCD (other)	qatABCD_other	TRUE	NA	NA	MG1	#E8DFEE	#A07DBA
+RADAR	RADAR	TRUE	NA	gao2020:10/gpsx	MG1	#D4C2E5	#7747A3
+TerY-P	TerY-P	TRUE	NA	gao2020:10/gpsx	MG1	#D6F2D0	#66CF51
+TerY-P (other)	TerY-P_other	TRUE	NA	NA	MG1	#D6F2D1	#66CF52
+Tmn	tmn	TRUE	NA	gao2020:10/gpsx	SG1	#FFE4C9	#FF952D
+Upx	upx	TRUE	NA	gao2020:10/gpsx	SG1	#FFE4C9	#FF952D
+AbiB	AbiB	TRUE	NA	cluzel1991:10/gndc3t;parreira1996:10/b835bf	SG1	#EDED9E	#96971B
+AbiC	AbiC	TRUE	NA	durmaz1992:10/gndc3v	SG1	#EDED9E	#96971B
+AbiD	AbiD	TRUE	Captures AbiD, AbiD1 and AbiF	mclandsborough1995:10/gndc4j;anba1995:10/gndc3w;garvey1995:10/gndc3x	SG1	#EDED9E	#96971B
+AbiE	AbiE	TRUE	NA	garvey1995:10/gndc3x;dy2014:10/f5zkmw	DG1	#EDED9E	#96971B
+AbiG	AbiG	TRUE	NA	oconnor1996:10/gndc4m	DG1	#EDED9E	#96971B
+AbiH	AbiH	TRUE	NA	prevots1996:10/dvjcb5	SG1	#EDED9E	#96971B
+AbiI	AbiI	TRUE	NA	su1997:10/ckwmpp	SG1	#EDED9E	#96971B
+AbiJ	AbiJ	TRUE	NA	deng1997:10/d24tcq	SG1	#EDED9E	#96971B
+AbiL	AbiL	TRUE	NA	deng1999:10/bwc9k8	DG1	#EDED9E	#96971B
+AbiN	AbiN	TRUE	NA	prevots1998:10/c94sd6	SG1	#EDED9E	#96971B
+AbiO-Nhi family	AbiO-Nhi_family	TRUE	NA	prevots1998:10/cg69rg; bari2022:10/hrgb	SG1	#EDED9E	#96971B
+AbiP	AbiP	TRUE	NA	domingues2004:10/bjjwc6	DRT	#EDED9E	#96971B
+AbiQ	AbiQ	TRUE	NA	emond1998:10/gndc4p	SG1	#EDED9E	#96971B
+AbiT	AbiT	TRUE	NA	bouchard2002:10/btq97w	DG1	#EDED9E	#96971B
+AbiU	AbiU	TRUE	NA	dai2001:10/cwbxdg	SG1	#EDED9E	#96971B
+AbiV	AbiV	TRUE	NA	haaber2008:10/cnwcq7	SG1	#EDED9E	#96971B
+AbiZ	AbiZ	TRUE	NA	durmaz2007:10/dnndhw	SG1	#EDED9E	#96971B
+BstA	BstA	TRUE	NA	owen2021:10/g29b	SG1	#EDED9E	#96971B
+Lit	Lit	TRUE	NA	bergsland1990:10/fv36tb	SG1	#EDED9E	#96971B
 Old	Old	TRUE	NA	lindahl1970:10/fkgq7x;rousset2022:10/hnt9	SG1	#EDED9E	#96971B
-Olokun	Olokun	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-PDC-M01	PDC-M01	TRUE	Phage defence candidate; Minor overlap w/ septu_type_I & PDC-M62 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M02	PDC-M02	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M03	PDC-M03	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M04	PDC-M04	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M05	PDC-M05	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M06	PDC-M06	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M07	PDC-M07	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M08	PDC-M08	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M09	PDC-M09	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M10	PDC-M10	TRUE	Phage defence candidate; PDC-M10A == PDC-M13B	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M11	PDC-M11	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M12	PDC-M12	TRUE	Phage defence candidate; Minor overlap w/ AbiL - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M13	PDC-M13	TRUE	Phage defence candidate; PDC-M13B == PDC-M10A; PDC-M13A may appear at start or end of operon	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M14	PDC-M14	TRUE	Phage defence candidate; Minor overlap w/ AbiT - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M15	PDC-M15	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M16	PDC-M16	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M17	PDC-M17	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M18	PDC-M18	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M19	PDC-M19	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M20	PDC-M20	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M21	PDC-M21	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M22	PDC-M22	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M23	PDC-M23	TRUE	Phage defence candidate; Minor overlap w/ hachiman_type_I - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M24	PDC-M24	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M25	PDC-M25	TRUE	Phage defence candidate; Minor overlap w/ HEC-01 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M26	PDC-M26	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M27	PDC-M27	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M28	PDC-M28	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M29	PDC-M29	TRUE	Phage defence candidate; Minor overlap w/ Menshen - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M30	PDC-M30	TRUE	Phage defence candidate; Minor overlap w/ PDC-M41B - possibly related; PDC-M30B == PDC-M41B	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M31	PDC-M31	TRUE	Phage defence candidate; Minor overlap w/ HEC-01 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M32	PDC-M32	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M33	PDC-M33	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M34	PDC-M34	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M35	PDC-M35	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M36	PDC-M36	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M37	PDC-M37	TRUE	Phage defence candidate; Minor overlap w/ Dodola - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M38	PDC-M38	TRUE	Phage defence candidate; Minor overlap w/ AbiL - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M39	PDC-M39	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M40	PDC-M40	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M41	PDC-M41	TRUE	Phage defence candidate; Minor overlap w/ PDC-M30 - possibly related; PDC-M41B == PDC-M30B	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M42	PDC-M42	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M43	PDC-M43	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M44	PDC-M44	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M45	PDC-M45	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M46	PDC-M46	TRUE	Phage defence candidate; Minor overlap w/ Lamassu_Family - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M47	PDC-M47	TRUE	Phage defence candidate; Minor overlap w/ PD-T4-4 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M48	PDC-M48	TRUE	Phage defence candidate; Minor overlap w/ Lamassu_Family - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M49	PDC-M49	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M50	PDC-M50	TRUE	Phage defence candidate; Minor overlap w/ thoeris_type_I - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M51	PDC-M51	TRUE	Phage defence candidate; Minor overlap w/ viperin_solo - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M52	PDC-M52	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M53	PDC-M53	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M54	PDC-M54	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M55	PDC-M55	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M56	PDC-M56	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M57	PDC-M57	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M58	PDC-M58	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M59	PDC-M59	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M60	PDC-M60	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M61	PDC-M61	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M62	PDC-M62	TRUE	Phage defence candidate; Minor overlap w/ septu_type_I & PDC-M01 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M63	PDC-M63	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M64	PDC-M64	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M65	PDC-M65	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M66	PDC-M66	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M67	PDC-M67	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M68	PDC-M68	TRUE	Phage defence candidate; Minor overlap w/ Lamassu_Family - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M69	PDC-M69	TRUE	Phage defence candidate; Minor overlap w/ PDC-S70 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M70	PDC-M70	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M71	PDC-M71	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-M72	PDC-M72	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S01	PDC-S01	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S02	PDC-S02	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S03	PDC-S03	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S04	PDC-S04	TRUE	Phage defence candidate; Minor overlap w/ SoFic - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S05	PDC-S05	TRUE	Phage defence candidate; Minor overlap w/ PDC-S23 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S06	PDC-S06	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S07	PDC-S07	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S08	PDC-S08	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S09	PDC-S09	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S10	PDC-S10	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S11	PDC-S11	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S12	PDC-S12	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S13	PDC-S13	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S14	PDC-S14	TRUE	Phage defence candidate; Minor overlap w/ GAO_29 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S15	PDC-S15	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S16	PDC-S16	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S17	PDC-S17	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S18	PDC-S18	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S19	PDC-S19	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S20	PDC-S20	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S21	PDC-S21	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S22	PDC-S22	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S23	PDC-S23	TRUE	Phage defence candidate; Minor overlap w/ PDC-S05 - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S24	PDC-S24	TRUE	Phage defence candidate; Minor overlap w/ SoFic - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S25	PDC-S25	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S26	PDC-S26	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S27	PDC-S27	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S28	PDC-S28	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S29	PDC-S29	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S30	PDC-S30	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S31	PDC-S31	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S32	PDC-S32	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S33	PDC-S33	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S34	PDC-S34	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S35	PDC-S35	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S36	PDC-S36	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S37	PDC-S37	TRUE	Phage defence candidate; Minor overlap w/ Mokosh_TypeII - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S38	PDC-S38	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S39	PDC-S39	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S40	PDC-S40	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S41	PDC-S41	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S42	PDC-S42	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S43	PDC-S43	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S44	PDC-S44	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S45	PDC-S45	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S46	PDC-S46	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S47	PDC-S47	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S48	PDC-S48	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S49	PDC-S49	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S50	PDC-S50	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S51	PDC-S51	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S52	PDC-S52	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S53	PDC-S53	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S54	PDC-S54	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S55	PDC-S55	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S56	PDC-S56	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S57	PDC-S57	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S58	PDC-S58	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S59	PDC-S59	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S60	PDC-S60	TRUE	Phage defence candidate; Minor overlap w/ SEFIR - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S61	PDC-S61	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S62	PDC-S62	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S63	PDC-S63	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S64	PDC-S64	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S65	PDC-S65	TRUE	Phage defence candidate; Minor overlap w/ SEFIR - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S66	PDC-S66	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S67	PDC-S67	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S68	PDC-S68	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S69	PDC-S69	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S70	PDC-S70	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S71	PDC-S71	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S72	PDC-S72	TRUE	Phage defence candidate; Minor overlap w/ SoFic - possibly related	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
-PDC-S73	PDC-S73	TRUE	Phage defence candidate	payneUNPUBLISHED	PDC	#FFD6D5	#FF4945
+RexAB	RexAB	TRUE	NA	parma1992:10/b9xpsb	DG1	#EDED9E	#96971B
+Tin	Tin	TRUE	NA	smith1969:10/gndc4r;rousset2022:10/hnt9	SG1	#EDED9E	#96971B
+PifA	PifA	TRUE	NA	cram1984:10/fg7s8g	SG1	#EDED9E	#96971B
+PrrC	PrrC	TRUE	Should be associated with an RM system	jabbar1984:10/gndc4t	SG1	#EDED9E	#96971B
+Pycsar effector	pycsar_effector	TRUE	NA	tal2021:10/gngng3	SigPro	#EBC5E5	#BD3FA7
+Pycsar unknown	pycsar_unknown	TRUE	NA	tal2021:10/gngng3	SigPro	#EBC5E7	#BD3FA9
+Pycsar (other)	pycsar_other	TRUE	NA	NA	SigPro	#EBC5E6	#BD3FA8
+Stk2	Stk2	TRUE	NA	depardieu2016:10/f9f7dq	SG1	#EDED9E	#96971B
+dXTPase	dXTPase	TRUE	Captures dCTPases and dGTPases	tal2022:10/gqh5nt	SG1	#EDED9E	#96971B
+Argonaute Type I	argonaute_type_I	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
+Argonaute Type II	argonaute_type_II	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
+Argonaute Type III	argonaute_type_III	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
+Argonaute SiAgo	argonaute_type_SiAgo	TRUE	NA	zeng2022:10/kws6	MG1	#F1F1D1	#CACA56
+Argonaute solo	argonaute_solo	TRUE	NA	makarova2009:10/cvfhm6;burroughs2014:10/gfkh7c	MG1	#F1F1D1	#CACA56
+Argonaute (other)	argonaute_other	TRUE	NA	NA	MG1	#F1F1D1	#CACA56
+Retron Type I-A	retron_I-A	TRUE	Also known as Septu Type II (Payne 2021)	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3;payne2021:10/gzgh	DRT	#EFC1F2	#BF9AC1
+Retron Type I-B	retron_I-B	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type I-C	retron_I-C	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type II-A	retron_II-A	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type III-A	retron_III-A	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type IV	retron_IV	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type IX	retron_IX	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type V	retron_V	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type VI	retron_VI	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type VII-A1	retron_VII-A1	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type VII-A2	retron_VII-A2	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type VIII	retron_VIII	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type X	retron_X	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type XI	retron_XI	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type XII	retron_XII	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron Type XIII	retron_XIII	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron (Ec107-like)	retron_Ec107-like	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Retron outgroup	retron_outgroup	TRUE	Non-defence retrons	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
+Viperin w/ HicA-like toxin	viperin_toxin	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
+Viperin w/ NERD	viperin_nerd	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
+Viperin w/ TPR	viperin_tpr	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
+Viperin-kinase fusion	viperin_kinase_fusion	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
+Viperin solo	viperin_solo	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
+Viperin (other)	viperin_other	TRUE	NA	NA	MG1	#EBC5ED	#D479D9
+BREX Type I	brex_type_I	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
+BREX Type II	brex_type_II	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
+BREX Type III	brex_type_III	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
+BREX Type IV	brex_type_IV	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
+BREX Type V	brex_type_V	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
+BREX Type VI	brex_type_VI	TRUE	NA	goldfarb2015:10/f2wkj3	DMS	#DFE9F6	#6F9BD6
+DISARM Type I	disarm_type_I	TRUE	NA	ofir2017:10/ggnszb	DMS	#FFCC9F	#D76500
+DISARM Type II	disarm_type_II	TRUE	NA	ofir2017:10/ggnszb	DMS	#FFCC9F	#D76500
+Dpd	Dpd	TRUE	7-deazaguanine modification system; protects against RM and CRISPR-Cas	thiaville2016:10/ggr4f7;yuan2018:10/gfft6b	DMS	#99CBED	#195F90
+DndABCDE	PT_DndABCDE	TRUE	Phosphorotioation system modification module	xu2010:10/d5zqcp;tong2018:10/gdbj2n	DMS	#FFE4C9	#FF952D
+DndFGH	PT_DndFGH	TRUE	Phosphorotioation system restriction module	xu2010:10/d5zqcp;tong2018:10/gdbj2n	DMS	#FFE4C9	#FF952D
+PbeABCD	PT_PbeABCD	TRUE	Phosphorotioation system modification module	xiong2019:10/ggctjz	DMS	#FFE4C9	#FF952D
+SspABCD	PT_SspABCD	TRUE	Phosphorotioation system modification module	xiong2020:10/ggq8nb;wang2021:10/gbsw	DMS	#FFE4C9	#FF952D
+SspE	PT_SspE	TRUE	Phosphorotioation system restriction module	xiong2020:10/ggq8nb	DMS	#FFE4C9	#FF952D
+SspFGH	PT_SspFGH	TRUE	Phosphorotioation system restriction module	wang2021:10/gbsw	DMS	#FFE4C9	#FF952D
 PARIS	Paris	TRUE	NA	rousset2022:10/hnt9	new	#E7D7D4	#AC7368
 PARIS fused	Paris_fused	TRUE	NA	rousset2022:10/hnt9	new	#E7D7D4	#AC7368
-PbeABCD	PT_PbeABCD	TRUE	Phosphorotioation system modification module	xiong2019:10/ggctjz	DMS	#FFE4C9	#FF952D
+2TM-1TM-TIR	2TM-1TM-TIR	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
+3HP	3HP	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
+DUF4238	DUF4238	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
+Gop-beta-cII	gop_beta_cll	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
+Helicase-DUF2290	Helicase-DUF2290	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
+Hydrolase-TM	Hydrolase-TM	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
+TIR-NLR	TIR-NLR	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
+Gasdermin	gasdermin	TRUE	NA	johnson2022:10/gn4vwb	DG1	#D6F2D0	#66CF51
+DarTG	darTG	TRUE	NA	sberro2013:10/f4skh2;leroux2022:10/kws7	DG1	#EDED9E	#96971B
+RM Type I	RM_type_I	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
+RM Type II	RM_type_II	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
+RM Type IIG	RM_type_IIG	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
+RM Type III	RM_type_III	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
+RM Type IV	RM_type_IV	TRUE	NA	nA	DMS	#F1F1D1	#CACA56
+RM VSPR	VSPR	TRUE	Very short patch repair system (non-defence, included for completeness)	NA	DMS	#E8DFA2	#D1BE45
 PcaRCII	RM_type_HNH	TRUE	NA	birkholz2022:10/kw2b	DMS	#E8DFA2	#D1BE45
+MADS	mads	TRUE	NA	maestri2023:10/ktmx	DMS	#E8DFA2	#D1BE45
+Dynamins	Dynamins	TRUE	NA	guo2022:10/kwtb;millman2022:10/gsdp9b	new	#9FB59A	#468F38
 PD-Lambda-1	PD-Lambda-1	TRUE	NA	vassallo2022:10/gqwkdp	new	#9FB59A	#468F38
 PD-Lambda-2	PD-Lambda-2	TRUE	NA	vassallo2022:10/gqwkdp	new	#9FB59A	#468F38
 PD-Lambda-3	PD-Lambda-3	TRUE	NA	vassallo2022:10/gqwkdp	new	#9FB59A	#468F38
@@ -312,76 +203,185 @@ PD-T4-9	PD-T4-9	TRUE	NA	vassallo2022:10/gqwkdp	new	#9FB59A	#468F38
 PD-T7-1/5	PD-T7-1or5	TRUE	Captures PD-T7-1 and PD-T7-5	vassallo2022:10/gqwkdp	new	#9FB59A	#468F38
 PD-T7-3	PD-T7-3	TRUE	NA	vassallo2022:10/gqwkdp	new	#9FB59A	#468F38
 PD-T7-4	PD-T7-4	TRUE	NA	vassallo2022:10/gqwkdp	new	#9FB59A	#468F38
-PifA	PifA	TRUE	NA	cram1984:10/fg7s8g	SG1	#EDED9E	#96971B
-Ppl	ppl	TRUE	NA	gao2020:10/gpsx	SG1	#EDED9E	#96971B
-PrrC	PrrC	TRUE	Should be associated with an RM system	jabbar1984:10/gndc4t	SG1	#EDED9E	#96971B
+DdmDE	DdmDE	TRUE	NA	jaskolska2022:10/hrkn	new	#9FB59A	#468F38
+SpbK	spbK	TRUE	NA	johnson2022:10/kw2c	new	#9FB59A	#468F38
+Aditi	Aditi	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Azaca	Azaca	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Borvo	Borvo	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Bunzi	Bunzi	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Dazbog	Dazbog	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Dodola	Dodola	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+ISG15-like	ISG15-like	TRUE	NA	millman2022:10/gsdp9b	SigPro	#9FB59A	#468F38
+ISG15-like (other)	ISG15-like_other	TRUE	NA	NA	SigPro	#9FB59A	#468F38
+Menshen	Menshen	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Mokosh Type I	Mokosh_TypeI	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Menshen (other)	Menshen_other	TRUE	NA	NA	new	#9FB59A	#468F38
+Mokosh Type II	Mokosh_TypeII	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+Olokun	Olokun	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
 PsyrTA	PsyrTA	TRUE	NA	millman2022:10/gsdp9b	DMS	#9FB59A	#468F38
-Pycsar (other)	pycsar_other	TRUE	NA	NA	SigPro	#EBC5E6	#BD3FA8
-Pycsar effector	pycsar_effector	TRUE	NA	tal2021:10/gngng3	SigPro	#EBC5E5	#BD3FA7
-Pycsar unknown	pycsar_unknown	TRUE	NA	tal2021:10/gngng3	SigPro	#EBC5E7	#BD3FA9
-QatABCD	qatABCD	TRUE	NA	gao2020:10/gpsx	MG1	#E8DFEE	#A07DBA
-QatABCD (other)	qatABCD_other	TRUE	NA	NA	MG1	#E8DFEE	#A07DBA
-RADAR	RADAR	TRUE	NA	gao2020:10/gpsx	MG1	#D4C2E5	#7747A3
-Retron (Ec107-like)	retron_Ec107-like	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron outgroup	retron_outgroup	TRUE	Non-defence retrons	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type I-A	retron_I-A	TRUE	Also known as Septu Type II (Payne 2021)	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3;payne2021:10/gzgh	DRT	#EFC1F2	#BF9AC1
-Retron Type I-B	retron_I-B	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type I-C	retron_I-C	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type II-A	retron_II-A	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type III-A	retron_III-A	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type IV	retron_IV	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type IX	retron_IX	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type V	retron_V	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type VI	retron_VI	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type VII-A1	retron_VII-A1	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type VII-A2	retron_VII-A2	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type VIII	retron_VIII	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type X	retron_X	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type XI	retron_XI	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type XII	retron_XII	TRUE	Single gene retron	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-Retron Type XIII	retron_XIII	TRUE	NA	millman2020:10/gg84nk;gao2020:10/gpsx;mestre2020:10/fzk3	DRT	#EFC1F2	#BF9AC1
-RexAB	RexAB	TRUE	NA	parma1992:10/b9xpsb	DG1	#EDED9E	#96971B
-RM Type I	RM_type_I	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
-RM Type II	RM_type_II	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
-RM Type IIG	RM_type_IIG	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
-RM Type III	RM_type_III	TRUE	NA	NA	DMS	#F1F1D1	#CACA56
-RM Type IV	RM_type_IV	TRUE	NA	nA	DMS	#F1F1D1	#CACA56
-RM VSPR	VSPR	TRUE	Very short patch repair system	NA	DMS	#E8DFA2	#D1BE45
 RosmerTA	RosmerTA	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
 SEFIR	SEFIR	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Septu (other)	septu_other	TRUE	NA	NA	DRT	#E7D7D4	#AC7368
-Septu Type I	septu_type_I	TRUE	NA	doron2018:10/ggqhzm	DRT	#E7D7D4	#AC7368
 Shango	Shango	TRUE	NA	millman2022:10/gsdp9b	DMS	#9FB59A	#468F38
-Shedu	shedu	TRUE	Also known as PD-T4-8 (Vassallo 2022)	doron2018:10/ggqhzm;vassallo2022:10/gqwkdp	SG1	#F4C9E7	#D73EA8
-ShosTA	ShosTA	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
+ShosTA	ShosTA	TRUE	Also known as DprA-PRTase (Rousset 2022)	millman2022:10/gsdp9b;rousset2022:10/hnt9	new	#9FB59A	#468F38
 SoFic	SoFic	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-SpbK	spbK	TRUE	NA	johnson2022:10/kw2c	new	#9FB59A	#468F38
-SspABCD	PT_SspABCD	TRUE	Phosphorotioation system modification module	xiong2020:10/ggq8nb;wang2021:10/gbsw	DMS	#FFE4C9	#FF952D
-SspE	PT_SspE	TRUE	Phosphorotioation system restriction module	xiong2020:10/ggq8nb	DMS	#FFE4C9	#FF952D
-SspFGH	PT_SspFGH	TRUE	Phosphorotioation system restriction module	wang2021:10/gbsw	DMS	#FFE4C9	#FF952D
-Stk2	Stk2	TRUE	NA	depardieu2016:10/f9f7dq	SG1	#EDED9E	#96971B
-TerY-P	TerY-P	TRUE	NA	gao2020:10/gpsx	MG1	#D6F2D0	#66CF51
-TerY-P (other)	TerY-P_other	TRUE	NA	NA	MG1	#D6F2D1	#66CF52
-Thoeris (other)	thoeris_other	TRUE	NA	NA	SigPro	#FCE2ED	#EF69A2
-Thoeris Type I	thoeris_type_I	TRUE	NA	doron2018:10/ggqhzm;ka2020:10/dx32;ofir2021:10/gnrx8z	SigPro	#FCE2ED	#EF69A2
-Thoeris Type II	thoeris_type_II	TRUE	NA	payne2021:10/gzgh	SigPro	#FCE2ED	#EF69A2
 Tiamat	Tiamat	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Tin	Tin	TRUE	NA	smith1969:10/gndc4r;rousset2022:10/hnt9	SG1	#EDED9E	#96971B
-TIR-NLR	TIR-NLR	TRUE	NA	rousset2022:10/hnt9	DG1	#D6F2D0	#66CF51
-Tmn	tmn	TRUE	NA	gao2020:10/gpsx	SG1	#FFE4C9	#FF952D
-Upx	upx	TRUE	NA	gao2020:10/gpsx	SG1	#FFE4C9	#FF952D
+Juk	Juk	TRUE	NA	li2022:10/kwzv	new	#9FB59A	#468F38
 Uzume	Uzume	TRUE	NA	millman2022:10/gsdp9b	new	#9FB59A	#468F38
-Viperin (other)	viperin_other	TRUE	NA	NA	MG1	#EBC5ED	#D479D9
-Viperin solo	viperin_solo	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
-Viperin w/ HicA-like toxin	viperin_toxin	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
-Viperin w/ NERD	viperin_nerd	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
-Viperin w/ TPR	viperin_tpr	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
-Viperin-kinase fusion	viperin_kinase_fusion	TRUE	NA	bernheim2021:10/d9ss	MG1	#EBC5ED	#D479D9
-Wadjet (other)	wadjet_other	TRUE	NA	NA	MG1	#D8F0F5	#61C3D5
-Wadjet Type I	wadjet_type_I	TRUE	Also known as Ept (Panas 2014)	doron2018:10/ggqhzm	MG1	#D8F0F5	#61C3D5
-Wadjet Type II	wadjet_type_II	TRUE	NA	doron2018:10/ggqhzm	MG1	#D8F0F5	#61C3D5
-Wadjet Type III	wadjet_type_III	TRUE	NA	doron2018:10/ggqhzm	MG1	#D8F0F5	#61C3D5
-Zorya (other)	zorya_other	TRUE	NA	NA	DMS	#EBC5E5	#BD3FA7
-Zorya Type I	zorya_type_I	TRUE	NA	doron2018:10/ggqhzm	DMS	#EBC5E5	#BD3FA7
-Zorya Type II	zorya_type_II	TRUE	NA	doron2018:10/ggqhzm	DMS	#EBC5E5	#BD3FA7
-Zorya Type III	zorya_type_III	TRUE	NA	doron2018:10/ggqhzm	DMS	#EBC5E5	#BD3FA7
+DNA-modification systems (other)	DMS_other	TRUE	Loose model that captures various DNA-modification system proteins	NA	DMS	#D6D6A5	#9C9C6E
+Hma	hma	TRUE	Helicase-Methylase-ATPase system	payne2021:10/gzgh	DMS	#D6F2D0	#66CF51
+HEC-01	HEC-01	TRUE	Hma-embedded candidate; defence undetected	payneUNPUBLISHED:NA	HEC	#FFD6D5	#FF4945
+HEC-02	HEC-02	TRUE	Hma-embedded candidate	payneUNPUBLISHED:NA	HEC	#FFD6D5	#FF4945
+HEC-03	HEC-03	TRUE	Hma-embedded candidate	payneUNPUBLISHED:NA	HEC	#FFD6D5	#FF4945
+HEC-04	HEC-04	TRUE	Hma-embedded candidate; related to fused PARIS systems	payneUNPUBLISHED:NA	HEC	#FFD6D5	#FF4945
+HEC-05	HEC-05	TRUE	Hma-embedded candidate; related to GmrSD family systems; BrxU	payneUNPUBLISHED:NA	DMS	#FFD6D5	#FF4945
+HEC-06	HEC-06	TRUE	Hma-embedded candidate; related to GmrSD family systems	payneUNPUBLISHED:NA	DMS	#FFD6D5	#FF4945
+HEC-07	HEC-07	TRUE	Hma-embedded candidate	payneUNPUBLISHED:NA	HEC	#FFD6D5	#FF4945
+HEC-08	HEC-08	TRUE	Hma-embedded candidate	payneUNPUBLISHED:NA	HEC	#FFD6D5	#FF4945
+HEC-09	HEC-09	TRUE	Hma-embedded candidate; defence undetected	payneUNPUBLISHED:NA	HEC	#FFD6D5	#FF4945
+PDC-M01	PDC-M01	TRUE	Phage defence candidate; Minor overlap w/ septu_type_I & PDC-M62 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M02	PDC-M02	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M03	PDC-M03	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M04	PDC-M04	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M05	PDC-M05	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M06	PDC-M06	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M07	PDC-M07	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M08	PDC-M08	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M09	PDC-M09	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M10	PDC-M10	TRUE	Phage defence candidate; PDC-M10A == PDC-M13B	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M11	PDC-M11	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M12	PDC-M12	TRUE	Phage defence candidate; Minor overlap w/ AbiL - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M13	PDC-M13	TRUE	Phage defence candidate; PDC-M13B == PDC-M10A; PDC-M13A may appear at start or end of operon	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M14	PDC-M14	TRUE	Phage defence candidate; Minor overlap w/ AbiT - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M15	PDC-M15	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M16	PDC-M16	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M17	PDC-M17	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M18	PDC-M18	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M19	PDC-M19	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M20	PDC-M20	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M21	PDC-M21	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M22	PDC-M22	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M23	PDC-M23	TRUE	Phage defence candidate; Minor overlap w/ hachiman_type_I - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M24	PDC-M24	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M25	PDC-M25	TRUE	Phage defence candidate; Minor overlap w/ HEC-01 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M26	PDC-M26	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M27	PDC-M27	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M28	PDC-M28	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M29	PDC-M29	TRUE	Phage defence candidate; Minor overlap w/ Menshen - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M30	PDC-M30	TRUE	Phage defence candidate; Minor overlap w/ PDC-M41B - possibly related; PDC-M30B == PDC-M41B	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M31	PDC-M31	TRUE	Phage defence candidate; Minor overlap w/ HEC-01 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M32	PDC-M32	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M33	PDC-M33	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M34	PDC-M34	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M35	PDC-M35	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M36	PDC-M36	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M37	PDC-M37	TRUE	Phage defence candidate; Minor overlap w/ Dodola - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M38	PDC-M38	TRUE	Phage defence candidate; Minor overlap w/ AbiL - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M39	PDC-M39	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M40	PDC-M40	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M41	PDC-M41	TRUE	Phage defence candidate; Minor overlap w/ PDC-M30 - possibly related; PDC-M41B == PDC-M30B	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M42	PDC-M42	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M43	PDC-M43	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M44	PDC-M44	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M45	PDC-M45	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M46	PDC-M46	TRUE	Phage defence candidate; Minor overlap w/ Lamassu_Family - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M47	PDC-M47	TRUE	Phage defence candidate; Minor overlap w/ PD-T4-4 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M48	PDC-M48	TRUE	Phage defence candidate; Minor overlap w/ Lamassu_Family - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M49	PDC-M49	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M50	PDC-M50	TRUE	Phage defence candidate; Minor overlap w/ thoeris_type_I - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M51	PDC-M51	TRUE	Phage defence candidate; Minor overlap w/ viperin_solo - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M52	PDC-M52	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M53	PDC-M53	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M54	PDC-M54	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M55	PDC-M55	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M56	PDC-M56	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M57	PDC-M57	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M58	PDC-M58	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M59	PDC-M59	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M60	PDC-M60	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M61	PDC-M61	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M62	PDC-M62	TRUE	Phage defence candidate; Minor overlap w/ septu_type_I & PDC-M01 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M63	PDC-M63	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M64	PDC-M64	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M65	PDC-M65	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M66	PDC-M66	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M67	PDC-M67	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M68	PDC-M68	TRUE	Phage defence candidate; Minor overlap w/ Lamassu_Family - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M69	PDC-M69	TRUE	Phage defence candidate; Minor overlap w/ PDC-S70 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M70	PDC-M70	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M71	PDC-M71	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-M72	PDC-M72	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S01	PDC-S01	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S02	PDC-S02	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S03	PDC-S03	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S04	PDC-S04	TRUE	Phage defence candidate; Minor overlap w/ SoFic - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S05	PDC-S05	TRUE	Phage defence candidate; Minor overlap w/ PDC-S23 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S06	PDC-S06	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S07	PDC-S07	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S08	PDC-S08	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S09	PDC-S09	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S10	PDC-S10	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S11	PDC-S11	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S12	PDC-S12	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S13	PDC-S13	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S14	PDC-S14	TRUE	Phage defence candidate; Minor overlap w/ GAO_29 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S15	PDC-S15	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S16	PDC-S16	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S17	PDC-S17	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S18	PDC-S18	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S19	PDC-S19	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S20	PDC-S20	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S21	PDC-S21	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S22	PDC-S22	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S23	PDC-S23	TRUE	Phage defence candidate; Minor overlap w/ PDC-S05 - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S24	PDC-S24	TRUE	Phage defence candidate; Minor overlap w/ SoFic - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S25	PDC-S25	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S26	PDC-S26	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S27	PDC-S27	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S28	PDC-S28	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S29	PDC-S29	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S30	PDC-S30	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S31	PDC-S31	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S32	PDC-S32	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S33	PDC-S33	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S34	PDC-S34	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S35	PDC-S35	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S36	PDC-S36	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S37	PDC-S37	TRUE	Phage defence candidate; Minor overlap w/ Mokosh_TypeII - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S38	PDC-S38	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S39	PDC-S39	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S40	PDC-S40	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S41	PDC-S41	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S42	PDC-S42	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S43	PDC-S43	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S44	PDC-S44	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S45	PDC-S45	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S46	PDC-S46	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S47	PDC-S47	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S48	PDC-S48	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S49	PDC-S49	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S50	PDC-S50	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S51	PDC-S51	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S52	PDC-S52	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S53	PDC-S53	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S54	PDC-S54	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S55	PDC-S55	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S56	PDC-S56	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S57	PDC-S57	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S58	PDC-S58	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S59	PDC-S59	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S60	PDC-S60	TRUE	Phage defence candidate; Minor overlap w/ SEFIR - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S61	PDC-S61	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S62	PDC-S62	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S63	PDC-S63	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S64	PDC-S64	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S65	PDC-S65	TRUE	Phage defence candidate; Minor overlap w/ SEFIR - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S66	PDC-S66	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S67	PDC-S67	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S68	PDC-S68	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S69	PDC-S69	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S70	PDC-S70	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S71	PDC-S71	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S72	PDC-S72	TRUE	Phage defence candidate; Minor overlap w/ SoFic - possibly related	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+PDC-S73	PDC-S73	TRUE	Phage defence candidate	payneUNPUBLISHED:NA	PDC	#FFD6D5	#FF4945
+Adjacent protein	adjacent	FALSE	Search should be set to FALSE; Only used by the PADLOC web server for drawing adjacent genes	NA	NA	#CCCCCC	#666666
+CRISPR-Cas array	cas_type_arrays	TRUE	Captures CRISPR arrays	NA	CRISPR	#F9BA9A	#B8440A
