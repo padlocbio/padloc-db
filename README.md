@@ -67,7 +67,7 @@ prohibited_genes:      # <- Genes that cannot be present
 | `protein.name`              | `PemK\|MazF`           | The name of the protein that the HMM represents. Multiple protein names are separated by a pipe (`\|`). Capitalisation of the first letter is preferred. These are the names that are referenced in the system models. |
 | `secondary.name`            | `cas_effector`         | A secondary identifier that can be references in the system definition for groups of proteins rather than individual protein names. |
 | `author`                    | `Payne LJ, Jackson SA` | Author(s) of the entry. If the HMM is from an external database, crediting the original author is preferred. If the HMM is from a study where an author was not explicity credited, authorship is attributed to the first author of the study. Multiple authors are separated by a comma (`, `). |
-| `e.value.threshold`         | `1e-05`                | The minimum E-value allowed when reporting hits. |
+| `e.value.threshold`         | `1e-05`                | The minimum domain iE-value allowed when reporting hits. |
 | `hmm.coverage.threshold`    | `0.3`                  | The proportion of the HMM that must contribute to the HMM/target alignment when reporting hits. |
 | `target.coverage.threshold` | `0.3`                  | The proportion of the target that must contribute to the HMM/target alignment when reporting hits. |
 | `literature.ref`            | `10/f2wkj3`            | The DOI for the literature that implies that the HMM or underlying protein sequences belong to a particular protein family or defence system.  Multiple references are separated by a comma (`, `). DOIs can be resolved at [doi.org](https://www.doi.org/). |
